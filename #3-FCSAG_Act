@@ -1,0 +1,3129 @@
+================================================================================
+                        ________________ CONGRESS | __ Session
+                               H.R./S. ____
+================================================================================
+
+                          __________ CONGRESS, __ SESSION
+                               __________, ____
+
+[CHAMBER TO BE DETERMINED UPON INTRODUCTION]
+
+__________ introduced the following bill, which was referred to the Committee
+on Armed Services, and in addition to the Committees on Science, Space, and
+Technology, Energy and Commerce, the Judiciary, Financial Services, and
+Oversight and Accountability, for a period to be subsequently determined by
+the presiding officer, in each case for consideration of such provisions as
+fall within the jurisdiction of the committee concerned.
+
+================================================================================
+
+                                   A BILL
+
+To reorient national defense posture from power-projection toward resilience-
+based security consistent with the commons infrastructure established by the
+Federal Resilience and Decentralization Initiatives Act; to govern automated
+systems deployed in commons-critical infrastructure; to establish an open-source
+analytics commons and mandate the commons contribution of intelligence-community-
+funded analytics platforms; to prohibit algorithmic governance of individual
+rights; to provide for the protection of the Federated Network against foreign
+and domestic sabotage; to establish an automation dividend ensuring that
+productivity gains from automated production are distributed through the commons
+rather than concentrated in private hands; and to provide for the long-term
+strategic security of the United States on foundations of material resilience
+rather than petrodollar protection.
+
+Be it enacted by the Senate and House of Representatives of the United States
+of America in Congress assembled,
+
+================================================================================
+SECTION 1. SHORT TITLE.
+================================================================================
+
+This Act may be cited as the "Federal Commons Security and Automation
+Governance Act" or the "FCSAG."
+
+================================================================================
+SECTION 2. TABLE OF CONTENTS.
+================================================================================
+
+Sec. 1.   Short Title.
+Sec. 2.   Table of Contents.
+Sec. 3.   Findings.
+Sec. 4.   Definitions.
+
+TITLE I -- RESILIENCE-BASED DEFENSE POSTURE
+
+Sec. 101. Resilience-Based Defense Posture -- Declaration and Doctrine.
+Sec. 102. Commons Infrastructure Protection as Defense Mission.
+Sec. 103. Force Structure Transition.
+Sec. 104. Intelligence Apparatus Reform.
+
+TITLE II -- COMMONS NETWORK SECURITY
+
+Sec. 201. Commons Infrastructure as Critical National Infrastructure.
+Sec. 202. Foreign Adversarial Interference -- Prohibitions and Responses.
+Sec. 203. Domestic Enclosure Attempts -- Security Classification.
+Sec. 204. Commons Security Information Sharing.
+Sec. 205. Commons Security Research and Development.
+Sec. 206. Protection of Commons Governance from Infiltration.
+Sec. 207. Criminal Penalties.
+
+TITLE III -- THE ANALYTICS COMMONS
+
+Sec. 301. Establishment of the Analytics Commons.
+Sec. 302. Intelligence-Community-Funded Analytics Platform Capture.
+Sec. 303. Open-Source Analytics Development Program.
+Sec. 304. Analytics Commons and Military Logistics Integration.
+Sec. 305. Analytics Commons Data Standards.
+Sec. 306. Analytics Commons Governance Council.
+
+TITLE IV -- AUTOMATION GOVERNANCE
+
+Sec. 401. The Commons Automation Principle.
+Sec. 402. The Automation Dividend.
+Sec. 403. The Open-Source Automation Mandate.
+Sec. 404. Algorithmic Governance Prohibition.
+Sec. 405. Automation and Creative Labor.
+Sec. 406. Automation Governance Council.
+
+TITLE V -- ADMINISTRATIVE AND JUDICIAL PROVISIONS
+
+Sec. 501. Dependency on the FRDI Act and HRCR Act.
+Sec. 502. Executive Branch Compliance Mechanisms.
+Sec. 503. Constitutional Safe Harbor.
+Sec. 504. Severability.
+Sec. 505. Judicial Review.
+Sec. 506. Conforming Amendments.
+Sec. 507. Authorization of Appropriations.
+Sec. 508. Effective Date.
+
+================================================================================
+SECTION 3. FINDINGS.
+================================================================================
+
+Congress finds the following:
+
+--- Constitutional Basis ---
+
+(1) The Constitution of the United States vests in Congress, under Article I,
+Section 8, the power to provide for the common defense, to raise and support
+armies, to maintain a navy, to make rules for the government and regulation of
+the land and naval forces, and to make all laws necessary and proper for
+carrying these powers into execution. These powers are granted for the purpose
+of securing the safety and welfare of the American people, not for the purpose
+of maintaining any particular global monetary arrangement or projecting military
+power in service of private economic interests.
+
+(2) The Preamble to the Constitution enumerates the purposes of the federal
+government as including the establishment of justice, the insurance of domestic
+tranquility, the provision for the common defense, the promotion of the general
+welfare, and the securing of the blessings of liberty. A defense posture oriented
+toward protecting petrodollar hegemony serves some of these purposes poorly and
+others not at all, and no interpretation of the constitutional defense power can
+sustain indefinitely a military posture whose costs are borne by the general
+public while its primary benefits flow to the holders of dollar-denominated
+financial assets.
+
+(3) The Fifth Amendment to the Constitution prohibits the deprivation of liberty
+without due process of law. Automated systems that make or substantially
+determine governmental decisions affecting individual rights without meaningful
+human review constitute a deprivation of liberty without the process that the
+Constitution demands, and no efficiency argument can justify the replacement of
+constitutionally required human judgment with algorithmic determination.
+
+(4) The First and Fourth Amendments to the Constitution protect the freedom of
+association and the right of the people to be secure against unreasonable
+searches. Mass surveillance architectures, whether operated by governmental
+actors directly or by private entities under governmental direction or
+inducement, constitute ongoing violations of these protections at a scale
+unprecedented in the history of constitutional governance.
+
+--- The Strategic Rationale for Defense Posture Reorientation ---
+
+(5) The military posture of the United States has been organized, since at
+least the early 1970s, substantially around the protection and extension of the
+petrodollar system: the arrangement by which global energy markets are
+denominated in United States dollars, generating sustained global demand for
+dollar-denominated assets and enabling the United States to finance its
+government and trade deficits through the issuance of currency rather than
+through the production of goods and services. The maintenance of this
+arrangement has required the deployment of military force, the maintenance of
+overseas basing infrastructure, and the cultivation of alliance and client
+relationships whose primary purpose is the protection of dollar hegemony rather
+than the mutual security of allied peoples.
+
+(6) The resource upon which the petrodollar system depends, petroleum, is
+finite. Its accessible reserves are being depleted at rates that no policy
+can reverse, and the timeline of its displacement as the primary source of
+global energy is determined not by political choice but by the accelerating
+economics of renewable alternatives and the accumulating ecological
+consequences of combustion. The scientific consensus on anthropogenic climate
+change, established through decades of convergent empirical research, documents
+that the combustion of fossil fuels is the primary driver of atmospheric
+warming whose consequences include rising sea levels, intensifying extreme
+weather events, disruption of agricultural systems, and the displacement of
+human populations at scales that constitute security threats of the first order.
+A defense posture organized around protecting access to a finite resource whose
+combustion actively generates the conditions that defense posture is supposed
+to prevent is not a rational security strategy; it is a strategy for accelerating
+the threats it purports to address.
+
+(7) The renewable energy alternatives displacing petroleum are structurally more
+compatible with commons governance than fossil fuel systems have ever been.
+Petroleum extraction requires centralized infrastructure, long-distance
+distribution networks, and concentrations of capital that make it a natural
+monopoly and a natural instrument of geopolitical leverage. Distributed renewable
+generation, by contrast, is precisely the kind of resource that cooperative
+microgrids, community energy enterprises, and federated commons networks are
+designed to govern. The energy transition therefore represents not only an
+environmental and ecological imperative but an institutional opportunity: the
+progressive replacement of a resource whose scarcity and centralization
+supported extractive power arrangements with resources whose distributed
+abundance supports commons governance. The defense posture reorientation
+established by this Act is designed to accompany and accelerate that transition
+rather than to obstruct it.
+
+(8) The strategic costs of petrodollar-dependent defense posture are not
+theoretical. Recent American military and diplomatic involvement in the Persian
+Gulf region, including operations and posturing connected to tensions over
+navigation rights in the Strait of Hormuz, has subordinated American security
+commitments to the protection of fossil fuel shipping lanes whose strategic
+significance diminishes with every solar panel installed and every cooperative
+microgrid energized. American economic and military pressure on Venezuela,
+a nation whose primary geopolitical significance to the United States derives
+from its petroleum reserves rather than from any genuine security relationship,
+illustrates the same pattern: military and economic instruments deployed in
+service of resource access rather than in service of the security and welfare
+of the American people. Congress finds that a defense posture capable of
+generating these commitments is a defense posture in need of fundamental
+reorientation, and that the domestic commons infrastructure established by the
+Federal Resilience and Decentralization Initiatives Act creates, for the first
+time, the material conditions under which that reorientation is strategically
+coherent.
+
+(9) The domestic commons infrastructure established by the Federal Resilience
+and Decentralization Initiatives Act -- including distributed renewable energy
+cooperatives, cooperative food systems, resilient local manufacturing, and the
+Commons Credit monetary architecture -- constitutes a strategic hedge against
+petrodollar fragility by providing communities with the material self-sufficiency
+to maintain the Guaranteed Provision Standard regardless of the condition of
+global currency markets or the availability of imported fossil fuels. As this
+infrastructure matures and the commons economy's renewable energy capacity
+grows, the strategic rationale for a defense posture oriented around petrodollar
+protection and fossil fuel access diminishes correspondingly, creating the
+conditions for a genuine reorientation of national security strategy toward
+resilience-based defense. The full restructuring of American alliance obligations
+in light of this reorientation is addressed in subsequent legislation anticipated
+by Section 906(c) of the Federal Resilience and Decentralization Initiatives Act.
+
+(10) A resilience-based defense posture, organized around the protection of
+commons infrastructure, the deterrence of direct attacks on American territory
+and allied commons institutions, and the reduction of the overseas military
+footprint whose costs the American people bear without commensurate security
+benefit, serves the constitutional mandate to provide for the common defense
+more faithfully than the current power-projection posture, whose costs have
+grown while its security returns have diminished and whose continued operation
+requires the perpetuation of fossil fuel dependence that both economic and
+ecological reality are already ending.
+
+--- Automation, Labor, and the Commons ---
+
+(11) Automated systems -- including artificial intelligence, machine learning,
+robotics, and algorithmic decision-making platforms -- are progressively
+displacing human labor across the full range of productive activities: in
+manufacturing, logistics, agriculture, professional services, creative work,
+and governance. The central question posed by this displacement is not whether
+it will occur but who will capture the productivity gains it generates. Under
+the current economic arrangement, those gains flow primarily to the owners of
+the automated systems, while the workers whose labor is displaced bear the
+costs of displacement without claim on the abundance automation creates.
+
+(12) The commons economy established by the Federal Resilience and
+Decentralization Initiatives Act provides the institutional architecture for
+a different answer to this question: automated systems deployed within the
+Federated Network are governed as commons resources, their productivity gains
+are distributed through improvements to the Guaranteed Provision Standard and
+reductions in required labor contributions, and no individual or enterprise
+may capture the benefits of commons-deployed automation at the expense of the
+Commons Members whose collective infrastructure made the automation possible.
+
+(13) The governance of automated systems is not only an economic question but a
+security question. Automated systems controlling critical infrastructure --
+energy grids, food production systems, water treatment, communications networks,
+and financial settlement infrastructure -- represent potential vectors for both
+foreign adversarial interference and domestic oligarchic capture. A nation that
+allows its critical infrastructure automation to be governed by proprietary
+platforms under the control of private actors has not secured its infrastructure;
+it has simply transferred the security risk from foreign actors to domestic ones.
+
+(14) The open-source, commons-governed automation architecture established by
+this Act -- in which all automated systems deployed in commons-critical
+infrastructure are transparent, auditable, and governed through the democratic
+processes of the Federated Network -- constitutes a genuine security improvement
+over both proprietary automation under private control and centralized
+governmental automation under administrative control. Distributed, transparent,
+community-governed automation is more resilient, more accountable, and more
+difficult to capture or corrupt than either alternative.
+
+--- Analytics Platforms and the Intelligence Commons ---
+
+(15) The United States government has, over decades of investment in intelligence
+community technology programs, funded the development of sophisticated data
+integration and analytics platforms whose core capabilities -- the integration
+of heterogeneous data sources, the production of coherent operational pictures
+for complex decision-making, and the coordination of logistics and resource
+flows -- are precisely the capabilities that federated commons networks require
+to govern themselves effectively. The concentration of these capabilities in
+proprietary platforms under the control of private defense contractors, many of
+whose foundational technologies were developed through public investment, is
+inconsistent with the principle that publicly funded capabilities should serve
+public purposes.
+
+(16) The commons analytics infrastructure established by this Act -- providing
+Qualified Federated Networks with open-source, community-governed data
+integration and decision-support tools -- does not replicate surveillance
+capitalism within the commons. It replaces surveillance capitalism with
+transparency-based commons governance, in which analytical capabilities serve
+the communities that use them rather than the shareholders of the platforms that
+provide them.
+
+(17) The specific analytics platforms developed through intelligence community
+investment -- including those whose foundational technologies trace to In-Q-Tel
+and related intelligence community venture capital programs -- represent a
+category of publicly funded intellectual property that is subject to the commons
+recapture principles of the Federal Resilience and Decentralization Initiatives
+Act. The commons capture of these platforms, and their transformation into
+open-source commons governance tools, serves both the purposes of that Act and
+the national security interest in ensuring that the most powerful data
+integration capabilities available are governed democratically rather than
+proprietary.
+
+--- Human Oversight of Automated Systems ---
+
+(18) Automated systems are not capable of exercising the contextual judgment,
+the ethical deliberation, or the democratic accountability that governance of
+human communities requires. The empirical record of automated decision-making
+in consequential domains -- including criminal justice risk assessment, social
+benefit eligibility determination, hiring and credit decisions, and military
+targeting -- demonstrates systematic bias, opacity, and the amplification of
+existing injustices at scales that human decision-making could not achieve.
+The prohibition on algorithmic governance of individual rights established by
+this Act is not a rejection of automation as a tool; it is a protection of the
+human deliberative processes that the Constitution requires and that the
+commons governance architecture of the Federal Resilience and Decentralization
+Initiatives Act embodies.
+
+(19) The Human-in-the-Loop Layer established under the Federal Resilience and
+Decentralization Initiatives Act reflects an empirical finding, confirmed by
+the DARPA Systematizing Confidence in Open Research and Evidence program and
+by the broader literature on automated decision-making, that human oversight
+is not merely a procedural protection but a substantive improvement: human
+reviewers applying contextual judgment to automated determinations produce
+more accurate, more just, and more legitimate outcomes than automated systems
+operating without that oversight, across the full range of consequential
+decision domains.
+
+--- This Act's Relationship to the Legislative Program ---
+
+(20) This Act is the third of four legislative vehicles constituting a complete
+transition program from the extractive, punitive, and militarist order to a
+federated commons organized around abundance, restoration, and solidarity. The
+Federal Resilience and Decentralization Initiatives Act established the material
+commons. The Human Reclamation and Community Restorative Act established the
+social commons. This Act establishes the strategic commons: the defense posture,
+automation governance, and analytics infrastructure that protect and extend what
+the first two Acts built. The fourth Act, addressing NATO obligations and
+international alliance restructuring in detail, is anticipated in the finding of
+Section 906(c) of the Federal Resilience and Decentralization Initiatives Act
+and in the foreign policy coherence provision of Section 405 of the Human
+Reclamation and Community Restorative Act.
+
+(21) The defense posture reorientation established by this Act is made
+strategically coherent by the domestic commons infrastructure that the Federal
+Resilience and Decentralization Initiatives Act creates. A nation whose
+communities possess distributed, locally governed capacity to generate energy,
+produce food, manufacture essential goods, and coordinate resources through
+resilient peer-to-peer networks does not require a military posture organized
+around the protection of centralized corporate supply chains and dollar-
+denominated commodity markets. The domestic resilience infrastructure is the
+strategic foundation; this Act builds the security architecture on top of it.
+
+(22) This Act does not create a new defense establishment or a new administrative
+apparatus for automation governance from theoretical foundations. The defense
+posture reorientation it authorizes builds upon the existing capabilities,
+relationships, and institutional knowledge of the Department of Defense and the
+intelligence community, redirecting them toward purposes consistent with the
+commons values of this legislative program. The automation governance
+architecture it establishes builds upon the open-source software commons,
+the cooperative technology sector, and the commons analytics work already
+underway in academic and civil society institutions, providing the legal
+framework and public investment that allows what already exists at the margins
+to function at national scale. The open-source commons already governs
+technical infrastructure of extraordinary scale and consequence: the Apache
+Software Foundation governs more than 350 open-source projects whose
+software underlies the majority of internet servers worldwide; the Linux
+Foundation governs the Linux kernel and hundreds of related projects on which
+the majority of cloud computing infrastructure runs; the Mozilla Foundation has
+sustained a commons-governed web browser and internet standards participation
+for more than two decades. These institutions demonstrate, at scale and in
+production, that commons governance of critical technical infrastructure is not
+a theoretical proposition but an operational reality. The Analytics Commons
+and Open-Source Automation Mandate established by this Act build upon this
+demonstrated foundation rather than constructing a new institutional form from
+scratch.
+
+================================================================================
+SECTION 4. DEFINITIONS.
+================================================================================
+
+In this Act:
+
+(1) ANALYTICS COMMONS.-- The term "Analytics Commons" means the federated,
+open-source data integration and decision-support infrastructure established
+under Title III of this Act, comprising commons-governed software tools,
+governance datasets, and coordination platforms that provide Qualified Federated
+Networks with the analytical capabilities necessary to govern their resource
+flows, monitor commons health, and coordinate inter-network exchanges, and that
+are held as commons resources under the Intellectual Property Commons established
+by the Federal Resilience and Decentralization Initiatives Act.
+
+(2) AUTOMATION DIVIDEND.-- The term "Automation Dividend" means the mechanism
+established under Section 402 of Title IV of this Act by which productivity gains
+generated by automated systems deployed within the Federated Network are
+distributed to Commons Members through reductions in required labor contributions,
+improvements to the Guaranteed Provision Standard, and contributions to the
+Bootstrap Grant Program, rather than through accumulation by any individual
+member, enterprise, or external party.
+
+(3) COMMONS AUTOMATION PRINCIPLE.-- The term "Commons Automation Principle"
+means the governing principle established under Section 401 of Title IV of this
+Act that automated systems deployed within the Federated Network are governed as
+commons resources whose productive output serves the material wellbeing of all
+Commons Members, that no automated system deployed in commons infrastructure
+may be used to concentrate productive gains in any individual or enterprise at
+the expense of the broader membership, and that automation serves the commons
+rather than replacing it.
+
+(4) COMMONS MEMBER.-- The term "Commons Member" has the meaning given such term
+in Section 4(4) of the Federal Resilience and Decentralization Initiatives Act.
+
+(5) FEDERATED COMMONS MEMBERSHIP.-- The term "Federated Commons Membership"
+has the meaning given such term in Section 4(7) of the Federal Resilience and
+Decentralization Initiatives Act.
+
+(6) FEDERATED MESH OPEN STANDARD or FMOS.-- The term "Federated Mesh Open
+Standard" has the meaning given such term in Section 4(9) of the Federal
+Resilience and Decentralization Initiatives Act.
+
+(7) GUARANTEED PROVISION STANDARD.-- The term "Guaranteed Provision Standard"
+has the meaning given such term in Section 4(10) of the Federal Resilience and
+Decentralization Initiatives Act.
+
+(8) HUMAN-IN-THE-LOOP LAYER or HITL.-- The term "Human-in-the-Loop Layer" has
+the meaning given such term in Section 4(11) of the Federal Resilience and
+Decentralization Initiatives Act.
+
+(9) INTELLIGENCE-COMMUNITY-FUNDED ANALYTICS PLATFORM.-- The term "Intelligence-
+Community-Funded Analytics Platform" means any software platform, data
+integration system, or algorithmic decision-support tool whose foundational
+capabilities were developed, in whole or in significant part, through funding
+from In-Q-Tel, the Defense Advanced Research Projects Agency, the National
+Security Agency, the Central Intelligence Agency, the Defense Intelligence
+Agency, or any other element of the United States Intelligence Community, as
+defined in 50 U.S.C. section 3003, regardless of the current ownership or
+operational status of the platform.
+
+(10) NATIONAL RESILIENCE LEDGER or NRL.-- The term "National Resilience Ledger"
+has the meaning given such term in Section 4(14) of the Federal Resilience and
+Decentralization Initiatives Act.
+
+(11) OPEN-SOURCE AUTOMATION MANDATE.-- The term "Open-Source Automation Mandate"
+means the requirement established under Section 403 of Title IV of this Act
+that all automated systems deployed in commons-critical infrastructure be
+released under a copyleft open-source license, be publicly auditable, and be
+governed through the democratic processes of the Qualified Federated Network
+within whose infrastructure they operate.
+
+(12) OSTROM STANDARDS OF STEWARDSHIP.-- The term "Ostrom Standards of
+Stewardship" has the meaning given such term in Section 4(16) of the Federal
+Resilience and Decentralization Initiatives Act.
+
+(13) QUALIFIED FEDERATED COOPERATIVE or QFC.-- The term "Qualified Federated
+Cooperative" has the meaning given such term in Section 4(19) of the Federal
+Resilience and Decentralization Initiatives Act.
+
+(14) QUALIFIED FEDERATED NETWORK or QFN.-- The term "Qualified Federated
+Network" has the meaning given such term in Section 4(20) of the Federal
+Resilience and Decentralization Initiatives Act.
+
+(15) RESILIENCE-BASED DEFENSE POSTURE.-- The term "Resilience-Based Defense
+Posture" means the national security doctrine established under Title I of this
+Act, under which the primary mission of the United States Armed Forces is the
+protection of the territorial integrity of the United States and its allies,
+the deterrence of direct attacks on the commons infrastructure of the Federated
+Network and on partner commons networks internationally, and the maintenance of
+a force structure calibrated to those missions rather than to the projection of
+power in service of global monetary arrangements or extractive economic
+interests.
+
+(16) STRATEGIC COMMONS INFRASTRUCTURE.-- The term "Strategic Commons
+Infrastructure" means the distributed, community-governed material infrastructure
+of the Federated Network whose protection constitutes the primary domestic
+security mission under the Resilience-Based Defense Posture, including: the
+energy generation and distribution capacity of cooperative energy enterprises;
+the food production and distribution capacity of commons agricultural
+enterprises; the water treatment and distribution infrastructure of commons
+water systems; the communications infrastructure of the Federated Mesh; and
+the financial settlement infrastructure of the National Resilience Ledger.
+
+(17) ZERO-KNOWLEDGE PROOF or ZKP.-- The term "Zero-Knowledge Proof" has the
+meaning given such term in Section 4(22) of the Federal Resilience and
+Decentralization Initiatives Act.
+
+================================================================================
+TITLE I -- RESILIENCE-BASED DEFENSE POSTURE
+================================================================================
+
+The purpose of this Title is to establish the statutory foundation for the
+reorientation of United States national security doctrine from a posture of
+global power projection organized around the protection of dollar-denominated
+energy markets to a posture of resilience-based defense organized around the
+protection of the territorial integrity of the United States, the security of
+commons infrastructure, and the deterrence of direct attacks on the American
+people and their allied commons partners. This Title does not diminish American
+military capability. It redirects that capability toward missions that
+genuinely serve the security and welfare of the American people, and away from
+missions whose primary beneficiaries are the holders of dollar-denominated
+financial assets and the operators of fossil fuel infrastructure. The force
+structure transition authorized by this Title is phased, deliberate, and tied
+to the maturation of the domestic commons infrastructure whose resilience is
+the strategic foundation of the new posture. Nothing in this Title shall be
+construed to authorize any reduction in the readiness or capability of the
+Armed Forces to defend the territorial integrity of the United States against
+direct attack.
+
+--------------------------------------------------------------------------------
+SEC. 101. RESILIENCE-BASED DEFENSE POSTURE -- DECLARATION AND DOCTRINE.
+--------------------------------------------------------------------------------
+
+(a) DECLARATION.-- It is hereby declared to be the policy of the United States
+that the primary missions of the United States Armed Forces are:
+
+    (1) the defense of the territorial integrity of the United States against
+    direct attack by any foreign power or non-state actor;
+
+    (2) the deterrence of attacks on the Strategic Commons Infrastructure of
+    the Federated Network, as defined in Section 4(16) of this Act, and on
+    the commons infrastructure of partner nations with whom the United States
+    has entered bilateral or multilateral commons federation agreements pursuant
+    to Section 1005 of the Federal Resilience and Decentralization Initiatives
+    Act;
+
+    (3) the protection of freedom of navigation and overflight in international
+    waters and airspace, in concert with allied and partner nations, to the
+    extent that such protection serves the genuine security interests of the
+    United States and its allies rather than the commercial interests of fossil
+    fuel exporters or dollar-denominated commodity traders;
+
+    (4) the deterrence and, where necessary, defeat of weapons of mass
+    destruction threats through the maintenance of a minimum credible nuclear
+    deterrent and through active participation in multilateral nonproliferation
+    and disarmament frameworks; and
+
+    (5) humanitarian assistance and disaster relief, in support of civil
+    authorities and allied governments, with particular priority given to
+    responses to the climate-related disasters whose increasing frequency and
+    severity the findings of this Act identify as a consequence of the fossil
+    fuel dependence this Act is designed to end.
+
+(b) MISSIONS NO LONGER CONSTITUTING PRIMARY DEFENSE POLICY.-- It is the policy
+of the United States that the following activities, which have consumed
+substantial defense resources without commensurate benefit to the security and
+welfare of the American people, shall not constitute primary missions of the
+United States Armed Forces:
+
+    (1) the protection of fossil fuel extraction, processing, or distribution
+    infrastructure owned or operated by private entities, whether domestic or
+    foreign, except as incidental to the defense of allied territory or the
+    protection of freedom of navigation under subsection (a)(3) of this Section;
+
+    (2) the projection of military force to maintain the denomination of global
+    energy markets in United States dollars or to deter the development of
+    alternative monetary arrangements by foreign governments or international
+    institutions;
+
+    (3) the conduct of regime change operations, covert destabilization programs,
+    or military interventions whose primary purpose is the installation or
+    maintenance of governments favorable to American corporate resource
+    interests rather than to the genuine security interests of the United States
+    or the self-determination of the peoples concerned; and
+
+    (4) the maintenance of overseas basing infrastructure whose strategic
+    rationale derives primarily from its proximity to fossil fuel reserves or
+    shipping routes rather than from a genuine mutual security relationship with
+    the host nation.
+
+(c) DOCTRINAL REVIEW.-- Within one year of the date of enactment of this Act,
+the Secretary of Defense shall conduct a comprehensive review of the National
+Defense Strategy, the National Military Strategy, and all subordinate strategic
+guidance documents, and shall revise those documents to reflect the Resilience-
+Based Defense Posture declared in subsection (a) of this Section. The revised
+documents shall:
+
+    (1) identify each current mission, deployment, basing arrangement, and
+    alliance commitment of the United States Armed Forces;
+
+    (2) assess each identified item against the primary missions established
+    in subsection (a) of this Section and the missions no longer constituting
+    primary defense policy under subsection (b) of this Section;
+
+    (3) recommend a phased transition plan for each deployment, basing
+    arrangement, or alliance commitment that does not align with the primary
+    missions of subsection (a), with transition timelines tied to the
+    maturation benchmarks established in Section 103 of this Title; and
+
+    (4) identify the force structure changes, basing consolidations, and
+    procurement modifications necessary to implement the Resilience-Based
+    Defense Posture within the transition timeline established in Section 103
+    of this Title.
+
+(d) REPORT TO CONGRESS.-- The Secretary of Defense shall submit the revised
+strategic guidance documents and the phased transition plan required by
+subsection (c) of this Section to the congressional defense committees within
+thirty days of their completion. The submission shall include a classified
+annex addressing sensitive operational details and an unclassified summary
+suitable for public release, recorded on the National Resilience Ledger as
+part of the commons governance history of this legislative program.
+
+--------------------------------------------------------------------------------
+SEC. 102. COMMONS INFRASTRUCTURE PROTECTION AS DEFENSE MISSION.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the Strategic Commons Infrastructure of the
+Federated Network constitutes critical national infrastructure whose disruption
+by foreign adversarial action, domestic sabotage, or cyberattack would impair
+the delivery of the Guaranteed Provision Standard to Commons Members and
+undermine the material resilience that this legislative program is designed to
+build. The protection of this infrastructure is therefore a genuine national
+security mission, distinct from and additional to the conventional military
+missions of territorial defense and force-on-force deterrence.
+
+(b) COMMONS INFRASTRUCTURE THREAT ASSESSMENT.-- Within one hundred eighty days
+of the date of enactment of this Act, the Secretary of Defense, acting in
+coordination with the Director of National Intelligence and the Director of
+the Cybersecurity and Infrastructure Security Agency, shall complete a
+comprehensive threat assessment identifying:
+
+    (1) the specific categories of foreign adversarial action, including
+    cyberattack, supply chain interdiction, electromagnetic pulse attack,
+    and physical sabotage, that pose the greatest risks to the Strategic
+    Commons Infrastructure of the Federated Network;
+
+    (2) the specific vulnerabilities in the commons infrastructure architecture
+    -- including the Federated Mesh, the National Resilience Ledger, cooperative
+    energy microgrids, and commons food and water systems -- that are most
+    susceptible to exploitation by the identified threat categories;
+
+    (3) the defensive measures, both technical and operational, that would most
+    effectively reduce the identified vulnerabilities, with particular attention
+    to measures consistent with the distributed, open-source architecture of
+    the Federated Network; and
+
+    (4) the interface between the Department of Defense's existing critical
+    infrastructure protection programs and the specific security requirements
+    of the commons infrastructure established by the Federal Resilience and
+    Decentralization Initiatives Act.
+
+(c) COMMONS INFRASTRUCTURE DEFENSE PROGRAM.-- Within one year of the completion
+of the threat assessment required by subsection (b) of this Section, the
+Secretary of Defense shall establish a Commons Infrastructure Defense Program
+providing:
+
+    (1) dedicated cyber defense support for the Federated Mesh and the National
+    Resilience Ledger, including threat intelligence sharing between the
+    Department of Defense and certified Qualified Federated Networks on a
+    voluntary, consent-based basis consistent with the privacy protections of
+    Title IV of the Federal Resilience and Decentralization Initiatives Act;
+
+    (2) hardening support for cooperative energy microgrids and other commons
+    infrastructure against electromagnetic pulse and directed energy threats,
+    drawing upon the dual-use technology transfer provisions of Title IX of
+    the Federal Resilience and Decentralization Initiatives Act;
+
+    (3) training and exercise programs for Qualified Federated Networks in
+    resilience operations under degraded infrastructure conditions, including
+    the Local Resilience Mode protocols established under Section 704(b) of
+    the Federal Resilience and Decentralization Initiatives Act; and
+
+    (4) a rapid response capability for commons infrastructure restoration
+    following attack or natural disaster, staffed by military engineers and
+    technicians with expertise in distributed energy, water, and communications
+    systems, available to assist certified Qualified Federated Networks upon
+    request.
+
+(d) GOVERNANCE OF COMMONS INFRASTRUCTURE DEFENSE.-- The Commons Infrastructure
+Defense Program established under subsection (c) of this Section shall be
+governed by the following principles, ensuring that defense support for the
+Federated Network does not replicate within the commons the surveillance and
+control relationships that this legislative program is designed to replace:
+
+    (1) all defense support provided to a Qualified Federated Network under
+    this Section shall be provided upon the network's voluntary request and
+    shall not be conditioned on any governance, operational, or reporting
+    requirement beyond those already established under the Federal Resilience
+    and Decentralization Initiatives Act;
+
+    (2) no element of the Department of Defense or the Intelligence Community
+    shall use the Commons Infrastructure Defense Program as a vehicle for
+    collecting intelligence on the governance, membership, resource flows, or
+    political activities of any Qualified Federated Network or its members;
+
+    (3) threat intelligence shared with Qualified Federated Networks under
+    paragraph (1) of subsection (c) of this Section shall be provided in
+    forms that enable the network to defend its infrastructure without
+    disclosing sources, methods, or classified operational details; and
+
+    (4) the Commons Infrastructure Defense Program shall be subject to annual
+    oversight review by the congressional intelligence and armed services
+    committees, with a public summary of the review recorded on the National
+    Resilience Ledger.
+
+--------------------------------------------------------------------------------
+SEC. 103. FORCE STRUCTURE TRANSITION.
+--------------------------------------------------------------------------------
+
+(a) PURPOSE.-- The force structure transition established by this Section
+provides the phased, conditions-based framework within which the Department of
+Defense realigns its basing, deployment, and procurement posture to reflect
+the Resilience-Based Defense Posture declared in Section 101 of this Title.
+The transition is deliberately tied to the maturation of the domestic commons
+infrastructure, ensuring that reductions in the overseas military footprint
+occur as the strategic rationale for that footprint diminishes rather than
+before it does. No transition milestone under this Section shall be implemented
+if the Secretary of Defense certifies to Congress, with specific written
+findings, that implementation would create an unacceptable gap in the
+genuine security commitments identified in Section 101(a) of this Title.
+
+(b) PHASE 1 -- FOSSIL FUEL MISSION REDUCTION (YEARS 1 THROUGH 5).-- During
+the five-year period following the date of enactment of this Act, the
+Department of Defense shall:
+
+    (1) complete the doctrinal review required by Section 101(c) of this Title
+    and publish the revised National Defense Strategy reflecting the Resilience-
+    Based Defense Posture;
+
+    (2) identify and begin the drawdown of basing and deployment arrangements
+    whose primary strategic rationale, as assessed under Section 101(c)(2) of
+    this Title, is the protection of fossil fuel infrastructure or the
+    maintenance of petrodollar arrangements rather than the genuine security
+    missions of Section 101(a);
+
+    (3) redirect not less than ten percent of the annual defense budget savings
+    realized through basing consolidations and deployment drawdowns during this
+    phase to the Bootstrap Grant Program established under Section 106 of the
+    Federal Resilience and Decentralization Initiatives Act, accelerating the
+    domestic commons infrastructure whose maturation is the strategic foundation
+    of the Resilience-Based Defense Posture; and
+
+    (4) complete the dual-use technology transfer program of Title IX of the
+    Federal Resilience and Decentralization Initiatives Act, ensuring that the
+    civilian commons infrastructure receives the full benefit of publicly funded
+    defense research before the completion of Phase 1.
+
+(c) PHASE 2 -- RESILIENCE POSTURE CONSOLIDATION (YEARS 5 THROUGH 10).--
+During the period from the fifth through the tenth year following the date of
+enactment of this Act, and contingent upon the Federated Network having achieved
+the coverage and provision delivery benchmarks established in the network
+maturity threshold of Section 107(f) of the Federal Resilience and
+Decentralization Initiatives Act, the Department of Defense shall:
+
+    (1) complete the realignment of overseas basing to a configuration
+    consistent with the genuine security missions of Section 101(a) of this
+    Title, with the specific basing configuration determined through the alliance
+    consultation processes anticipated in the fourth legislative vehicle of this
+    program;
+
+    (2) redirect not less than twenty percent of the cumulative annual defense
+    budget savings realized through Phase 1 and Phase 2 realignments to the
+    Bootstrap Grant Program and the Commons Solidarity Fund established under
+    Section 1005 of the Federal Resilience and Decentralization Initiatives Act;
+    and
+
+    (3) complete the development and deployment of the Commons Infrastructure
+    Defense Program established under Section 102(c) of this Title, ensuring
+    that the Federated Network has full access to the defense support available
+    under that program.
+
+(d) PHASE 3 -- STEADY-STATE RESILIENCE POSTURE (YEAR 10 AND BEYOND).-- From
+the tenth year following the date of enactment of this Act, the Department of
+Defense shall maintain a steady-state force structure calibrated to the
+Resilience-Based Defense Posture, subject to periodic review by the Secretary
+of Defense and revision through the normal National Defense Strategy process,
+with any proposed expansion of the force structure beyond the steady-state
+configuration requiring a specific congressional authorization identifying the
+genuine security mission that the expansion serves.
+
+(e) DEFENSE SAVINGS ACCOUNTABILITY.-- The Secretary of Defense shall report
+to Congress annually on:
+
+    (1) the specific basing and deployment changes made during the preceding
+    year under this Section, including the missions discontinued and the
+    resources realigned;
+
+    (2) the total annual defense budget savings attributable to the force
+    structure transition, calculated against the baseline defense budget in
+    the fiscal year preceding the date of enactment;
+
+    (3) the amounts redirected to the Bootstrap Grant Program and the Commons
+    Solidarity Fund pursuant to subsections (b)(3) and (c)(2) of this Section;
+    and
+
+    (4) an assessment of whether the implemented transition has created any gap
+    in the genuine security commitments of Section 101(a) of this Title, with
+    specific findings supporting any such assessment.
+
+(f) NUCLEAR POSTURE.-- Nothing in this Title shall be construed to alter the
+nuclear posture of the United States except as follows:
+
+    (1) the Secretary of Defense, in the doctrinal review required by Section
+    101(c) of this Title, shall assess the current nuclear posture against the
+    primary missions of Section 101(a) of this Title and shall identify any
+    nuclear capabilities or deployment arrangements whose primary rationale
+    derives from petrodollar protection rather than from the maintenance of
+    minimum credible deterrence; and
+
+    (2) the Secretary of State is directed to pursue active engagement in
+    multilateral nuclear disarmament negotiations under the existing framework
+    of the Treaty on the Non-Proliferation of Nuclear Weapons, consistent with
+    the longstanding American commitment to the goal of a world free of nuclear
+    weapons, with a report to Congress on the status of those negotiations
+    submitted annually beginning one year after the date of enactment of this
+    Act.
+
+--------------------------------------------------------------------------------
+SEC. 104. INTELLIGENCE APPARATUS REFORM.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that elements of the United States Intelligence
+Community have, over the course of their operational history, developed
+capabilities and conducted activities -- including mass surveillance of domestic
+and foreign communications, covert interference in the political processes of
+foreign nations, and the maintenance of data collection programs whose scope
+far exceeds what any legitimate security mission requires -- that are
+inconsistent with the constitutional values of this legislative program, with
+the privacy architecture of the Federal Resilience and Decentralization
+Initiatives Act, and with the commons solidarity principles of the Human
+Reclamation and Community Restorative Act. The intelligence reform provisions
+of this Section are not a diminishment of the Intelligence Community's capacity
+to protect the genuine security interests of the United States; they are a
+reorientation of that capacity toward missions that serve those interests and
+away from missions that serve other interests at the expense of the rights and
+welfare of the American people and of foreign peoples.
+
+(b) MASS SURVEILLANCE TERMINATION.-- Within one year of the date of enactment
+of this Act:
+
+    (1) all programs of the Intelligence Community that involve the bulk
+    collection of communications metadata, content, or associated data of
+    United States persons without individualized judicial authorization meeting
+    the probable cause standard of the Fourth Amendment shall be terminated;
+
+    (2) all data collected through the programs terminated under paragraph (1)
+    of this subsection shall be deleted from all Intelligence Community systems,
+    with deletion certified to Congress by the Inspector General of the
+    Intelligence Community within ninety days of the termination date;
+
+    (3) no element of the Intelligence Community shall enter into any agreement,
+    formal or informal, with any private technology company, data broker, or
+    foreign intelligence service for the purpose of obtaining access to bulk
+    communications data of United States persons through means that would not
+    be available through direct collection under the standards of paragraph (1)
+    of this subsection; and
+
+    (4) the provisions of this subsection supersede any outstanding order of
+    the Foreign Intelligence Surveillance Court authorizing bulk collection of
+    the categories described in paragraph (1), and the Attorney General shall
+    move to vacate any such outstanding order within ninety days of the date of
+    enactment of this Act. No new order of the Foreign Intelligence Surveillance
+    Court issued after the date of enactment of this Act shall authorize bulk
+    collection inconsistent with paragraph (1), and the conforming amendment to
+    the Foreign Intelligence Surveillance Act established in Section 506(b) of
+    this Act shall be construed as superseding any conflicting provision of that
+    Act or any order issued thereunder.
+
+(c) COVERT INTERFERENCE PROHIBITION.-- No element of the Intelligence Community
+shall conduct, fund, direct, or provide material support for any covert program
+whose purpose is:
+
+    (1) the overthrow, destabilization, or manipulation of the government of
+    any foreign nation, except upon a specific finding by the President,
+    transmitted to the congressional intelligence committees under the
+    notification requirements of the National Security Act of 1947, that the
+    targeted government poses a direct and imminent military threat to the
+    territorial integrity of the United States and that covert action is the
+    minimum necessary response; or
+
+    (2) the suppression of commons institution development, cooperative
+    enterprise formation, solidarity economy organizing, or any other activity
+    consistent with the values of the Federal Resilience and Decentralization
+    Initiatives Act in any foreign nation, consistent with the prohibition on
+    export of carceral and surveillance technology established in Section 404(d)
+    of the Human Reclamation and Community Restorative Act.
+
+(d) REORIENTATION TOWARD COMMONS SECURITY.-- The Intelligence Community shall
+reorient a defined portion of its collection, analysis, and operational capacity
+toward the following missions consistent with the Resilience-Based Defense
+Posture:
+
+    (1) identification and assessment of foreign adversarial threats to the
+    Strategic Commons Infrastructure of the Federated Network, including
+    cyberattack capabilities, supply chain interdiction programs, and
+    electromagnetic attack technologies;
+
+    (2) monitoring of foreign state and non-state actor programs for the
+    development or acquisition of weapons of mass destruction, in support of
+    the nonproliferation mission of Section 101(a)(4) of this Title;
+
+    (3) assessment of the climate-related security threats identified in Finding
+    6 of Section 3 of this Act, including the displacement, resource conflict,
+    and governance instability consequences of accelerating ecological
+    disruption; and
+
+    (4) support for the Commons Solidarity Fund established under Section 1005
+    of the Federal Resilience and Decentralization Initiatives Act, through
+    open-source analysis of the conditions affecting commons institution
+    development in partner nations, without covert interference in those nations'
+    internal political processes.
+
+(e) OVERSIGHT AND ACCOUNTABILITY.-- The intelligence reforms established by this
+Section shall be subject to the following oversight mechanisms:
+
+    (1) the Inspector General of the Intelligence Community shall conduct an
+    annual audit of compliance with the mass surveillance termination requirement
+    of subsection (b) and the covert interference prohibition of subsection (c),
+    with the unclassified portions of each audit report published on the National
+    Resilience Ledger;
+
+    (2) the congressional intelligence committees shall conduct annual oversight
+    hearings on the implementation of this Section, with public testimony from
+    the Director of National Intelligence on the progress of the intelligence
+    reorientation required by subsection (d); and
+
+    (3) any Intelligence Community element found by the Inspector General to have
+    violated the requirements of subsection (b) or subsection (c) shall be
+    subject to the remedial authorities of the Inspector General Act of 1978,
+    and the Director of National Intelligence shall report the violation and the
+    remedial actions taken to Congress within thirty days of the Inspector
+    General's finding.
+
+================================================================================
+TITLE II -- COMMONS NETWORK SECURITY
+================================================================================
+
+The purpose of this Title is to establish the legal architecture through which
+the Federated Network protects itself against the specific threat categories
+that a commons economy faces: foreign adversarial interference with commons
+infrastructure, domestic attempts to capture or re-enclose commons assets
+through technical means, sabotage of the National Resilience Ledger or the
+Federated Mesh, and the infiltration of commons governance by actors whose
+purpose is disruption rather than participation. These threats are distinct
+from the conventional military threats addressed in Title I, and they require
+governance responses that are themselves consistent with the commons values of
+this legislative program: distributed, transparent, peer-governed, and
+resistant to capture by any single actor including the federal government.
+The security architecture of this Title is not a surveillance architecture.
+It does not create new governmental authorities to monitor commons members or
+commons governance. It creates the legal framework within which the Federated
+Network's own distributed security mechanisms, established under the Federal
+Resilience and Decentralization Initiatives Act, are recognized, resourced,
+and protected from interference.
+
+--------------------------------------------------------------------------------
+SEC. 201. COMMONS INFRASTRUCTURE AS CRITICAL NATIONAL INFRASTRUCTURE.
+--------------------------------------------------------------------------------
+
+(a) DESIGNATION.-- The Strategic Commons Infrastructure of the Federated
+Network, as defined in Section 4(16) of this Act, is hereby designated as
+critical national infrastructure within the meaning of Presidential Policy
+Directive 21 and any successor policy, entitled to the full range of federal
+critical infrastructure protection support, information sharing, and security
+assistance available to other designated critical infrastructure sectors.
+
+(b) SECTOR DESIGNATION.-- The Secretary of Homeland Security shall, within
+one hundred eighty days of the date of enactment of this Act, formally
+designate the Federated Commons Infrastructure as a critical infrastructure
+sector and shall:
+
+    (1) assign a Sector Risk Management Agency with relevant expertise in
+    distributed energy, cooperative governance, and open-source technology
+    systems, which shall not be the Department of Defense or any element of
+    the Intelligence Community;
+
+    (2) establish a Commons Infrastructure Sector Coordinating Council
+    comprising representatives of certified Qualified Federated Networks,
+    selected through the governance processes of the Federated Network, which
+    shall serve as the primary interface between the commons sector and federal
+    critical infrastructure protection programs;
+
+    (3) ensure that the Information Sharing and Analysis Center framework
+    available to other critical infrastructure sectors is extended to the
+    Commons Infrastructure sector, with information sharing conducted through
+    the Federated Mesh rather than through centralized governmental databases,
+    consistent with the privacy architecture of Title IV of the Federal
+    Resilience and Decentralization Initiatives Act; and
+
+    (4) publish annual sector risk assessments, in coordination with the Commons
+    Infrastructure Sector Coordinating Council, with unclassified summaries
+    recorded on the National Resilience Ledger and accessible to all Commons
+    Members.
+
+(c) FEDERAL SUPPORT OBLIGATIONS.-- As a designated critical infrastructure
+sector, the Federated Commons Infrastructure shall be entitled to:
+
+    (1) priority consideration in federal cybersecurity assistance programs
+    administered by the Cybersecurity and Infrastructure Security Agency,
+    including vulnerability assessments, penetration testing support, and
+    incident response assistance, provided on a voluntary request basis
+    consistent with the governance principles of Section 102(d) of Title I
+    of this Act;
+
+    (2) access to federal threat intelligence relevant to the security of
+    commons infrastructure, provided through the information sharing mechanisms
+    of subsection (b)(3) of this Section, at the level of classification
+    appropriate for sharing with non-governmental critical infrastructure
+    operators; and
+
+    (3) inclusion in federal emergency preparedness planning and exercises,
+    with the Federated Network's Local Resilience Mode protocols recognized
+    as a national emergency preparedness asset whose protection and
+    strengthening serves the public interest.
+
+(d) LIMITATION ON FEDERAL AUTHORITY.-- The designation of the Federated Commons
+Infrastructure as critical national infrastructure under this Section shall not
+be construed to:
+
+    (1) grant any federal agency regulatory authority over the internal
+    governance, resource allocation, or operational decisions of any Qualified
+    Federated Cooperative or Qualified Federated Network beyond what is
+    expressly authorized by the Federal Resilience and Decentralization
+    Initiatives Act;
+
+    (2) authorize any federal agency to require the installation of monitoring
+    equipment, reporting mechanisms, or access controls in commons
+    infrastructure beyond what the network has voluntarily adopted through
+    its own collective-choice processes; or
+
+    (3) create any basis for invoking emergency governmental authority over
+    commons infrastructure, with the emergency resilience functions of the
+    Federated Network governed exclusively through the Local Resilience Mode
+    and systemic continuity provisions of the Federal Resilience and
+    Decentralization Initiatives Act.
+
+--------------------------------------------------------------------------------
+SEC. 202. FOREIGN ADVERSARIAL INTERFERENCE -- PROHIBITIONS AND RESPONSES.
+--------------------------------------------------------------------------------
+
+(a) PROHIBITED CONDUCT.-- The following conduct is hereby prohibited and subject
+to the criminal penalties established in Section 207 of this Title:
+
+    (1) any act by or on behalf of a foreign government, foreign organization,
+    or foreign person that is designed to disrupt, degrade, disable, or destroy
+    the Federated Mesh, the National Resilience Ledger, or any component of
+    the Strategic Commons Infrastructure, including through cyberattack,
+    electromagnetic interference, physical sabotage, or supply chain
+    interdiction;
+
+    (2) any act designed to introduce fraudulent data, false resource signals,
+    or spoofed Physical Unclonable Function signatures into the Federated Mesh
+    for the purpose of manipulating the Asynchronous Resource Coordination
+    protocol, the Peer-to-Peer Audit mechanism, or the Commons Credit
+    transaction systems of the National Resilience Ledger;
+
+    (3) any act designed to compromise the cryptographic integrity of the
+    National Resilience Ledger, including attacks on the consensus mechanism,
+    the validator node infrastructure, or the smart contract code governing
+    automated commons transactions; and
+
+    (4) any act designed to infiltrate the governance processes of a Qualified
+    Federated Cooperative or Qualified Federated Network for the purpose of
+    capturing, redirecting, or undermining the network's commons stewardship
+    functions, including through the creation of fraudulent cooperative entities
+    for the purpose of gaining network access and certification status.
+
+(b) FEDERAL RESPONSE AUTHORITY.-- Upon a credible determination by the
+Secretary of Defense or the Director of the Cybersecurity and Infrastructure
+Security Agency that a foreign adversarial interference action described in
+subsection (a) of this Section is underway or imminent, the following response
+authorities are available:
+
+    (1) the Cybersecurity and Infrastructure Security Agency may provide
+    immediate technical assistance to affected Qualified Federated Networks,
+    upon their request, including active cyber defense support, forensic
+    analysis, and incident response coordination;
+
+    (2) the Department of Defense may take such defensive cyber actions as are
+    authorized under existing law and the laws of armed conflict to neutralize
+    the identified threat, with notification to the congressional defense and
+    intelligence committees within forty-eight hours of any such action; and
+
+    (3) the Secretary of State may invoke the diplomatic and economic response
+    measures available under existing law, including the International Emergency
+    Economic Powers Act, to impose costs on the foreign government or
+    organization responsible for the interference action.
+
+(c) NETWORK SELF-DEFENSE.-- Nothing in this Title shall be construed to limit
+the authority of the Federated Network's own distributed security mechanisms,
+established under the Federal Resilience and Decentralization Initiatives Act,
+to defend against foreign adversarial interference through:
+
+    (1) the Entropy Lock mechanism of Section 704(c) of that Act, which may
+    be activated to isolate compromised network segments without federal
+    authorization;
+
+    (2) the Byzantine Fault Tolerant protocols of Section 704(d) of that Act,
+    which maintain ledger integrity against coordinated validator node attacks;
+    and
+
+    (3) the Local Resilience Mode of Section 704(b) of that Act, which
+    maintains provision delivery to Commons Members during periods of external
+    network attack.
+
+--------------------------------------------------------------------------------
+SEC. 203. DOMESTIC ENCLOSURE ATTEMPTS -- SECURITY CLASSIFICATION.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the most persistent long-term threat to the
+integrity of the Federated Network is not foreign adversarial interference but
+domestic enclosure: the systematic attempt by private actors, corporate
+entities, or captured governmental authorities to convert commons assets to
+private ownership, to re-enclose commons intellectual property through
+proprietary claims, to capture commons governance through the accumulation of
+disproportionate influence, or to use the commons infrastructure as a vector
+for private data extraction. The security architecture of this Title must
+address this domestic threat with the same seriousness it applies to foreign
+threats, recognizing that the enclosure of commons assets by domestic actors
+is no less destructive of the commons than their destruction by foreign ones.
+
+(b) ENCLOSURE ATTEMPT DEFINED.-- For the purposes of this Title, a domestic
+enclosure attempt means any deliberate, coordinated course of conduct by any
+person, enterprise, or governmental actor that is designed to:
+
+    (1) acquire title, exclusive control, or proprietary rights over land,
+    intellectual property, data, or other assets held in commons stewardship
+    by a Qualified Federated Cooperative or Qualified Federated Network,
+    through means other than the lawful governance processes of the network;
+
+    (2) assert intellectual property claims over works, innovations, or
+    traditional knowledge contributed to the Intellectual Property Commons,
+    in violation of the anti-enclosure provisions of Title V of the Federal
+    Resilience and Decentralization Initiatives Act;
+
+    (3) infiltrate the governance of a Qualified Federated Network through
+    the creation of fraudulent cooperative memberships, the manipulation of
+    collective-choice processes, or the systematic misrepresentation of resource
+    data to the Peer-to-Peer Audit mechanism, for the purpose of diverting
+    commons resources to private benefit; or
+
+    (4) use access to commons infrastructure, including the Federated Mesh,
+    the National Resilience Ledger, or the Analytics Commons established under
+    Title III of this Act, to collect personal data on Commons Members for
+    commercial, governmental, or other non-commons purposes, in violation of
+    the data sovereignty protections of Title IV of the Federal Resilience and
+    Decentralization Initiatives Act.
+
+(c) ENFORCEMENT.-- Domestic enclosure attempts as defined in subsection (b)
+of this Section shall be subject to:
+
+    (1) the civil remedies available to Qualified Federated Networks and
+    Commons Members under Section 101(d) of the Federal Resilience and
+    Decentralization Initiatives Act, including injunctive relief without bond;
+
+    (2) the graduated response procedures of Section 103(c) of that Act,
+    where the enclosure attempt is conducted by or through a certified entity
+    subject to those procedures;
+
+    (3) the criminal penalties established in Section 207 of this Title, where
+    the enclosure attempt involves fraud, unauthorized computer access, or other
+    conduct independently prohibited by federal criminal law; and
+
+    (4) referral to the Department of Justice Antitrust Division where the
+    enclosure attempt involves coordinated conduct by multiple actors designed
+    to monopolize access to commons resources or to suppress the development
+    of commons institutions as competitors to existing proprietary enterprises.
+
+(d) GOVERNMENTAL ENCLOSURE PROHIBITION.-- No federal, state, or local
+governmental authority shall:
+
+    (1) invoke eminent domain, regulatory taking doctrine, or any other
+    governmental power to transfer commons assets from Qualified Federated
+    Cooperative or Qualified Federated Network stewardship to private ownership
+    or governmental ownership, except as expressly authorized by the Federal
+    Resilience and Decentralization Initiatives Act;
+
+    (2) condition any governmental benefit, permit, license, or approval on
+    the modification, reduction, or waiver of any commons governance right
+    established under that Act or this Act; or
+
+    (3) use any governmental data collection program, including programs
+    operated by the Internal Revenue Service, the Securities and Exchange
+    Commission, or any regulatory agency, to compile intelligence on the
+    governance, membership, resource flows, or political activities of any
+    Qualified Federated Network for purposes other than the specific regulatory
+    function for which the data collection authority was granted.
+
+--------------------------------------------------------------------------------
+SEC. 204. COMMONS SECURITY INFORMATION SHARING.
+--------------------------------------------------------------------------------
+
+(a) ARCHITECTURE.-- The commons security information sharing architecture
+established by this Section shall operate entirely within the Federated Mesh,
+using the privacy-preserving computation methods and Zero-Knowledge Proof
+protocols of the Federal Resilience and Decentralization Initiatives Act,
+such that security-relevant information is shared among certified Qualified
+Federated Networks without creating a centralized threat database accessible
+to governmental authorities or private parties.
+
+(b) PEER THREAT INTELLIGENCE.-- The Peer-to-Peer Audit mechanism established
+under Section 103 of the Federal Resilience and Decentralization Initiatives
+Act is hereby extended to include a peer threat intelligence function, through
+which:
+
+    (1) a Qualified Federated Network that has identified a specific, credible
+    threat to its commons infrastructure -- including a cyberattack, a physical
+    sabotage attempt, a fraudulent certification application, or a coordinated
+    enclosure attempt -- may broadcast a threat signal to neighboring networks
+    through the Federated Mesh, without disclosing the identities of individuals
+    involved in the threat or the specific operational details of the network's
+    defensive response;
+
+    (2) receiving networks may use the threat signal to activate heightened
+    monitoring of the identified threat category within their own infrastructure,
+    consistent with the Standard 4 monitoring requirements of Section 102(e)
+    of the Federal Resilience and Decentralization Initiatives Act; and
+
+    (3) the Technical Standards Body established under Section 701(d) of that
+    Act shall establish the technical specifications for threat signal formats,
+    ensuring that threat signals carry sufficient information for defensive
+    action while containing insufficient information to support surveillance
+    of the Commons Members or governance activities of the broadcasting network.
+
+(c) FEDERAL THREAT INTELLIGENCE INTERFACE.-- The Cybersecurity and
+Infrastructure Security Agency shall establish a dedicated interface for
+sharing declassified or unclassified threat intelligence with the Commons
+Infrastructure Sector Coordinating Council established under Section 201(b)(2)
+of this Title, on the following terms:
+
+    (1) threat intelligence shared through this interface shall be provided
+    in machine-readable formats compatible with the Federated Mesh Open Standard,
+    enabling automated integration into the network's security monitoring
+    without requiring the disclosure of the underlying intelligence sources or
+    methods to network operators;
+
+    (2) no condition, reporting requirement, or operational obligation shall
+    be attached to the receipt of threat intelligence through this interface
+    beyond the certification requirements already applicable to Qualified
+    Federated Networks under the Federal Resilience and Decentralization
+    Initiatives Act; and
+
+    (3) the Commons Infrastructure Sector Coordinating Council shall publish
+    an annual report on the utility and adequacy of the federal threat
+    intelligence provided through this interface, with recommendations for
+    improvement, recorded on the National Resilience Ledger.
+
+(d) PROHIBITION ON WEAPONIZATION OF SECURITY INFRASTRUCTURE.-- The commons
+security information sharing architecture established by this Section shall
+not be used, by any governmental or private actor, as a vehicle for:
+
+    (1) identifying, profiling, or targeting Commons Members on the basis of
+    their governance participation, political activities, or associational
+    relationships within the Federated Network;
+
+    (2) collecting aggregate behavioral or demographic data on Commons Members
+    under the guise of security monitoring; or
+
+    (3) establishing any persistent surveillance capability within the Federated
+    Network beyond the resource health monitoring already authorized under
+    Standard 4 of Section 102(e) of the Federal Resilience and Decentralization
+    Initiatives Act.
+
+--------------------------------------------------------------------------------
+SEC. 205. COMMONS SECURITY RESEARCH AND DEVELOPMENT.
+--------------------------------------------------------------------------------
+
+(a) OPEN-SOURCE SECURITY MANDATE.-- All security research, vulnerability
+assessment, and defensive technology development funded through federal programs
+for the protection of the Federated Commons Infrastructure shall be:
+
+    (1) conducted through open-source methodologies wherever technically
+    feasible, with research outputs contributed to the Intellectual Property
+    Commons pursuant to the mandatory commons contribution provisions of Section
+    503 of the Federal Resilience and Decentralization Initiatives Act;
+
+    (2) coordinated with the Technical Standards Body established under Section
+    701(d) of that Act to ensure that security improvements are incorporated
+    into the Federated Mesh Open Standard through the standard's open governance
+    process; and
+
+    (3) made available to all certified Qualified Federated Networks
+    simultaneously, without preferential access for any network, governmental
+    entity, or private contractor.
+
+(b) COMMONS SECURITY RESEARCH PROGRAM.-- The Director of the National Science
+Foundation, in coordination with the Director of the National Institute of
+Standards and Technology and the Director of the Cybersecurity and
+Infrastructure Security Agency, shall establish a Commons Security Research
+Program providing grants for open-source security research directly relevant
+to the protection of the Federated Mesh, the National Resilience Ledger, and
+the commons governance architecture, with priority given to research in:
+
+    (1) privacy-preserving threat detection methods that identify adversarial
+    interference without exposing Commons Member behavioral data;
+
+    (2) Byzantine fault-tolerant consensus mechanisms applicable to the specific
+    resource and governance coordination functions of the National Resilience
+    Ledger;
+
+    (3) hardware security enhancements to the Physical Unclonable Function
+    architecture established under Section 702 of the Federal Resilience and
+    Decentralization Initiatives Act, maintaining unclonability as manufacturing
+    capabilities advance; and
+
+    (4) distributed intrusion detection systems operable within the Local
+    Resilience Mode architecture, ensuring that commons security monitoring
+    remains functional during periods of external network disruption.
+
+(c) VULNERABILITY DISCLOSURE.-- Any researcher, Commons Member, or third party
+who identifies a vulnerability in the Federated Mesh Open Standard, the National
+Resilience Ledger, or any commons infrastructure technology shall have access
+to a responsible disclosure pathway administered by the Technical Standards Body,
+through which:
+
+    (1) the vulnerability is reported confidentially to the Technical Standards
+    Body and the relevant network operators;
+
+    (2) a remediation timeline is established, not to exceed ninety days for
+    critical vulnerabilities and one hundred eighty days for other
+    vulnerabilities; and
+
+    (3) upon completion of remediation, the vulnerability and its resolution
+    are published on the National Resilience Ledger as part of the commons
+    security knowledge base, contributing to the collective security of all
+    networks without disclosing exploitable details during the remediation
+    period.
+
+--------------------------------------------------------------------------------
+SEC. 206. PROTECTION OF COMMONS GOVERNANCE FROM INFILTRATION.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the governance processes of a Qualified
+Federated Network are as much a security asset as its technical infrastructure,
+and that the infiltration of commons governance by actors whose purpose is
+capture, diversion, or disruption represents a threat to the commons that is
+not addressable through technical security measures alone. The governance
+integrity provisions of this Section supplement the Ostrom Standards of
+Stewardship and the Peer-to-Peer Audit mechanism of the Federal Resilience and
+Decentralization Initiatives Act with specific protections against the
+deliberate manipulation of commons governance for anti-commons purposes.
+
+(b) FOREIGN GOVERNMENTAL INFLUENCE PROHIBITION.-- No foreign government, foreign
+governmental entity, or agent of a foreign government shall:
+
+    (1) hold membership in any Qualified Federated Cooperative or Qualified
+    Federated Network, or exercise governance rights within any such entity,
+    whether directly or through any intermediary;
+
+    (2) provide funding, in-kind support, or other material assistance to any
+    Qualified Federated Cooperative or Qualified Federated Network for the
+    purpose of influencing the governance decisions or resource allocation
+    of that entity; or
+
+    (3) use any representative, agent, or intermediary to participate in the
+    collective-choice processes of any Qualified Federated Network without
+    disclosing the foreign governmental relationship to the network's governance
+    body.
+
+(c) CORPORATE CAPTURE PREVENTION.-- The anti-concentration provisions of
+Section 508 of the Federal Resilience and Decentralization Initiatives Act
+are hereby extended to address the specific risk of corporate capture of
+commons governance, providing that:
+
+    (1) no corporation, private equity fund, hedge fund, or other entity
+    organized primarily for the profit of its investors shall hold membership
+    in any Qualified Federated Cooperative in a manner that grants governance
+    rights within that cooperative;
+
+    (2) no individual who holds, directly or through any intermediary, a
+    controlling ownership interest in any corporation with annual revenues
+    exceeding one billion dollars shall simultaneously hold governance rights
+    in any Qualified Federated Network, except through membership in a
+    Qualified Federated Cooperative in their capacity as a natural person
+    residing or working within the cooperative's defined boundaries; and
+
+    (3) any attempt to use shell memberships, nominee participation, or
+    coordinated governance manipulation to concentrate commons governance
+    influence in a manner inconsistent with the Ostrom Standards of Stewardship
+    shall constitute a serious violation subject to Level 3 graduated response
+    under Section 103(c)(2)(C) of the Federal Resilience and Decentralization
+    Initiatives Act.
+
+(d) GOVERNANCE INTEGRITY MONITORING.-- The Peer-to-Peer Audit mechanism
+established under Section 103 of the Federal Resilience and Decentralization
+Initiatives Act shall include governance integrity monitoring functions through
+which auditing peers assess:
+
+    (1) whether the audited network's collective-choice processes demonstrate
+    genuine participation by the full membership rather than formal compliance
+    masking effective concentration of governance authority;
+
+    (2) whether the audited network's membership composition is consistent
+    with the prohibitions of subsections (b) and (c) of this Section; and
+
+    (3) whether any anomalous pattern in the audited network's governance
+    decisions, resource flows, or reporting data is consistent with the
+    indicators of governance capture identified in the threat intelligence
+    shared through Section 204 of this Title.
+
+--------------------------------------------------------------------------------
+SEC. 207. CRIMINAL PENALTIES.
+--------------------------------------------------------------------------------
+
+(a) COMMONS INFRASTRUCTURE SABOTAGE.-- Chapter 65 of Title 18, United States
+Code, is hereby amended to add the following offense: whoever knowingly and
+willfully destroys, damages, disables, or substantially disrupts any component
+of the Strategic Commons Infrastructure, the Federated Mesh, or the National
+Resilience Ledger, or attempts or conspires to do so, shall be punished by
+imprisonment of not more than twenty years, a fine of not more than five million
+dollars, or both, if the conduct results in or is designed to result in a
+material impairment of the Guaranteed Provision Standard for any number of
+Commons Members; or by imprisonment of not more than ten years, a fine of not
+more than one million dollars, or both, in all other cases.
+
+(b) FRAUDULENT CERTIFICATION.-- Whoever knowingly makes any false statement,
+representation, or certification in connection with any application for
+Qualified Federated Cooperative or Qualified Federated Network certification
+under the Federal Resilience and Decentralization Initiatives Act, or knowingly
+uses any fraudulent means to obtain or maintain certification status, shall be
+punished by imprisonment of not more than five years, a fine of not more than
+five hundred thousand dollars, or both.
+
+(c) COMMONS GOVERNANCE INFILTRATION.-- Whoever knowingly violates the foreign
+governmental influence prohibition of Section 206(b) of this Title, or
+knowingly participates in a coordinated scheme to capture commons governance
+in violation of Section 206(c) of this Title, shall be punished by imprisonment
+of not more than ten years, a fine of not more than one million dollars, or
+both.
+
+(d) PROTECTED DISCLOSURE.-- No provision of this Section shall be construed
+to prohibit or penalize any Commons Member, researcher, or whistleblower who
+in good faith discloses information about a potential violation of this Title
+to the Office of Federated Stewardship, the Federated Accountability Board,
+Congress, or any appropriate oversight authority, consistent with the
+whistleblower protections of Section 107(g)(3) of the Federal Resilience and
+Decentralization Initiatives Act.
+
+================================================================================
+TITLE III -- THE ANALYTICS COMMONS
+================================================================================
+
+The purpose of this Title is to establish the open-source, community-governed
+data integration and decision-support infrastructure that federated commons
+networks require to coordinate their resource flows, govern their commons
+assets, and plan for their communities' long-term resilience. The Analytics
+Commons is not a surveillance system. It does not collect personal data on
+Commons Members, generate behavioral profiles, or produce the kind of
+operational intelligence that proprietary analytics platforms have been built
+to provide to their governmental and corporate clients. It is a governance
+tool: a set of shared analytical capabilities that help commons networks
+understand the health of their shared resources, identify coordination
+opportunities with neighboring networks, and make informed collective decisions
+about the management of the commons. The distinction between analytics in
+service of governance and analytics in service of surveillance is not a
+technical distinction; it is a governance distinction, and this Title
+establishes the governance architecture that maintains it. The commons
+capture of Intelligence-Community-Funded Analytics Platforms established
+by this Title does not bring surveillance capabilities into the commons. It
+brings coordination and planning capabilities into the commons, stripped of
+the surveillance functions that made those platforms instruments of control
+rather than instruments of governance.
+
+--------------------------------------------------------------------------------
+SEC. 301. ESTABLISHMENT OF THE ANALYTICS COMMONS.
+--------------------------------------------------------------------------------
+
+(a) ESTABLISHMENT.-- There is hereby established the Analytics Commons: a
+federated, open-source data integration and decision-support infrastructure
+held as a component of the Intellectual Property Commons established under
+Title V of the Federal Resilience and Decentralization Initiatives Act, governed
+by the Analytics Commons Governance Council established under Section 306 of
+this Title, and accessible to all certified Qualified Federated Networks for
+the governance and coordination purposes established in this Title.
+
+(b) SCOPE.-- The Analytics Commons shall provide Qualified Federated Networks
+with open-source tools and shared infrastructure for:
+
+    (1) RESOURCE FLOW ANALYSIS.-- Integration and analysis of the resource
+    metabolism data reported through the Asynchronous Resource Coordination
+    protocol, enabling networks to identify surplus and deficit patterns,
+    anticipate resource needs, and optimize inter-network coordination across
+    longer time horizons than the real-time ARC protocol addresses;
+
+    (2) COMMONS HEALTH MONITORING.-- Aggregated assessment of the ecological,
+    economic, and governance health of commons assets, drawing upon the
+    Peer-to-Peer Audit self-reporting data of the National Resilience Ledger
+    and providing networks with longitudinal trend analysis, comparative
+    benchmarking against peer networks, and early warning signals for
+    emerging resource or governance stresses;
+
+    (3) COLLECTIVE DECISION SUPPORT.-- Analysis tools that present Commons
+    Members with clear, accessible summaries of the data relevant to governance
+    decisions under consideration through the network's collective-choice
+    processes, without directing or predetermining the outcome of those
+    decisions, and designed specifically to support informed deliberation
+    rather than to substitute for it;
+
+    (4) INTER-NETWORK COORDINATION PLANNING.-- Tools for identifying and
+    modeling potential resource-sharing arrangements, commons-to-commons trade
+    relationships, and federated infrastructure investments among neighboring
+    Qualified Federated Networks, supporting the nested governance functions
+    of Standard 8 of Section 102(i) of the Federal Resilience and
+    Decentralization Initiatives Act; and
+
+    (5) RESILIENCE SCENARIO MODELING.-- Tools for modeling the resilience of
+    commons infrastructure under defined stress scenarios, including climate-
+    related disruptions, supply chain interruptions, cyberattack conditions,
+    and the range of external shocks that the commons economy is designed to
+    withstand, enabling networks to identify and address vulnerabilities before
+    those scenarios materialize.
+
+(c) PRIVACY ARCHITECTURE.-- All Analytics Commons tools shall be designed
+and operated in strict compliance with the data governance requirements of
+Title IV of the Federal Resilience and Decentralization Initiatives Act,
+specifically including:
+
+    (1) all analytics functions shall operate on aggregated, anonymized
+    commons resource data rather than on individually identifiable personal
+    data, with personal data never entering the Analytics Commons
+    infrastructure under any circumstances;
+
+    (2) all analytical outputs shall be produced through privacy-preserving
+    computation methods, including differential privacy, secure multi-party
+    computation, and Zero-Knowledge Proof protocols, such that no individual
+    Commons Member's behavior, consumption, or governance participation can
+    be inferred from any Analytics Commons output; and
+
+    (3) the boundary between permissible commons resource analytics and
+    prohibited personal behavioral analytics shall be governed by the Data
+    Commons Governance Council established under Section 405 of the Federal
+    Resilience and Decentralization Initiatives Act, whose determinations on
+    this boundary shall be binding on the Analytics Commons Governance Council
+    established under Section 306 of this Title.
+
+(d) COMMONS CONTRIBUTION.-- All software, algorithms, datasets, and
+methodologies developed for or incorporated into the Analytics Commons shall
+be contributed to the Intellectual Property Commons pursuant to the mandatory
+commons contribution and copyleft mandate provisions of Sections 503 and 507
+of the Federal Resilience and Decentralization Initiatives Act. No proprietary
+analytical tool, method, or dataset shall be incorporated into the Analytics
+Commons infrastructure, and no Analytics Commons output shall be produced
+through computational processes whose logic is not publicly auditable.
+
+--------------------------------------------------------------------------------
+SEC. 302. INTELLIGENCE-COMMUNITY-FUNDED ANALYTICS PLATFORM CAPTURE.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the foundational capabilities of the
+analytics platforms most widely deployed for governmental data integration and
+operational decision support were developed through sustained public investment
+channeled through Intelligence Community venture capital programs, federal
+research contracts, and national security technology development programs.
+The private enclosure of these capabilities, and their deployment as
+proprietary platforms generating returns to private shareholders, is
+inconsistent with the principle that publicly funded innovations belong to
+the public and with the commons recapture provisions of the Federal Resilience
+and Decentralization Initiatives Act. The commons capture established by this
+Section does not destroy these capabilities; it opens them, contributing their
+analytical power to the governance of communities rather than restricting it
+to the governance of populations. The legal foundation for this commons capture
+mechanism rests on existing federal authorities that are well-established in
+law: the federal government's march-in rights under the Bayh-Dole Act,
+35 U.S.C. sections 200-212, which authorize federal agencies to require
+licensing of inventions developed with federal funding where the contractor
+has not taken effective steps to achieve practical application; the government
+license rights retained under 28 U.S.C. section 1498 for inventions arising
+under federal contracts, which grant the United States a license to use and
+have used any patented invention without infringement liability; and the
+existing contract terms of Intelligence Community research and development
+agreements, which typically retain broad government license rights in
+deliverables. Congress finds that these existing authorities, applied to the
+specific categories of Intelligence-Community-funded analytics platform
+development identified in the audit required by this Section, provide
+sufficient legal foundation for the commons contribution directed herein
+without requiring new takings authority or raising substantial Fifth Amendment
+concerns with respect to the publicly funded components, and that compensation
+in Stewardship Credits as provided in subsection (c)(3) of this Section
+addresses any takings concern with respect to privately funded enhancements.
+
+(b) MANDATORY AUDIT.-- Within one hundred eighty days of the date of enactment
+of this Act, the Director of National Intelligence, acting through the Inspector
+General of the Intelligence Community, shall complete a comprehensive audit of
+Intelligence-Community-Funded Analytics Platforms, as defined in Section 4(9)
+of this Act, identifying:
+
+    (1) each analytics platform whose foundational capabilities were developed
+    in whole or in significant part through Intelligence Community funding,
+    including In-Q-Tel investments, DARPA contracts, NSA technology development
+    programs, and CIA research and development grants; for purposes of this
+    Section, "in significant part" means that Intelligence Community funding
+    constituted thirty percent or more of the total documented development costs
+    attributable to the foundational capability in question, calculated on a
+    capability-by-capability basis where a platform's foundational capabilities
+    are separable in their development history;
+
+    (2) for each identified platform, the specific intellectual property
+    components whose development is traceable to public funding, distinguishing
+    those components from independently developed proprietary enhancements, with
+    the Inspector General documenting the evidence basis for the traceable/
+    independent distinction for each identified component, including contract
+    records, grant records, In-Q-Tel investment terms, and any relevant
+    government rights provisions in applicable contracts;
+
+    (3) the current ownership structure of each identified platform and the
+    contractual arrangements governing the federal government's existing access
+    to and licensing of its capabilities; and
+
+    (4) the analytical capabilities of each identified platform that are most
+    relevant to the governance and coordination needs of Qualified Federated
+    Networks, as assessed in consultation with the Analytics Commons Governance
+    Council established under Section 306 of this Title.
+
+(c) COMMONS CAPTURE MECHANISM.-- Following completion of the audit required
+by subsection (b) of this Section, the publicly funded intellectual property
+components of each identified Intelligence-Community-Funded Analytics Platform
+shall be subject to commons capture through the following process:
+
+    (1) the publicly funded components identified in the audit shall be deemed
+    to meet the eligibility criteria of Section 903(b) of the Federal Resilience
+    and Decentralization Initiatives Act and shall be contributed to the
+    Intellectual Property Commons pursuant to the mandatory release trigger of
+    Section 903(c) of that Act, within ninety days of the audit's completion;
+    components whose development costs are not traceable to public funding at
+    the threshold established in subsection (b)(1) of this Section shall not
+    be subject to mandatory commons contribution under this subsection, but
+    shall be eligible for voluntary contribution pursuant to subsection (e)
+    of this Section;
+
+    (2) attribution shall be recorded on the National Resilience Ledger in the
+    names of the individual researchers and engineers who developed the
+    contributed components, where those individuals are identifiable and consent
+    to attribution, and in the names of the relevant federal funding programs
+    where individual attribution is not feasible;
+
+    (3) the contributing platform holder shall receive, at the holder's election:
+    (A) a Legacy Credit pursuant to Section 304(f) of Title III of the Federal
+    Resilience and Decentralization Initiatives Act, recognizing the platform's
+    role as a founding contributor to the Analytics Commons; or (B) compensation
+    in United States dollars, from the Bootstrap Grant Program fund, in an amount
+    equal to the assessed productive value of any privately funded intellectual
+    property incidentally captured through the commons contribution process,
+    calculated using the same appraisal methodology established for shelved patent
+    compensation under Section 503(d)(2)(D) of the Federal Resilience and
+    Decentralization Initiatives Act; the dollar compensation option and the
+    commons contribution obligation are severable, such that a judicial finding
+    of inadequate compensation shall require dollar payment but shall not void
+    the contribution; and
+
+    (4) the contributed components shall be subject to the copyleft mandate
+    of Section 507 of the Federal Resilience and Decentralization Initiatives
+    Act from the date of contribution, ensuring that derivative enhancements
+    developed by the Analytics Commons remain in the commons.
+
+(d) CONTINUING GOVERNMENT CONTRACTS.-- The commons capture of publicly funded
+intellectual property components under this Section shall not abrogate any
+existing government contract for analytics platform services. Existing contracts
+shall continue in effect through their current term, subject to the following
+conditions:
+
+    (1) upon renewal of any contract for Intelligence-Community-Funded Analytics
+    Platform services after the date of enactment of this Act, the contracting
+    agency shall require as a condition of renewal that the platform holder
+    contribute any additional publicly funded intellectual property developed
+    during the preceding contract term to the Analytics Commons pursuant to
+    this Section; and
+
+    (2) federal agencies shall give preference, in new procurements of analytics
+    platform services, to Analytics Commons tools and open-source alternatives
+    over proprietary Intelligence-Community-Funded Analytics Platforms, with
+    any procurement of a proprietary platform requiring a specific written
+    finding that no Analytics Commons or open-source alternative meets the
+    agency's operational requirements.
+
+(e) VOLUNTARY CONTRIBUTION OF PRIVATELY FUNDED COMPONENTS.-- Any analytics
+platform holder may voluntarily contribute privately funded intellectual property
+components, not subject to mandatory commons contribution under subsection (c)
+of this Section, to the Analytics Commons through the voluntary contribution
+pathway established in Section 505 of the Federal Resilience and
+Decentralization Initiatives Act. Voluntary contributions of privately funded
+analytics platform components shall be recognized with a Legacy Credit under
+Section 304(f) of Title III of that Act and with Founding Contributor
+designation on the National Resilience Ledger. No voluntary contribution made
+pursuant to this subsection shall be subject to any compensation obligation;
+the Legacy Credit and Founding Contributor designation constitute the full
+recognition for voluntary contributions.
+
+(f) SURVEILLANCE FUNCTION PROHIBITION.-- No capability contributed to the
+Analytics Commons through the commons capture process of this Section shall
+be deployed within the Analytics Commons for any surveillance function,
+defined as any function designed to monitor, profile, predict, or assess the
+behavior, associations, political activities, or personal characteristics of
+individual natural persons. The surveillance functions of contributed platforms
+shall be identified in the audit required by subsection (b) of this Section
+and shall be:
+
+    (1) documented in the attribution record of the contributed components as
+    prohibited functions within the Analytics Commons, binding on all subsequent
+    developers under the copyleft mandate; and
+
+    (2) subject to technical review by the Analytics Commons Governance Council
+    within one year of contribution, with the Council certifying that the
+    contributed codebase has been audited for surveillance functions and that
+    identified surveillance capabilities have been removed or technically
+    disabled before the contributed components are made available through the
+    Analytics Commons.
+
+--------------------------------------------------------------------------------
+SEC. 303. OPEN-SOURCE ANALYTICS DEVELOPMENT PROGRAM.
+--------------------------------------------------------------------------------
+
+(a) ESTABLISHMENT.-- The Director of the National Science Foundation, in
+coordination with the Technical Standards Body established under Section 701(d)
+of the Federal Resilience and Decentralization Initiatives Act and the Analytics
+Commons Governance Council established under Section 306 of this Title, shall
+establish a Commons Analytics Development Program providing grants, contracts,
+and cooperative agreements for the open-source development of analytics tools
+specifically designed for the governance and coordination needs of Qualified
+Federated Networks.
+
+(b) DEVELOPMENT PRIORITIES.-- The Commons Analytics Development Program shall
+prioritize funding for the development of:
+
+    (1) open-source equivalents to the data integration and operational picture
+    capabilities of Intelligence-Community-Funded Analytics Platforms, designed
+    from the outset for commons governance use cases rather than adapted from
+    surveillance applications;
+
+    (2) the Decidim-DAO bridge development designated as a National Commons
+    Infrastructure Priority under Section 701(e) of the Federal Resilience and
+    Decentralization Initiatives Act, with Analytics Commons data integration
+    capabilities incorporated as a component of the bridge's governance support
+    functions;
+
+    (3) federated machine learning tools that allow Qualified Federated Networks
+    to develop shared analytical models from distributed data without centralizing
+    that data, preserving the privacy architecture of Title IV of the Federal
+    Resilience and Decentralization Initiatives Act while enabling network-wide
+    analytical capabilities that individual networks cannot develop alone; and
+
+    (4) natural language and accessible visualization interfaces that present
+    Analytics Commons outputs in forms accessible to Commons Members without
+    technical data analysis expertise, ensuring that the analytical capabilities
+    of the commons serve the governance participation of all members rather than
+    concentrating governance knowledge among technically sophisticated elites.
+
+(c) COMMONS CONTRIBUTION REQUIREMENT.-- All software, algorithms, and
+methodologies developed through the Commons Analytics Development Program
+shall be contributed to the Intellectual Property Commons under a copyleft
+license consistent with Section 507 of the Federal Resilience and
+Decentralization Initiatives Act, as a condition of any grant, contract, or
+cooperative agreement under this Section. No work product of the Program
+shall be subject to proprietary licensing, patent protection, or any other
+form of enclosure by the developing party or any subsequent holder.
+
+(d) INTERNATIONAL COORDINATION.-- The Commons Analytics Development Program
+shall actively coordinate with international open-source analytics and
+governance technology communities, including the Decidim Foundation, the P2P
+Foundation's technology development networks, and comparable institutions,
+to ensure that the Analytics Commons tools developed through the Program are
+compatible with and contribute to the global commons technology ecosystem
+rather than creating a parallel American commons infrastructure that fragments
+rather than federates the international commons development effort.
+
+--------------------------------------------------------------------------------
+SEC. 304. ANALYTICS COMMONS AND MILITARY LOGISTICS INTEGRATION.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the Department of Defense has developed,
+through decades of operational experience and research investment, sophisticated
+non-kinetic logistics and supply chain coordination capabilities whose civilian
+application to commons resource coordination would substantially enhance the
+Federated Network's operational efficiency. The integration of these capabilities
+into the Analytics Commons, through the dual-use technology transfer provisions
+of Title IX of the Federal Resilience and Decentralization Initiatives Act and
+the commons capture provisions of Section 302 of this Title, constitutes a
+productive application of publicly funded military research to the civilian
+commons without reproducing the command-and-control architecture of military
+logistics within the democratic governance structure of the Federated Network.
+
+(b) NON-KINETIC LOGISTICS TECHNOLOGY TRANSFER.-- The Civilian-Use Board
+established under Section 902 of the Federal Resilience and Decentralization
+Initiatives Act shall, in addition to its duties under that Act, assess all
+Department of Defense logistics optimization, supply chain modeling, and
+resource coordination software systems against the eligibility criteria of
+Section 903(b) of that Act, with particular attention to:
+
+    (1) supply chain resilience modeling tools capable of identifying
+    vulnerabilities in cooperative food, energy, and materials supply chains
+    and recommending diversification and redundancy investments;
+
+    (2) distributed resource allocation algorithms developed for forward
+    operating base logistics that are applicable to the inter-network
+    resource coordination functions of the Asynchronous Resource Coordination
+    protocol;
+
+    (3) demand forecasting and inventory optimization tools applicable to
+    cooperative food distribution, energy storage management, and commons
+    materials provisioning; and
+
+    (4) route optimization and transportation coordination tools applicable
+    to cooperative transportation networks and inter-network commons goods
+    exchange.
+
+(c) ADAPTATION REQUIREMENTS.-- Military logistics technologies transferred
+to the Analytics Commons under this Section shall be adapted before deployment
+within the Federated Network to:
+
+    (1) remove all command hierarchy assumptions embedded in the original
+    military architecture, replacing them with the peer governance and
+    collective-choice structures required by the Ostrom Standards of Stewardship;
+
+    (2) replace all centralized data collection and reporting functions with
+    the distributed, privacy-preserving data architecture of the Federated
+    Mesh Open Standard; and
+
+    (3) ensure compatibility with the Decidim-DAO governance interface, so
+    that logistics and coordination recommendations produced by the adapted
+    tools are presented to Commons Members as inputs to collective governance
+    decisions rather than as operational directives.
+
+(d) COMMONS ADAPTATION FUND.-- There is authorized to be appropriated to the
+Analytics Commons Governance Council, through the Bootstrap Grant Program of
+the Federal Resilience and Decentralization Initiatives Act, a Commons
+Adaptation Fund of not less than two hundred fifty million dollars for the
+first three years following the date of enactment of this Act, to support the
+adaptation work required by subsection (c) of this Section and the
+surveillance function removal required by Section 302(e) of this Title.
+
+--------------------------------------------------------------------------------
+SEC. 305. ANALYTICS COMMONS DATA STANDARDS.
+--------------------------------------------------------------------------------
+
+(a) INTEROPERABILITY REQUIREMENT.-- All Analytics Commons tools shall be
+designed to operate on standardized, open data formats compatible with the
+Federated Mesh Open Standard, ensuring that analytical outputs from any tool
+in the commons can be ingested by any other tool without proprietary format
+conversion. The Technical Standards Body established under Section 701(d) of
+the Federal Resilience and Decentralization Initiatives Act shall publish
+Analytics Commons data interchange standards within one year of the date of
+enactment of this Act, and shall update those standards through the standard's
+open governance process as the Analytics Commons develops.
+
+(b) BASELINE DATA CONTRIBUTIONS.-- Every certified Qualified Federated Network
+shall contribute the following categories of aggregated, anonymized commons
+resource data to the Analytics Commons, at the data minimization standards
+established by the Data Commons Governance Council under Section 405 of the
+Federal Resilience and Decentralization Initiatives Act:
+
+    (1) monthly aggregated resource metabolism summaries, covering energy
+    production and consumption, food production and distribution, water usage,
+    and Commons Credit circulation, at the geographic resolution of the network
+    as a whole rather than at the resolution of individual households or
+    cooperative enterprises;
+
+    (2) annual commons health assessments covering the ecological, economic,
+    and governance health indicators required by the Peer-to-Peer Audit
+    self-reporting obligations of Section 103(c)(1)(A) of the Federal
+    Resilience and Decentralization Initiatives Act; and
+
+    (3) event-triggered resilience reports documenting the network's response
+    to significant resource disruptions, governance challenges, or security
+    incidents, in sufficient detail to contribute to the collective learning
+    of the Federated Network without disclosing information that would enable
+    exploitation of identified vulnerabilities.
+
+(c) DATA QUALITY AND INTEGRITY.-- The Analytics Commons Governance Council
+shall establish data quality standards for baseline data contributions,
+including accuracy verification, completeness requirements, and consistency
+checks, enforced through the Peer-to-Peer Audit mechanism. Networks whose
+data contributions fail data quality standards shall receive Level 1
+graduated response under Section 103(c)(2)(A) of the Federal Resilience and
+Decentralization Initiatives Act, with technical assistance provided to
+improve data quality before any further response is considered.
+
+(d) LONGITUDINAL DATA PRESERVATION.-- The Analytics Commons shall maintain
+a longitudinal data archive preserving baseline data contributions from all
+certified networks over the full history of the Federated Network, stored
+on the National Resilience Ledger in a format accessible to authorized
+researchers and network governance bodies. The longitudinal archive shall:
+
+    (1) enable retrospective analysis of commons development trajectories,
+    supporting the adequacy reviews required by Section 212 of the Federal
+    Resilience and Decentralization Initiatives Act;
+
+    (2) provide the empirical foundation for resilience scenario modeling
+    under Section 301(b)(5) of this Title; and
+
+    (3) constitute a public record of the commons economy's development,
+    accessible to researchers, policymakers, and international commons
+    development practitioners through the Intellectual Property Commons.
+
+--------------------------------------------------------------------------------
+SEC. 306. ANALYTICS COMMONS GOVERNANCE COUNCIL.
+--------------------------------------------------------------------------------
+
+(a) ESTABLISHMENT.-- There is established the Analytics Commons Governance
+Council: the primary governance institution of the Analytics Commons
+established by this Title. The Analytics Commons Governance Council is a
+commons governance institution, not a governmental body, operating under the
+nested governance architecture of Standard 8 of Section 102(i) of the Federal
+Resilience and Decentralization Initiatives Act and accountable to the Commons
+Members whose collective resources it governs.
+
+(b) COMPOSITION.-- The Analytics Commons Governance Council shall comprise:
+
+    (1) elected representatives of Qualified Federated Networks, with
+    representation proportional to the volume of Analytics Commons tool usage
+    within each network, subject to a minimum of one representative per
+    certified Qualified Federated Network regardless of usage volume;
+
+    (2) representatives of the open-source analytics and data commons
+    development communities, with not fewer than three seats held by persons
+    nominated by recognized open-source governance organizations, selected
+    through a process determined by the IP Commons Governance Council;
+
+    (3) a permanent liaison from the Data Commons Governance Council
+    established under Section 405 of the Federal Resilience and
+    Decentralization Initiatives Act, with authority to raise privacy
+    concerns and to require compliance review of any Analytics Commons
+    tool or function that the liaison believes may conflict with the data
+    governance requirements of Title IV of that Act;
+
+    (4) a non-voting liaison from the Technical Standards Body established
+    under Section 701(d) of the Federal Resilience and Decentralization
+    Initiatives Act, for the purpose of coordinating Analytics Commons
+    development with the Federated Mesh Open Standard; and
+
+    (5) technical advisors, in a non-voting capacity, with expertise in
+    data integration, machine learning, privacy-preserving computation,
+    and open-source governance, appointed by the elected representatives
+    for two-year renewable terms.
+
+(c) FUNCTIONS.-- The Analytics Commons Governance Council shall:
+
+    (1) govern the development, maintenance, and quality of all Analytics
+    Commons tools, including setting development priorities, reviewing
+    contributed tools for privacy compliance and commons compatibility,
+    and deprecating tools that no longer serve the governance needs of
+    the Federated Network;
+
+    (2) conduct the surveillance function audits required by Section
+    302(e) of this Title and certify the removal of surveillance
+    capabilities from all contributed Intelligence-Community-Funded
+    Analytics Platform components before those components are made
+    available through the Analytics Commons;
+
+    (3) establish and maintain the Analytics Commons data interchange
+    standards in coordination with the Technical Standards Body;
+
+    (4) govern the Commons Analytics Development Program established
+    under Section 303 of this Title, including setting development
+    priorities, reviewing grant applications, and assessing the commons
+    compatibility of funded work products;
+
+    (5) manage the longitudinal data archive established under Section
+    305(d) of this Title, including access governance for researchers
+    and international commons development practitioners;
+
+    (6) conduct, on its own authority and without requiring initiation
+    by the IP Commons Governance Council, a biennial adequacy review of
+    the Analytics Commons framework, assessing whether the tools available,
+    the data standards in effect, and the governance architecture of this
+    Title continue to serve the resource coordination and collective
+    decision-support needs of the Federated Network; the results of each
+    adequacy review shall be reported to the IP Commons Governance Council
+    for integration into that Council's network-wide adequacy review under
+    Section 212 of Title II of the Federal Resilience and Decentralization
+    Initiatives Act, and shall be submitted independently to Congress and
+    recorded on the National Resilience Ledger; and
+
+    (7) report annually to the Federated Network membership and to
+    Congress on the state of the Analytics Commons, including the tools
+    available, the networks using them, the data quality of baseline
+    contributions, and any governance concerns regarding the commons'
+    integrity or equity, with the report recorded on the National
+    Resilience Ledger.
+
+(d) PRIVACY SUPREMACY PROVISION.-- In any conflict between the analytical
+capabilities that the Analytics Commons Governance Council wishes to deploy
+and the privacy protections that the Data Commons Governance Council
+determines are required under Title IV of the Federal Resilience and
+Decentralization Initiatives Act, the privacy protections shall prevail.
+The Analytics Commons Governance Council shall not deploy any tool, method,
+or data standard that the Data Commons Governance Council has determined
+is inconsistent with the privacy architecture of that Act, and the Data
+Commons Governance Council's determination on any such conflict shall be
+final subject only to appeal to the full Federated Network membership
+through the network-wide referendum process of Section 509(e) of the
+Federal Resilience and Decentralization Initiatives Act.
+
+================================================================================
+TITLE IV -- AUTOMATION GOVERNANCE
+================================================================================
+
+The purpose of this Title is to establish the legal architecture governing
+automated systems deployed within and affecting the Federated Network,
+ensuring that automation serves the commons rather than displacing it, that
+the productivity gains automation generates flow to Commons Members rather
+than to the owners of automated systems, and that no automated system makes
+final determinations affecting individual rights without human review. The
+commons does not resist automation. A commons economy in which automated
+systems free members from drudge labor, expand the productive capacity of
+cooperative enterprises, and extend the analytical capabilities of network
+governance is a more abundant commons than one that forgoes those gains out
+of misplaced attachment to the labor forms of the prior economy. What the
+commons resists is the enclosure of automation's benefits: the arrangement
+under which the productivity gains of automated systems flow to shareholders
+while the displacement costs fall on workers. The governance architecture
+of this Title ensures that automated systems deployed in commons
+infrastructure are governed as commons resources, their gains distributed
+as commons provisions, and their operations subject to the human oversight
+that both constitutional due process and the practical requirements of just
+governance demand.
+
+--------------------------------------------------------------------------------
+SEC. 401. THE COMMONS AUTOMATION PRINCIPLE.
+--------------------------------------------------------------------------------
+
+(a) DECLARATION.-- It is hereby declared to be the governing principle of
+automated system deployment within the Federated Network that:
+
+    (1) automated systems deployed in commons infrastructure are commons
+    resources, governed through the democratic processes of the Qualified
+    Federated Cooperative or Qualified Federated Network within whose
+    infrastructure they operate, under the Ostrom Standards of Stewardship;
+
+    (2) the productive output of automated systems deployed in commons
+    infrastructure belongs to the commons, and no individual, enterprise,
+    or external party may capture that output for private benefit at the
+    expense of the Commons Members whose collective infrastructure enables
+    the automation;
+
+    (3) automation deployed in commons infrastructure serves the commons by
+    reducing the labor burden on Commons Members, improving the quality and
+    abundance of commons provisions, and expanding the capacity of commons
+    networks to serve their members and their communities, and not by
+    replacing meaningful human participation in cooperative governance and
+    community life; and
+
+    (4) the pace and scope of automation deployment within any Qualified
+    Federated Network is governed through that network's collective-choice
+    processes, ensuring that automation proceeds at a rate the community
+    has collectively determined serves its members' wellbeing rather than
+    at a rate imposed by external technological or economic pressures.
+
+(b) APPLICATION.-- The Commons Automation Principle applies to all automated
+systems deployed in the following categories of commons infrastructure:
+
+    (1) cooperative energy generation, storage, and distribution systems,
+    including automated microgrid management, demand response systems, and
+    energy storage optimization;
+
+    (2) cooperative food production, processing, and distribution systems,
+    including automated agricultural equipment, food processing automation,
+    and logistics management;
+
+    (3) cooperative manufacturing and fabrication infrastructure, including
+    computer numerical control systems, additive manufacturing, and automated
+    materials handling;
+
+    (4) commons governance and coordination systems, including the Asynchronous
+    Resource Coordination protocol, the Peer-to-Peer Audit mechanism, the
+    National Resilience Ledger smart contract functions, and the Analytics
+    Commons tools established under Title III of this Act;
+
+    (5) cooperative healthcare infrastructure, including diagnostic support
+    systems, medical device automation, and health data management systems;
+    and
+
+    (6) cooperative communications and information infrastructure, including
+    the Federated Mesh routing systems and the commons digital platform
+    infrastructure established under the Federal Resilience and
+    Decentralization Initiatives Act.
+
+(c) PROHIBITION ON ANTI-COMMONS AUTOMATION.-- No automated system shall be
+deployed within the Federated Network whose design or operation:
+
+    (1) is intended to reduce the Guaranteed Provision Standard of any Commons
+    Member as a consequence of the automation of labor previously performed
+    by that member;
+
+    (2) concentrates control over commons resources in any individual,
+    enterprise, or automated system in a manner that forecloses meaningful
+    collective governance of those resources by the broader membership;
+
+    (3) generates outputs that are presented to Commons Members as operational
+    directives rather than as inputs to collective governance decisions, except
+    for routine execution functions within governance parameters already
+    established through collective-choice processes; or
+
+    (4) collects personal data on Commons Members as a byproduct of its
+    operational functions, beyond the minimum data strictly necessary for
+    the specific automation function, in violation of the data minimization
+    requirements of Section 407 of the Federal Resilience and Decentralization
+    Initiatives Act.
+
+--------------------------------------------------------------------------------
+SEC. 402. THE AUTOMATION DIVIDEND.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the productivity gains generated by
+automated systems deployed within the Federated Network represent a collective
+achievement of the commons economy: they are made possible by the shared
+infrastructure, the cooperative governance, and the collective investment that
+Commons Members have contributed to building the network. Those gains therefore
+belong to the commons, and their distribution through the Automation Dividend
+established by this Section is not a redistribution of private wealth but a
+recognition of the collective origin of commons productivity.
+
+(b) PRODUCTIVITY GAIN MEASUREMENT.-- Every Qualified Federated Cooperative
+or Qualified Federated Network that deploys an automated system within the
+categories established in Section 401(b) of this Title shall, through its
+Peer-to-Peer Audit self-reporting obligations under Section 103(c)(1)(A) of
+the Federal Resilience and Decentralization Initiatives Act, report:
+
+    (1) the productive output of each deployed automated system, measured
+    in units appropriate to the system's function, including kilowatt-hours
+    generated by automated energy systems, units of food produced or
+    distributed by automated agricultural and logistics systems, and goods
+    produced by automated manufacturing systems;
+
+    (2) the labor hours that would have been required to produce equivalent
+    output through non-automated means, calculated using the standard labor
+    equivalency rates established by the Commons Credit Governance Council
+    under Section 608(c)(2) of the Federal Resilience and Decentralization
+    Initiatives Act; and
+
+    (3) the net productivity gain attributable to automation, defined as the
+    difference between the labor hours equivalent to automated output and the
+    labor hours actually expended in operating, maintaining, and governing the
+    automated system.
+
+(c) DIVIDEND DISTRIBUTION.-- The net productivity gain reported pursuant to
+subsection (b) of this Section shall be distributed through the Automation
+Dividend on the following terms:
+
+    (1) not less than fifty percent of the net productivity gain, denominated
+    in Commons Credits at the equivalency rates established under subsection
+    (b)(2) of this Section, shall be contributed to the reduction of required
+    labor contributions for Commons Members within the network, implemented
+    as a reduction in the time-banking and cooperative work obligations that
+    the network's collective-choice processes establish as conditions of full
+    commons participation, effective in the fiscal period following the
+    reporting period in which the gain was measured;
+
+    (2) not less than twenty-five percent shall be contributed to improvements
+    in the Guaranteed Provision Standard within the network, applied to the
+    provision component or components that the network's collective-choice
+    processes identify as most in need of enhancement, with the investment
+    recorded on the National Resilience Ledger as an Automation Dividend
+    provision improvement;
+
+    (3) not less than fifteen percent shall be contributed to the Bootstrap
+    Grant Program established under Section 106 of the Federal Resilience
+    and Decentralization Initiatives Act, designated for use in Underserved
+    Areas pursuant to Section 105(b) of that Act, ensuring that the
+    productivity gains of automation-capable networks support the development
+    of networks that have not yet achieved automation capacity; and
+
+    (4) the remaining amount, not less than ten percent, shall be held in
+    a Commons Automation Reserve Fund, governed by the network's collective-
+    choice processes, for the maintenance, replacement, and future development
+    of the automated systems generating the dividend.
+
+(d) WORKER TRANSITION PROTECTION.-- Where the deployment of an automated
+system within a Qualified Federated Cooperative results in the reduction of
+labor needs in a specific cooperative enterprise:
+
+    (1) no Commons Member whose labor contribution is reduced by automation
+    shall experience any reduction in their Guaranteed Provision Standard
+    as a consequence of that reduction, consistent with the unconditional
+    character of the Guaranteed Provision Standard established under Section
+    202(a) of the Federal Resilience and Decentralization Initiatives Act;
+
+    (2) Commons Members whose specific cooperative labor roles are automated
+    shall receive priority placement in other cooperative enterprise
+    opportunities within the Federated Network, with the network's collective-
+    choice processes establishing a transition support program funded through
+    the Automation Dividend; and
+
+    (3) the pace of automation deployment within any cooperative enterprise
+    shall be subject to collective-choice approval by the membership of that
+    enterprise, ensuring that automation proceeds at a rate that allows for
+    orderly transition rather than sudden displacement.
+
+(e) AUTOMATION DIVIDEND REPORTING.-- The Commons Credit Governance Council
+established under Section 608 of the Federal Resilience and Decentralization
+Initiatives Act shall include in its annual report to Congress and the Federated
+Network membership a comprehensive Automation Dividend Report covering:
+
+    (1) the total net productivity gains generated by automated systems across
+    the Federated Network during the reporting period, disaggregated by
+    automation category and geographic region;
+
+    (2) the distribution of those gains across the four dividend streams of
+    subsection (c) of this Section, with specific documentation of provision
+    improvements and labor obligation reductions achieved;
+
+    (3) an assessment of whether the Automation Dividend distribution is
+    serving the commons equitably across networks of different sizes,
+    geographic locations, and automation capacities; and
+
+    (4) recommendations for adjustments to the dividend distribution
+    percentages or the productivity gain measurement methodology, subject
+    to adoption through the governance process of Section 608(c) of the
+    Federal Resilience and Decentralization Initiatives Act.
+
+--------------------------------------------------------------------------------
+SEC. 403. THE OPEN-SOURCE AUTOMATION MANDATE.
+--------------------------------------------------------------------------------
+
+(a) REQUIREMENT.-- All automated systems deployed in the categories established
+in Section 401(b) of this Title, within any certified Qualified Federated
+Cooperative or Qualified Federated Network, shall comply with the Open-Source
+Automation Mandate, meaning:
+
+    (1) the source code, training data, model weights, and operational
+    parameters of the automated system shall be published under a copyleft
+    open-source license consistent with Section 507 of the Federal Resilience
+    and Decentralization Initiatives Act, and made accessible through the
+    Intellectual Property Commons;
+
+    (2) the automated system's decision logic, including the rules, thresholds,
+    and optimization objectives governing its outputs, shall be documented in
+    plain language accessible to non-technical Commons Members and published
+    on the National Resilience Ledger alongside the system's technical
+    documentation;
+
+    (3) the automated system shall be auditable by the network's Peer-to-Peer
+    Audit mechanism, providing verifiable outputs that can be cross-validated
+    against physical measurements through the Federated Mesh Open Standard;
+    and
+
+    (4) any modification to the automated system's source code, training data,
+    or operational parameters shall be recorded on the National Resilience
+    Ledger and shall require collective-choice approval by the governing
+    Qualified Federated Cooperative or Qualified Federated Network before
+    deployment, except for routine maintenance updates that do not alter the
+    system's decision logic or optimization objectives.
+
+(b) COMPLIANCE TIMELINE.-- Automated systems already deployed within Qualified
+Federated Networks at the time of enactment of this Act shall achieve
+compliance with the Open-Source Automation Mandate on the following schedule:
+
+    (1) within one year of enactment, for systems governing energy generation,
+    distribution, or storage infrastructure;
+
+    (2) within two years of enactment, for systems governing food production,
+    processing, or distribution infrastructure;
+
+    (3) within three years of enactment, for systems governing commons
+    governance, coordination, and analytics functions; and
+
+    (4) within four years of enactment, for all other automated systems within
+    the scope of Section 401(b) of this Title.
+
+(c) TECHNICAL ASSISTANCE.-- The Technical Standards Body established under
+Section 701(d) of the Federal Resilience and Decentralization Initiatives Act
+shall provide technical assistance to Qualified Federated Networks in achieving
+Open-Source Automation Mandate compliance, including:
+
+    (1) model open-source licensing templates and documentation standards
+    for each category of commons automation;
+
+    (2) technical guidance on the auditability requirements of subsection
+    (a)(3) of this Section, including specifications for the data formats
+    and interface standards that enable Peer-to-Peer Audit cross-validation
+    of automated system outputs; and
+
+    (3) Bootstrap Grant funding designated for Open-Source Automation Mandate
+    compliance costs, available through the Coverage Extension Grant stream
+    of Section 106(b)(4) of the Federal Resilience and Decentralization
+    Initiatives Act.
+
+(d) THIRD-PARTY AUTOMATION.-- Where a Qualified Federated Network operates
+automated systems developed by third-party vendors rather than by the network
+itself, the network shall:
+
+    (1) require as a condition of any procurement or licensing agreement that
+    the vendor comply with the Open-Source Automation Mandate with respect to
+    the system's deployment within the network, contributing the relevant
+    source code and documentation to the Intellectual Property Commons as
+    a condition of the agreement; and
+
+    (2) include a specific provision in any such agreement requiring the vendor
+    to contribute any improvements or modifications to the system developed
+    during the term of the agreement to the Intellectual Property Commons
+    under the copyleft license, consistent with the commons reinvestment
+    obligations of Section 307(d)(3) of the Federal Resilience and
+    Decentralization Initiatives Act.
+
+(e) NON-COMPLIANCE CONSEQUENCES.-- A Qualified Federated Network that deploys
+or continues to operate an automated system not in compliance with the Open-
+Source Automation Mandate after the applicable deadline established in
+subsection (b) of this Section shall be subject to Level 1 graduated response
+under Section 103(c)(2)(A) of the Federal Resilience and Decentralization
+Initiatives Act for the period of non-compliance, escalating to Level 2 if
+compliance is not achieved within ninety days of the Level 1 notice.
+
+--------------------------------------------------------------------------------
+SEC. 404. ALGORITHMIC GOVERNANCE PROHIBITION.
+--------------------------------------------------------------------------------
+
+(a) ABSOLUTE PROHIBITION.-- No automated system, algorithm, machine learning
+model, or artificial intelligence application deployed within or affecting
+the Federated Network shall make or constitute the final determination of
+any matter that materially affects the rights, provisions, standing, or
+obligations of any individual Commons Member, without human review and
+authorization through the Human-in-the-Loop Layer established under Section
+803 of the Federal Resilience and Decentralization Initiatives Act.
+
+(b) SCOPE.-- The prohibition established by subsection (a) of this Section
+applies to all of the following categories of determination, without exception:
+
+    (1) any determination affecting a Commons Member's entitlement to any
+    component of the Guaranteed Provision Standard;
+
+    (2) any determination affecting a Commons Member's governance rights
+    within any Qualified Federated Cooperative or Qualified Federated Network;
+
+    (3) any determination affecting a Commons Member's certification status,
+    attribution registrations, or Commons Credit balance;
+
+    (4) any determination made through the Accountability Coordination DAO
+    or the transformative justice processes of the Human Reclamation and
+    Community Restorative Act, consistent with the prohibition on algorithmic
+    justice determinations established in Section 206(c) of that Act;
+
+    (5) any determination by any federal agency affecting the rights or
+    benefits of any individual, where that determination is substantially
+    generated by an automated system without independent human review on the
+    merits; and
+
+    (6) any military targeting determination involving the potential use of
+    lethal force against any specific individual, consistent with the
+    requirements of international humanitarian law and the laws of armed
+    conflict, which require human judgment as a matter of legal obligation
+    as well as constitutional due process.
+
+(c) AUTOMATED RECOMMENDATIONS DISTINGUISHED.-- The prohibition established
+by subsection (a) of this Section does not prohibit automated systems from
+generating recommendations, analyses, flags, or supporting information that
+human decision-makers consider in reaching a determination. The prohibition
+applies to the final determination, not to the inputs that inform it. The
+distinction between a prohibited automated final determination and a
+permissible automated recommendation is:
+
+    (1) a determination is automated and prohibited where the human reviewer
+    lacks meaningful access to the evidence and reasoning underlying the
+    automated output and cannot independently assess its accuracy and fairness;
+
+    (2) a determination is automated and prohibited where the practical effect
+    of the human review is rubber-stamping of the automated output due to
+    volume, time pressure, or information asymmetry, regardless of the formal
+    availability of human override; and
+
+    (3) a recommendation is permissible where the human reviewer has full
+    access to the underlying evidence, has genuine capacity and time to assess
+    the recommendation independently, and retains real authority to reach a
+    different conclusion without institutional pressure toward conformity with
+    the automated output.
+
+(d) AUTOMATION BIAS TRAINING.-- Consistent with the automation bias training
+requirements of Section 803(d)(4) of the Federal Resilience and
+Decentralization Initiatives Act, all human reviewers exercising oversight
+of automated systems under this Section shall receive training that:
+
+    (1) explicitly addresses the empirical literature on automation bias,
+    including the documented tendency of human reviewers to defer to automated
+    outputs even when those outputs are demonstrably incorrect;
+
+    (2) provides practical exercises in identifying cases where automated
+    systems have produced outputs inconsistent with the facts of specific
+    situations; and
+
+    (3) establishes institutional review processes in which the rate of human
+    override of automated recommendations is tracked and reported, with
+    anomalously low override rates treated as an indicator of potential
+    automation bias requiring investigation rather than as evidence of
+    automated system accuracy.
+
+(e) FEDERAL AGENCY COMPLIANCE.-- All federal agencies that deploy automated
+decision-making systems affecting the rights or benefits of individuals shall,
+within two years of the date of enactment of this Act:
+
+    (1) audit all deployed automated decision systems against the prohibition
+    established by subsection (a) of this Section, identifying any system
+    that is making or effectively making final determinations without adequate
+    human review;
+
+    (2) remediate all identified violations by establishing genuine human
+    review processes meeting the standards of subsection (c) of this Section;
+    and
+
+    (3) report the results of the audit and the remediation actions taken to
+    Congress, with the report made publicly available through the National
+    Resilience Ledger.
+
+--------------------------------------------------------------------------------
+SEC. 405. AUTOMATION AND CREATIVE LABOR.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the application of automated systems to
+creative work -- including the generation of literary, musical, visual, and
+other artistic output through artificial intelligence -- raises specific
+governance questions that the Commons Automation Principle and the IP Commons
+attribution framework of the Federal Resilience and Decentralization
+Initiatives Act address together, but that warrant specific acknowledgment
+in the context of this Title's broader automation governance architecture.
+Creative labor is not merely a category of productive activity; it is a
+primary domain of human meaning-making, and the governance of automation
+in this domain requires particular care to ensure that automated creative
+tools serve human creative expression rather than displacing it as the
+primary source of cultural life within the commons.
+
+(b) CREATIVE AUTOMATION PRINCIPLES.-- Automated systems deployed within the
+Federated Network for creative assistance, content generation, or cultural
+production shall be governed by the following principles, supplementing the
+attribution rules of Section 510 of the Federal Resilience and
+Decentralization Initiatives Act:
+
+    (1) automated creative tools shall be designed and deployed as instruments
+    that expand the creative capacity of Commons Members rather than as
+    substitutes for human creative participation in commons cultural life;
+
+    (2) the deployment of automated creative tools within a Qualified Federated
+    Network shall be subject to collective-choice governance by the network's
+    membership, which shall determine the appropriate role of automated
+    creative assistance in the network's cultural programming, educational
+    activities, and community expression;
+
+    (3) no automated creative system shall be presented to Commons Members as
+    a human creator or as the product of human creative labor without
+    disclosure of its automated origin, consistent with the attribution
+    transparency requirements of Section 504 of the Federal Resilience and
+    Decentralization Initiatives Act; and
+
+    (4) the productivity gains of automated creative tools deployed within
+    commons cultural institutions -- including reduced costs of content
+    production, expanded creative output, and enhanced accessibility of
+    cultural participation -- shall be distributed through the Automation
+    Dividend mechanism of Section 402 of this Title, with particular attention
+    to directing a portion of those gains toward supporting human creative
+    practitioners whose labor may be reduced by creative automation.
+
+(c) AI TRAINING DATA AND COMMONS ATTRIBUTION.-- Consistent with Section 510(b)
+(3) of the Federal Resilience and Decentralization Initiatives Act, automated
+systems trained on works contributed to the Intellectual Property Commons shall:
+
+    (1) maintain records of the commons training data used in their development,
+    with those records accessible to the Analytics Commons for the purpose
+    of calculating the collective attribution contributions that commons works
+    make to AI system capabilities;
+
+    (2) contribute to the commons general fund, through a mechanism established
+    by the IP Commons Governance Council, a portion of the Automation Dividend
+    generated by their deployment, in recognition of the collective intellectual
+    contribution that commons training data represents; and
+
+    (3) be subject to the copyleft mandate of Section 507 of the Federal
+    Resilience and Decentralization Initiatives Act with respect to any creative
+    outputs that are substantially derived from commons training data, ensuring
+    that the commons contribution to AI creative capability is reciprocated
+    through contribution back to the commons.
+
+--------------------------------------------------------------------------------
+SEC. 406. AUTOMATION GOVERNANCE COUNCIL.
+--------------------------------------------------------------------------------
+
+(a) ESTABLISHMENT.-- There is established the Automation Governance Council:
+a commons governance institution responsible for the ongoing governance of
+automated systems deployed within the Federated Network, operating under the
+nested governance architecture of Standard 8 of Section 102(i) of the Federal
+Resilience and Decentralization Initiatives Act and accountable to the Commons
+Members whose cooperative infrastructure the automation serves.
+
+(b) COMPOSITION.-- The Automation Governance Council shall comprise:
+
+    (1) elected representatives of Qualified Federated Networks, with
+    representation proportional to the volume of automated system deployments
+    within each network, subject to a minimum of one representative per
+    certified Qualified Federated Network;
+
+    (2) worker representatives from cooperative enterprises operating automated
+    systems within the Federated Network, with not fewer than five seats held
+    by persons nominated by labor cooperative governance bodies, ensuring
+    that the perspectives of workers whose labor is most directly affected
+    by automation deployment are represented in its governance;
+
+    (3) a permanent liaison from the IP Commons Governance Council established
+    under Section 509 of the Federal Resilience and Decentralization
+    Initiatives Act, for the purpose of coordinating automation governance
+    with the AI-generated works attribution framework of Section 510 of
+    that Act;
+
+    (4) a permanent liaison from the Analytics Commons Governance Council
+    established under Section 306 of this Title, for the purpose of
+    coordinating automation governance with the analytics infrastructure
+    that monitoring automated system performance requires; and
+
+    (5) technical advisors, in a non-voting capacity, with expertise in
+    automated systems, artificial intelligence, labor economics, and
+    cooperative governance, appointed by the elected representatives for
+    two-year renewable terms, with the Platform Cooperativism Consortium
+    invited to nominate a standing technical advisor for matters relating to
+    the cooperative governance of digital platforms and algorithmic systems;
+    the nomination is advisory and the elected representatives retain full
+    discretion over the appointment.
+
+(c) FUNCTIONS.-- The Automation Governance Council shall:
+
+    (1) monitor compliance with the Open-Source Automation Mandate established
+    under Section 403 of this Title, in coordination with the Peer-to-Peer
+    Audit mechanism, and recommend graduated response actions to the Office
+    of Federated Stewardship or, following the network maturity threshold,
+    to the network's self-governance bodies for non-compliant deployments;
+
+    (2) govern the Automation Dividend measurement methodology and distribution
+    standards established under Section 402 of this Title, in coordination
+    with the Commons Credit Governance Council, updating those standards through
+    open deliberative process as the commons economy's automation capacity
+    develops;
+
+    (3) assess the impact of automation deployment on labor contribution
+    patterns across the Federated Network, identifying categories of commons
+    work being displaced by automation and recommending transition support
+    measures through the Automation Dividend worker transition provisions of
+    Section 402(d) of this Title;
+
+    (4) establish and maintain commons standards for automated system safety,
+    reliability, and fail-safe behavior, applicable to all automated systems
+    deployed in commons-critical infrastructure, with particular attention
+    to ensuring that automated system failures activate the Local Resilience
+    Mode protocols of Section 704(b) of the Federal Resilience and
+    Decentralization Initiatives Act rather than cascading through interconnected
+    commons infrastructure;
+
+    (5) conduct the federal agency compliance review established under Section
+    404(e) of this Title, providing technical assistance to agencies seeking
+    to remediate automated governance violations;
+
+    (6) conduct, on its own authority and without requiring initiation by the
+    IP Commons Governance Council, a biennial adequacy review of the automation
+    governance framework, assessing whether the Open-Source Automation Mandate,
+    the Automation Dividend distribution standards, and the Algorithmic
+    Governance Prohibition continue to serve the commons values of this Title
+    in light of developments in automated systems technology and commons economy
+    practice; the results of each adequacy review shall be reported to the IP
+    Commons Governance Council for integration into that Council's network-wide
+    adequacy review, and shall be submitted independently to Congress and recorded
+    on the National Resilience Ledger; and
+
+    (7) report annually to the Federated Network membership and to Congress
+    on the state of automation within the commons economy, including the
+    Automation Dividend Report required by Section 402(e) of this Title,
+    an assessment of Open-Source Automation Mandate compliance, and
+    recommendations for legislative or governance adjustments in response
+    to emerging automation developments.
+
+(d) RELATIONSHIP TO HUMAN-IN-THE-LOOP LAYER.-- The Automation Governance
+Council shall work in close coordination with the Human Review Panel
+infrastructure of the Human-in-the-Loop Layer established under Section 803
+of the Federal Resilience and Decentralization Initiatives Act, including by:
+
+    (1) providing training materials on the specific automated systems deployed
+    within each Qualified Federated Network to Human Review Panel members,
+    ensuring that reviewers understand the logic, limitations, and known
+    failure modes of the systems whose outputs they review; and
+
+    (2) analyzing patterns in Human Review Panel override rates across the
+    network to identify automated systems that are generating systematically
+    flawed outputs, escalating to Open-Source Automation Mandate compliance
+    review where override patterns suggest fundamental design problems.
+
+================================================================================
+TITLE V -- ADMINISTRATIVE AND JUDICIAL PROVISIONS
+================================================================================
+
+The purpose of this Title is to establish the administrative framework,
+judicial review mechanisms, dependency provisions, conforming amendments to
+existing federal law, and appropriations authorities necessary to make the
+preceding Titles of this Act operative and durable. As with the equivalent
+provisions of the Federal Resilience and Decentralization Initiatives Act and
+the Human Reclamation and Community Restorative Act, this Title does not create
+new substantive rights or obligations. It provides the legal infrastructure
+through which the rights and obligations established in Titles I through IV
+are administered, enforced, integrated into the existing body of federal law,
+and protected against the administrative erosion and executive reinterpretation
+that commonly attenuate the effect of reform legislation between sessions of
+Congress. The provisions of this Title are drafted with particular attention
+to the specific vulnerabilities of defense posture and automation governance
+legislation: the tendency of executive branch actors to reinterpret national
+security mandates in ways that restore the postures Congress has directed them
+to change, and the tendency of administrative agencies to treat algorithmic
+governance prohibitions as aspirational rather than binding. Both tendencies
+are directly addressed in this Title.
+
+--------------------------------------------------------------------------------
+SEC. 501. DEPENDENCY ON THE FRDI ACT AND HRCR ACT.
+--------------------------------------------------------------------------------
+
+(a) STRUCTURAL DEPENDENCY.-- The defense posture reorientation, commons network
+security, analytics commons, and automation governance provisions of this Act
+are structurally dependent upon the material and social commons infrastructure
+established by the Federal Resilience and Decentralization Initiatives Act and
+the Human Reclamation and Community Restorative Act. Specifically:
+
+    (1) the force structure transition of Title I of this Act is strategically
+    coherent only as the domestic commons infrastructure of the Federal
+    Resilience and Decentralization Initiatives Act matures, reducing the
+    material dependence on petrodollar arrangements that the prior defense
+    posture protected, and the transition timelines of Section 103 of Title I
+    are calibrated accordingly;
+
+    (2) the commons network security provisions of Title II of this Act
+    presuppose the existence of certified Qualified Federated Networks operating
+    under the Ostrom Standards of Stewardship established by the Federal
+    Resilience and Decentralization Initiatives Act, and the security
+    architecture of Title II functions through the distributed governance
+    mechanisms of that Act rather than through independent administrative
+    infrastructure;
+
+    (3) the Analytics Commons of Title III of this Act is a component of the
+    Intellectual Property Commons established by the Federal Resilience and
+    Decentralization Initiatives Act, governed through the commons governance
+    institutions of that Act, and its operation depends upon the data
+    governance architecture, the Peer-to-Peer Audit mechanism, and the National
+    Resilience Ledger infrastructure of that Act being in place; and
+
+    (4) the automation governance provisions of Title IV of this Act operate
+    through and reinforce the Human-in-the-Loop Layer, the Open-Source mandate,
+    and the commons credit architecture of the Federal Resilience and
+    Decentralization Initiatives Act, and independently through the
+    transformative justice prohibitions on algorithmic governance in the Human
+    Reclamation and Community Restorative Act.
+
+(b) TRIGGERING CONDITIONS.-- The following provisions of this Act shall not
+take operative effect in any geographic area or institutional context until
+the specified triggering conditions are met:
+
+    (1) the Commons Infrastructure Defense Program of Section 102(c) of Title
+    I of this Act shall not extend support to any Qualified Federated Network
+    until that network has achieved certification pursuant to Title I of the
+    Federal Resilience and Decentralization Initiatives Act;
+
+    (2) the Analytics Commons tools of Title III of this Act shall not be
+    deployed within any network until that network's compliance with the data
+    governance requirements of Title IV of the Federal Resilience and
+    Decentralization Initiatives Act has been verified through the Peer-to-Peer
+    Audit mechanism; and
+
+    (3) the Automation Dividend distribution mechanism of Section 402 of Title
+    IV of this Act shall not be operative within any network until that network
+    has established the Commons Credit infrastructure required for dividend
+    denomination and distribution pursuant to Title VI of the Federal
+    Resilience and Decentralization Initiatives Act.
+
+(c) FEDERAL BACKSTOP.-- Where the triggering conditions of subsection (b)
+of this Section have not been met in a geographic area affected by the defense
+posture transition of Title I of this Act, the federal government shall:
+
+    (1) accelerate the Bootstrap Grant and coverage extension provisions of
+    Sections 105 and 106 of the Federal Resilience and Decentralization
+    Initiatives Act for that area, treating the absence of a receiving commons
+    network as a coverage gap of the highest security priority; and
+
+    (2) ensure that any defense savings realized through the force structure
+    transition of Section 103 of Title I of this Act that are attributable to
+    reduced commitments in areas without established commons networks are
+    directed specifically toward the Bootstrap Grant Program for those areas,
+    accelerating the commons development that makes the transition strategically
+    coherent.
+
+--------------------------------------------------------------------------------
+SEC. 502. EXECUTIVE BRANCH COMPLIANCE MECHANISMS.
+--------------------------------------------------------------------------------
+
+(a) NON-REINTERPRETATION PROVISION.-- The defense posture declaration of
+Section 101 of Title I of this Act and the missions no longer constituting
+primary defense policy under Section 101(b) of that Title are statutory
+directives to the Executive Branch, not grants of discretion to the Executive
+Branch to determine what those provisions mean. Specifically:
+
+    (1) no executive order, presidential directive, national security
+    memorandum, or administrative guidance shall be issued that reinterprets
+    the missions no longer constituting primary defense policy under Section
+    101(b) of Title I of this Act in a manner that restores those missions
+    as primary defense commitments under different terminology or framing;
+
+    (2) any executive order or presidential directive that purports to authorize
+    defense commitments inconsistent with the Resilience-Based Defense Posture
+    declared in Section 101(a) of Title I of this Act shall be subject to
+    immediate judicial review under the standard established in Section 505(c)
+    of this Title upon the application of any member of Congress or any
+    certified Qualified Federated Network; and
+
+    (3) the Secretary of Defense shall include in each annual defense posture
+    report to Congress a specific certification that the defense activities of
+    the preceding year were consistent with the Resilience-Based Defense
+    Posture declaration, with any inconsistencies identified and explained.
+
+(b) ALGORITHMIC GOVERNANCE PROHIBITION ENFORCEMENT.-- The prohibition on
+automated final determinations established in Section 404 of Title IV of this
+Act shall be enforced against federal agencies through the following mechanisms,
+supplementing the agency compliance audit required by Section 404(e) of that
+Title:
+
+    (1) the Office of Management and Budget shall issue guidance to all federal
+    agencies within one year of the date of enactment of this Act establishing
+    the standards for human review processes that satisfy Section 404(c) of
+    Title IV of this Act, with particular attention to the rubber-stamping
+    prohibition of Section 404(c)(2) of that Title;
+
+    (2) the Government Accountability Office shall conduct biennial audits of
+    federal agency automated decision systems, assessing compliance with Section
+    404 of Title IV of this Act and reporting findings to Congress with
+    recommendations for remediation; and
+
+    (3) any individual whose rights or benefits are materially affected by an
+    automated federal agency determination that violates Section 404 of Title
+    IV of this Act shall have a private right of action in any federal district
+    court of competent jurisdiction, with the agency bearing the burden of
+    demonstrating that the determination was made through a human review process
+    meeting the standards of Section 404(c) of that Title.
+
+(c) INTELLIGENCE REFORM COMPLIANCE.-- The mass surveillance termination and
+covert interference prohibition provisions of Section 104 of Title I of this
+Act shall be enforced through the following mechanisms, supplementing the
+Inspector General oversight established by that Section:
+
+    (1) any officer or employee of the Intelligence Community who in good faith
+    reports to the congressional intelligence committees, the Inspector General
+    of the Intelligence Community, or the Privacy and Civil Liberties Oversight
+    Board that an Intelligence Community program is operating in violation of
+    Section 104(b) or Section 104(c) of Title I of this Act shall be entitled
+    to the full protections of the Intelligence Community Whistleblower
+    Protection Act of 1998 and shall not be subject to any adverse personnel
+    action, security clearance revocation, or prosecution arising solely from
+    that disclosure; and
+
+    (2) the Privacy and Civil Liberties Oversight Board shall conduct an annual
+    review of Intelligence Community compliance with Section 104 of Title I
+    of this Act, with a public report submitted to Congress and recorded on
+    the National Resilience Ledger.
+
+--------------------------------------------------------------------------------
+SEC. 503. CONSTITUTIONAL SAFE HARBOR.
+--------------------------------------------------------------------------------
+
+Any federal officer, employee, or agent who in good faith takes any action to
+implement the provisions of this Act, including actions that result in the
+reorientation of defense posture, the termination of mass surveillance programs,
+the contribution of Intelligence-Community-Funded Analytics Platform components
+to the Analytics Commons, the removal of automated final determination systems
+from federal agency operations, or the reduction of executive authority over
+the Federated Network consistent with the Federal Resilience and
+Decentralization Initiatives Act, shall not be subject to civil or criminal
+liability under any federal or state law arising solely from the performance
+of those implementation duties, on terms equivalent to the Constitutional Safe
+Harbor established under Section 1101 of the Federal Resilience and
+Decentralization Initiatives Act. This safe harbor is retroactive to the date
+of introduction of this Act in Congress.
+
+--------------------------------------------------------------------------------
+SEC. 504. SEVERABILITY.
+--------------------------------------------------------------------------------
+
+(a) GENERAL SEVERABILITY.-- If any provision of this Act, or the application
+of any provision to any person or circumstance, is held invalid by a court of
+competent jurisdiction, the remainder of this Act and the application of its
+provisions to other persons or circumstances shall not be affected.
+
+(b) TITLE-LEVEL SEVERABILITY.-- Each Title of this Act is independently
+operative and shall remain in full force and effect if any other Title or any
+provision thereof is held invalid. In particular:
+
+    (1) the invalidity of any provision of Title I concerning defense posture
+    shall not affect the operative force of Titles II, III, or IV, which
+    function independently of the specific defense posture transition
+    timelines;
+
+    (2) the invalidity of any provision of Title II concerning commons network
+    security shall not affect the force structure transition of Title I or
+    the automation governance provisions of Title IV; and
+
+    (3) the invalidity of any provision of the Analytics Commons capture
+    mechanism of Section 302 of Title III shall not affect the open-source
+    analytics development program of Section 303 of that Title, which is
+    independently operative.
+
+(c) SEPARATION OF FUNCTIONS.-- The defense posture, commons security, analytics
+commons, and automation governance functions of this Act are designed with
+sufficient redundancy and independence that the invalidity of any specific
+mechanism does not eliminate the broader function it serves, with alternative
+pathways available through the governance infrastructure of the Federal
+Resilience and Decentralization Initiatives Act.
+
+--------------------------------------------------------------------------------
+SEC. 505. JUDICIAL REVIEW.
+--------------------------------------------------------------------------------
+
+(a) FEDERAL COURT JURISDICTION.-- The federal district courts shall have
+original jurisdiction over:
+
+    (1) actions by Commons Members or Qualified Federated Networks challenging
+    executive actions that violate the non-reinterpretation provision of
+    Section 502(a) of this Title or that exceed the authority expressly
+    conferred by this Act over the Federated Network;
+
+    (2) actions by individuals challenging automated federal agency
+    determinations that violate the Algorithmic Governance Prohibition of
+    Section 404 of Title IV of this Act, pursuant to the private right of
+    action established in Section 502(b)(3) of this Title;
+
+    (3) actions by Qualified Federated Networks or Commons Members challenging
+    domestic enclosure attempts as defined in Section 203(b) of Title II of
+    this Act;
+
+    (4) actions enforcing the foreign adversarial interference prohibitions
+    of Section 202(a) of Title II of this Act; and
+
+    (5) such other actions arising under this Act as present a federal question
+    within the meaning of 28 U.S.C. section 1331.
+
+(b) STANDING.-- Standing to bring actions under this Act shall be construed
+broadly and consistently with the standing provisions of Section 1104(b) of
+the Federal Resilience and Decentralization Initiatives Act. In addition:
+
+    (1) any individual whose rights or benefits are materially affected by an
+    automated determination in violation of Section 404 of Title IV of this
+    Act shall have standing to challenge that determination regardless of
+    whether the individual is a Commons Member;
+
+    (2) any member of Congress shall have standing to challenge executive
+    actions that violate the Resilience-Based Defense Posture declaration
+    of Section 101 of Title I of this Act, in their capacity as a
+    representative exercising constitutional oversight authority; and
+
+    (3) the Analytics Commons Governance Council and the Automation Governance
+    Council shall each have standing to bring enforcement actions within their
+    respective governance domains under this Act.
+
+(c) STANDARD OF REVIEW.-- In any action challenging executive action under
+this Act:
+
+    (1) the court shall apply de novo review without deference to the
+    executive's interpretation of the Resilience-Based Defense Posture
+    declaration or the missions no longer constituting primary defense
+    policy under Section 101 of Title I of this Act;
+
+    (2) any executive action asserting a national security justification for
+    conduct that is otherwise prohibited under this Act shall be subject to
+    searching judicial scrutiny rather than the traditional deference accorded
+    executive national security determinations, on the grounds that this Act
+    itself constitutes a congressional determination of what genuine national
+    security requires and that executive reinterpretation of those
+    requirements is not entitled to deference; and
+
+    (3) the burden of demonstrating that any challenged action falls within
+    the authority conferred by this Act shall rest with the Executive Branch.
+
+(d) PRELIMINARY INJUNCTION STANDARD.-- In any action under this Act, the
+court shall apply the modified preliminary injunction standard established in
+Section 104(e)(4) of the Federal Resilience and Decentralization Initiatives
+Act, adapted as follows:
+
+    (1) a showing that the challenged executive action violates the Resilience-
+    Based Defense Posture declaration, the Algorithmic Governance Prohibition,
+    or the commons network security provisions of this Act shall constitute a
+    sufficient showing of likelihood of success on the merits;
+
+    (2) any disruption to the Guaranteed Provision Standard of Commons Members
+    caused by the challenged action shall constitute irreparable harm per se;
+    and
+
+    (3) the integrity and continuity of the commons transition established by
+    this legislative program shall be deemed to constitute the public interest.
+
+--------------------------------------------------------------------------------
+SEC. 506. CONFORMING AMENDMENTS.
+--------------------------------------------------------------------------------
+
+(a) NATIONAL SECURITY ACT OF 1947.-- The National Security Act of 1947,
+codified at 50 U.S.C. section 3001 et seq., is hereby amended to:
+
+    (1) require that any presidential finding authorizing covert action under
+    section 503 of that Act be assessed by the congressional intelligence
+    committees against the covert interference prohibition of Section 104(c)
+    of Title I of this Act, with a specific finding included in the
+    notification to those committees that the authorized action is consistent
+    with that prohibition;
+
+    (2) add the protection of the Strategic Commons Infrastructure of the
+    Federated Network to the definition of national security interests that
+    the intelligence community is authorized to protect; and
+
+    (3) designate the Analytics Commons Governance Council as an authorized
+    recipient of unclassified threat intelligence relevant to the security
+    of commons infrastructure, consistent with Section 204(c) of Title II
+    of this Act.
+
+(b) FOREIGN INTELLIGENCE SURVEILLANCE ACT.-- The Foreign Intelligence
+Surveillance Act of 1978, codified at 50 U.S.C. section 1801 et seq., is
+hereby amended to:
+
+    (1) prohibit the use of any FISA authority for the bulk collection of
+    communications metadata, content, or associated data of United States
+    persons without individualized judicial authorization meeting the probable
+    cause standard, consistent with the mass surveillance termination requirement
+    of Section 104(b) of Title I of this Act; this prohibition supersedes any
+    conflicting provision of the Act as it existed prior to the date of
+    enactment of this Act, including any provision of Title VII of the Foreign
+    Intelligence Surveillance Act (50 U.S.C. sections 1881 et seq.) permitting
+    programmatic collection, and shall be given effect notwithstanding any
+    pending reauthorization of such provisions;
+
+    (2) provide that no FISA order, whether individual or programmatic, shall
+    authorize the collection of data from the Federated Mesh, the National
+    Resilience Ledger, or any other Federated Network infrastructure without
+    meeting the heightened warrant standard established in Section 209(e)(3) of
+    the Federal Resilience and Decentralization Initiatives Act; and
+
+    (3) require the Attorney General to report to the congressional intelligence
+    committees within ninety days of the date of enactment of this Act on all
+    outstanding FISA orders authorizing bulk collection of the categories
+    described in paragraph (1), the timeline for their vacation pursuant to
+    Section 104(b)(4) of Title I of this Act, and any operational gaps created
+    by their termination together with proposed individualized-authorization
+    alternatives for each affected intelligence collection program.
+
+(c) COMPUTER FRAUD AND ABUSE ACT.-- Section 1030 of Title 18, United States
+Code, is hereby amended to incorporate the commons infrastructure sabotage
+offense established in Section 207(a) of Title II of this Act as a specific
+aggravated offense carrying the penalties established in that Section, in
+addition to the existing anti-spoofing offense established by Section 1104(d)
+of the Federal Resilience and Decentralization Initiatives Act.
+
+(d) ADMINISTRATIVE PROCEDURE ACT.-- The Administrative Procedure Act, codified
+at 5 U.S.C. section 551 et seq., is hereby amended to:
+
+    (1) require that any final agency action substantially generated by an
+    automated system include, in the administrative record, documentation
+    of the human review process through which the action was authorized,
+    meeting the standards of Section 404(c) of Title IV of this Act; and
+
+    (2) provide that any final agency action that fails to include the
+    documentation required by paragraph (1) of this subsection is subject
+    to automatic vacatur upon the application of any affected party, without
+    requirement of further showing of prejudice.
+
+(e) ENERGY POLICY ACT.-- The Energy Policy Act of 2005, codified at 42 U.S.C.
+section 15801 et seq., is hereby amended to recognize cooperative energy
+enterprises certified as Qualified Federated Cooperatives under the Federal
+Resilience and Decentralization Initiatives Act as eligible recipients of
+all federal energy development and infrastructure assistance programs, with
+priority consideration in program allocation reflecting their role as
+Strategic Commons Infrastructure under this Act.
+
+(f) DEFENSE PRODUCTION ACT.-- The Defense Production Act of 1950, codified
+at 50 U.S.C. section 4501 et seq., is hereby amended to:
+
+    (1) recognize the Federated Network's cooperative energy, food, and
+    manufacturing enterprises as defense production resources eligible for
+    priority rating and allocation support in declared national emergencies,
+    consistent with their designation as Strategic Commons Infrastructure
+    under this Act; and
+
+    (2) prohibit the use of Defense Production Act authority to compel any
+    Qualified Federated Cooperative or Qualified Federated Network to produce,
+    distribute, or allocate commons resources in ways inconsistent with the
+    collective-choice governance processes of the Ostrom Standards of
+    Stewardship, except in cases of declared war upon specific congressional
+    authorization.
+
+(g) FEDERAL ACQUISITION REGULATION.-- The Federal Acquisition Regulation shall
+be amended, within two years of the date of enactment of this Act, to:
+
+    (1) require federal agencies to give preference in procurement decisions
+    to Analytics Commons tools and open-source automated systems over
+    proprietary Intelligence-Community-Funded Analytics Platforms and
+    proprietary automated decision systems, consistent with the procurement
+    preference established under Section 302(d)(2) of Title III of this Act;
+    and
+
+    (2) require that all federal contracts for automated decision systems
+    include a provision confirming compliance with the Algorithmic Governance
+    Prohibition of Section 404 of Title IV of this Act, with the contracting
+    agency responsible for verifying compliance at each contract renewal.
+
+--------------------------------------------------------------------------------
+SEC. 507. AUTHORIZATION OF APPROPRIATIONS.
+--------------------------------------------------------------------------------
+
+(a) GENERAL AUTHORIZATION.-- There are authorized to be appropriated to carry
+out the purposes of this Act such sums as may be necessary for each fiscal year
+following the date of enactment of this Act, subject to the specific
+authorizations and funding mechanisms established in this Section.
+
+(b) COMMONS INFRASTRUCTURE DEFENSE PROGRAM.-- There are authorized to be
+appropriated to the Commons Infrastructure Defense Program established under
+Section 102(c) of Title I of this Act:
+
+    (1) not less than five hundred million dollars for the first fiscal year
+    following enactment, for the threat assessment, program design, and initial
+    capability deployment phases; and
+
+    (2) not less than two hundred fifty million dollars for each subsequent
+    fiscal year, for ongoing operations, network support, and the rapid
+    response capability of Section 102(c)(4) of Title I of this Act.
+
+(c) ANALYTICS COMMONS.-- There are authorized to be appropriated for the
+establishment, development, and operation of the Analytics Commons:
+
+    (1) not less than one billion dollars for the first fiscal year following
+    enactment, covering the Intelligence-Community-Funded Analytics Platform
+    audit and capture process, the initial open-source development program
+    grants, the military logistics adaptation work, and the establishment of
+    the Analytics Commons Governance Council;
+
+    (2) not less than five hundred million dollars for each of the second
+    through fifth fiscal years following enactment, for ongoing development,
+    the Commons Adaptation Fund established under Section 304(d) of Title
+    III of this Act, and the longitudinal data archive infrastructure; and
+
+    (3) such sums as may be necessary for subsequent fiscal years, with the
+    expectation that the Analytics Commons will be progressively self-sustaining
+    through the commons economy's own financial architecture as the Federated
+    Network matures.
+
+(d) COMMONS ANALYTICS DEVELOPMENT PROGRAM.-- There are authorized to be
+appropriated to the National Science Foundation for the Commons Analytics
+Development Program established under Section 303 of Title III of this Act:
+
+    (1) not less than two hundred fifty million dollars for the first fiscal
+    year following enactment; and
+
+    (2) not less than one hundred fifty million dollars for each of the second
+    through fifth fiscal years following enactment.
+
+(e) AUTOMATION GOVERNANCE.-- There are authorized to be appropriated for the
+Automation Governance Council established under Section 406 of Title IV of
+this Act and the federal agency automated system compliance program of Section
+404(e) of that Title:
+
+    (1) not less than one hundred million dollars for the first fiscal year
+    following enactment, for the establishment of the Council and the initial
+    federal agency compliance audit; and
+
+    (2) not less than seventy-five million dollars for each subsequent fiscal
+    year for ongoing Council operations and compliance monitoring.
+
+(f) INTELLIGENCE REFORM.-- There are authorized to be appropriated for the
+implementation of the intelligence reform provisions of Section 104 of Title
+I of this Act, including the mass surveillance data deletion program, the
+Inspector General compliance audit infrastructure, and the Privacy and Civil
+Liberties Oversight Board annual review:
+
+    (1) not less than two hundred fifty million dollars for the first fiscal
+    year following enactment, for the data deletion program; and
+
+    (2) not less than fifty million dollars for each subsequent fiscal year
+    for ongoing oversight and compliance.
+
+(g) FORCE STRUCTURE TRANSITION SAVINGS REDIRECT.-- The defense budget savings
+realized through the force structure transition of Section 103 of Title I of
+this Act shall be directed, in the percentages established in that Section,
+to the Bootstrap Grant Program and the Commons Solidarity Fund of the Federal
+Resilience and Decentralization Initiatives Act, in addition to any
+appropriations provided under that Act for those programs. The Secretary of
+Defense and the Secretary of the Treasury shall jointly establish the accounting
+mechanism for calculating and transferring these savings within one year of
+the date of enactment.
+
+(h) FUNDING PRINCIPLES.-- The appropriations authorized by this Section reflect
+the front-loaded investment logic of this legislative program: the initial costs
+of commons infrastructure development, intelligence reform, and defense posture
+reorientation are transitional investments whose long-term fiscal return is
+measured in reduced defense expenditure, reduced intelligence community
+maintenance costs, and the productive contribution of a maturing commons economy
+that no longer requires the petrodollar-protection commitments the prior posture
+entailed. The Congressional Budget Office is directed to account for these
+long-term fiscal returns in scoring the fiscal impact of this Act.
+
+--------------------------------------------------------------------------------
+SEC. 508. EFFECTIVE DATE.
+--------------------------------------------------------------------------------
+
+(a) GENERAL EFFECTIVE DATE.-- Except as otherwise provided in this Act, the
+provisions of this Act shall take effect on the date of enactment.
+
+(b) IMMEDIATE EFFECTIVE DATES.-- The following provisions shall take effect
+immediately upon the date of enactment, with no phase-in period:
+
+    (1) the Resilience-Based Defense Posture declaration of Section 101(a)
+    and (b) of Title I of this Act;
+
+    (2) the prohibition on the prohibited missions of Section 101(b) of
+    Title I of this Act, applicable to all new commitments made after the
+    date of enactment, with existing commitments subject to the phased
+    transition of Section 103 of that Title;
+
+    (3) the Algorithmic Governance Prohibition of Section 404 of Title IV
+    of this Act, applicable to all new automated system deployments after
+    the date of enactment, with existing deployments subject to the
+    compliance timeline of Section 404(e) of that Title;
+
+    (4) the foreign adversarial interference prohibitions and criminal
+    penalties of Sections 202 and 207 of Title II of this Act;
+
+    (5) the corporate capture prevention provisions of Section 206(c) of
+    Title II of this Act; and
+
+    (6) the Constitutional Safe Harbor of Section 503 of this Title,
+    retroactive to the date of introduction of this Act in Congress.
+
+(c) SCHEDULED EFFECTIVE DATES.-- The following provisions shall take effect
+on the dates specified:
+
+    (1) the doctrinal review requirement of Section 101(c) of Title I of
+    this Act: completion within one year of enactment;
+
+    (2) the mass surveillance termination requirement of Section 104(b) of
+    Title I of this Act: one year after enactment;
+
+    (3) the Open-Source Automation Mandate compliance timelines of Section
+    403(b) of Title IV of this Act: as specified in that Section, beginning
+    one year after enactment for energy systems;
+
+    (4) the federal agency automated system compliance audit of Section
+    404(e) of Title IV of this Act: completion within two years of enactment;
+
+    (5) the Intelligence-Community-Funded Analytics Platform audit of Section
+    302(b) of Title III of this Act: completion within one hundred eighty
+    days of enactment; and
+
+    (6) the Force Structure Transition Phase 1 savings redirect accounting
+    mechanism of Section 507(g) of this Title: establishment within one
+    year of enactment.
+
+================================================================================
+                           ________________ Congress, __ Session
+                     H.R./S. ____  |  DRAFT  |  FCSAG
+================================================================================
