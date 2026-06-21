@@ -4710,7 +4710,9 @@ governance of the Federated Data Commons established by this Title. The Data
 Commons Governance Council is a commons governance institution, not a
 governmental body. It operates under the authority of the Federated Network's
 nested governance architecture pursuant to Standard 8 of Section 102(i) of this
-Act, and is accountable to the Commons Members whose data it governs.
+Act, and is accountable to the Commons Members whose data it governs. This 
+Council is constituted as a Division of the Commons Governance Council
+pursuant to Section 509(f) of Title V of this Act.
 
 (b) COMPOSITION.-- The Data Commons Governance Council shall comprise:
 
@@ -4963,6 +4965,88 @@ transition provisions:
     consistent with the prohibition on surveillance capitalism established in
     Section 406 of this Title.
 
+--------------------------------------------------------------------------------
+SEC. 409. COVERED PLATFORM MIGRATION INTERFACE.
+--------------------------------------------------------------------------------
+
+(a) DEFINITIONS.-- In this Section:
+
+    (1) COVERED PLATFORM.-- The term "Covered Platform" means a person or
+    entity operating a digital platform, network, or service used by not
+    fewer than one million individual accounts in the United States, where
+    either or both of the following apply:
+
+        (A) PUBLIC FUNDING LINEAGE.-- the foundational technology of the
+        platform, network, or service was developed in material part through
+        funding received under the Small Business Innovation Research
+        Program, the Small Business Technology Transfer Program, a federally
+        funded university research grant, or a program of the Defense
+        Advanced Research Projects Agency, the Intelligence Advanced Research
+        Projects Activity, or In-Q-Tel; or
+
+        (B) EXISTING ANTITRUST JUDGMENT.-- the person or entity is, at the
+        time the duty established by subsection (b) of this Section would
+        apply, operating under a final judgment, consent decree, or
+        comparable enforceable order of the Department of Justice, the
+        Federal Trade Commission, or a federal court, finding that the person
+        or entity engaged in anticompetitive conduct with respect to the
+        platform, network, or service.
+
+    (2) MIGRATION INTERFACE.-- The term "migration interface" means a
+    documented, machine-readable export interface through which a Commons
+    Member's or prospective Commons Member's account data, content, and
+    social or professional connection data, to the extent such data exists
+    and is held by the Covered Platform, can be transferred in bulk to a
+    Qualified Federated Network at the direction of the account holder.
+
+(b) DUTY TO EXPOSE MIGRATION INTERFACE.-- A Covered Platform shall make
+available, without charge to the account holder or to the receiving Qualified
+Federated Network, a migration interface meeting the technical specifications
+established for Covered Platform interfaces under Section 701 of Title VII of
+this Act, not later than one year after the date the platform, network, or
+service first meets the definition of Covered Platform under subsection (a)
+of this Section.
+
+(c) ACCOUNT HOLDER DIRECTION REQUIRED.-- A Covered Platform may transfer data
+under this Section only at the explicit direction of the account holder, and
+shall provide the account holder with a clear, conspicuous, and revocable
+mechanism for directing or halting such a transfer at any time.
+
+(d) RELATIONSHIP TO EXISTING PORTABILITY RIGHTS.-- The duty established by
+this Section is in addition to, and does not limit, the portability right
+established under Section 408(a)(1) of this Title. Where a Covered Platform
+is also subject to Section 408(a)(1) with respect to a particular Commons
+Member, compliance with the migration interface requirements of this Section
+shall be deemed to satisfy the format requirements of Section 408(a)(1),
+provided the forty-eight-hour transfer deadline of that Section is otherwise
+met.
+
+(e) ENFORCEMENT.-- The Office of Federated Stewardship shall maintain a
+public registry of Covered Platforms and shall refer noncompliance with
+subsection (b) of this Section to the Federal Trade Commission as an unfair
+or deceptive act or practice under section 5 of the Federal Trade Commission
+Act. A Qualified Federated Network denied access to a migration interface
+required under this Section may bring an action for injunctive relief in any
+federal court of competent jurisdiction.
+
+(f) LIMITATIONS.-- Nothing in this Section shall be construed to:
+
+    (1) apply to any platform, network, or service that does not meet the
+    definition of Covered Platform under subsection (a) of this Section;
+
+    (2) require the disclosure of any data not held by the Covered Platform
+    in the ordinary course of its operation, or require the creation of new
+    data;
+
+    (3) require a Covered Platform to disclose trade secrets in its
+    underlying software, algorithms, or systems beyond the documented
+    interface specification required for migration; or
+
+    (4) constitute a determination by Congress that any particular Covered
+    Platform holds or has exercised monopoly power, that determination being
+    reserved to the Department of Justice, the Federal Trade Commission, or a
+    court of competent jurisdiction under existing antitrust law.
+
 
 ================================================================================
 TITLE V -- THE FEDERATED INTELLECTUAL PROPERTY COMMONS
@@ -5032,6 +5116,23 @@ current intellectual property regime has served primarily to justify enclosure
 under the guise of protecting creators. This Title protects attribution
 absolutely and permanently while eliminating enclosure as the mechanism by which
 that protection is provided.
+
+(e) SCOPE OF ANTITRUST PROVISIONS.-- Congress finds that the
+commons-protective measures established by this Title, including the
+shelved patent recapture mechanism of Section 503(d) and the anti-thicket
+provisions of Section 506(d), are limited by design to the defense of
+commons resource pools recognized under this Act against enclosure,
+monopolization, or suppression by private or governmental actors. Nothing
+in this Title shall be construed as a comprehensive exercise of Congress's
+antitrust authority, and nothing in this Title shall be construed to limit,
+displace, or substitute for the existing antitrust authority of the
+Department of Justice or the Federal Trade Commission under the Sherman
+Act, the Clayton Act, or the Federal Trade Commission Act. Congress finds
+that comprehensive reform of antitrust law as applied to digital platforms
+and concentrated markets generally, while a related and urgent legislative
+priority, is a distinct undertaking from the commons-protective
+architecture established by this Act and is appropriately addressed through
+separate legislation.
 
 --------------------------------------------------------------------------------
 SEC. 502. ESTABLISHMENT OF THE INTELLECTUAL PROPERTY COMMONS.
@@ -5553,6 +5654,30 @@ SEC. 506. INTELLECTUAL PROPERTY REGIME TRANSITION.
     rights-holders have a full cure period from the date the mechanism takes
     effect.
 
+    (6) CONSTITUTIONAL BASIS.-- Congress finds that the abandoned-works
+    mechanism established by paragraph (2) of this subsection is grounded in
+    the common law doctrine of abandonment, under which a property right may
+    be relinquished through sustained non-use combined with conduct
+    manifesting an intent to abandon, and in the limitation that Article I,
+    Section 8 of the Constitution places on Congress's own power to grant
+    exclusive rights only "for limited times." The notice and cure procedure
+    established in paragraph (3) of this subsection supplies the
+    manifest-intent element that abandonment doctrine requires: a copyright
+    holder who has taken no commercial action for fourteen consecutive years,
+    who receives actual notice of the impending abandonment determination, and
+    who is afforded a further period of one hundred eighty days to act and
+    does not do so, has manifested the intent to abandon as clearly as if the
+    abandonment had been declared affirmatively. Because the mechanism
+    operates only upon a finding of abandonment, and not upon an exercise of
+    eminent domain against a right the holder continues to assert, no
+    compensation is constitutionally required; a right that has been
+    abandoned is, by definition, a right no longer held. This mechanism is
+    therefore properly understood not as a reduction of the term Article I,
+    Section 8 permits Congress to secure, but as recognition that a right left
+    unexercised and undefended for the full statutory period was never
+    extended in practice beyond the date of abandonment, consistent with the
+    constitutional design that protection be available, not perpetual.
+
 (b) EXISTING COPYRIGHTS.-- Copyrights in works created prior to the date of
 enactment of this Act shall not be retroactively shortened. However:
 
@@ -5611,6 +5736,95 @@ of any individual patent. To address this practice:
     (4) the anti-thicket provisions of this subsection shall be enforced by the IP
     Commons Governance Council, with appeals to the Federated Accountability Board
     established under Section 1103 of this Act.
+
+(e) RIGHT TO REPAIR AND MIGRATION; CIRCUMVENTION EXEMPTIONS.--
+
+    (1) IN GENERAL.-- Section 1201 of title 17, United States Code, is
+    amended by adding at the end the following new subsections:
+
+    "(k) REPAIR.--
+
+        "(1) DEFINITION.-- For purposes of this subsection, the term
+        'repair' means the diagnosis, maintenance, or repair of a device or
+        piece of equipment, including the restoration of the device or
+        equipment to its original specifications or lawful operating
+        condition following diagnosis, maintenance, or repair.
+
+        "(2) PERMISSIBLE ACTS OF CIRCUMVENTION.-- Notwithstanding subsection
+        (a)(1), it is not a violation of this section for a person to
+        circumvent a technological measure that effectively controls access
+        to a computer program contained in, or that controls the function
+        of, a device or piece of equipment, where the circumvention is
+        undertaken solely for the purpose of repair and is undertaken by, or
+        with the authorization of, the owner of the device or equipment.
+
+        "(3) TOOLS.-- Notwithstanding subsection (a)(2), it is not a
+        violation of this section to manufacture, import, offer to the
+        public, provide, or otherwise traffic in a technology, product,
+        service, device, component, or part thereof that is primarily
+        designed or produced for the purpose of enabling circumvention
+        described in paragraph (2) of this subsection, that has only limited
+        commercially significant purpose or use other than to enable such
+        circumvention, or that is marketed for use in achieving such
+        circumvention.
+
+        "(4) SCOPE.-- The exemption established by this subsection applies
+        without regard to whether the owner or repairer of the device or
+        equipment is affiliated with any cooperative, network, or
+        organization recognized under this Act or any other provision of
+        Federal law, and without regard to the make, model, manufacturer, or
+        category of the device or equipment. Nothing in this subsection
+        authorizes circumvention undertaken for any purpose other than
+        repair as defined in paragraph (1), and nothing in this subsection
+        shall be construed to permit the infringement of any copyright in a
+        computer program or other work by means of the reproduction or
+        distribution of that program or work following circumvention.".
+
+    "(l) MIGRATION.--
+
+        "(1) DEFINITION.-- For purposes of this subsection, the term
+        'migration' means the transfer of an account holder's data from a
+        Covered Platform, as defined in section 409(a)(1) of title IV of the
+        Federal Resilience and Decentralization Initiatives Act, to a
+        Qualified Federated Network, at the explicit direction of the
+        account holder, pursuant to the migration interface duty established
+        under section 409 of that title.
+
+        "(2) PERMISSIBLE ACTS OF CIRCUMVENTION.-- Notwithstanding subsection
+        (a)(1), it is not a violation of this section for a Qualified
+        Federated Network or its authorized technical agents to circumvent a
+        technological measure that effectively controls access to a computer
+        program or data structure maintained by a Covered Platform, where the
+        circumvention is undertaken solely for the purpose of migration as
+        defined in paragraph (1) of this subsection, and where the Covered
+        Platform has failed to make available a documented migration
+        interface meeting the requirements of section 409(b) of title IV of
+        the Federal Resilience and Decentralization Initiatives Act within
+        the time period required by that section.
+
+        "(3) TOOLS.-- Notwithstanding subsection (a)(2), it is not a
+        violation of this section to manufacture, import, offer to the
+        public, provide, or otherwise traffic in a technology, product,
+        service, device, component, or part thereof that is primarily
+        designed or produced for the purpose of enabling circumvention
+        described in paragraph (2) of this subsection.
+
+        "(4) SUNSET UPON COMPLIANCE.-- The exemption established by
+        paragraph (2) of this subsection ceases to apply to a specific
+        Covered Platform upon that platform's publication of a compliant
+        migration interface meeting the requirements of section 409(b) of
+        title IV of the Federal Resilience and Decentralization Initiatives
+        Act. The exemption does not authorize ongoing circumvention as a
+        substitute for use of a compliant interface once one is made
+        available.".
+
+    (2) RULE OF CONSTRUCTION.-- The exemptions established by subsections
+    (k) and (l) of section 1201 of title 17, United States Code, as added by
+    paragraph (1) of this subsection, apply in addition to, and not in lieu
+    of, any exemption granted under the rulemaking authority of the
+    Librarian of Congress pursuant to section 1201(a)(1)(C) of title 17,
+    United States Code, or under any other provision of section 1201 of
+    title 17, United States Code.
 
 --------------------------------------------------------------------------------
 SEC. 507. THE COPYLEFT MANDATE.
@@ -5828,6 +6042,69 @@ Title VII of this Act, upon petition by not less than five percent of active
 Commons Members. A referendum override requires a simple majority of
 participating Commons Members, with a minimum participation threshold of ten
 percent of the total active Commons Member population.
+
+(f) UNIFIED COMMONS GOVERNANCE COUNCIL STRUCTURE.--
+
+    (1) ESTABLISHMENT.-- The IP Commons Governance Council established under
+    subsection (a) of this Section, the Data Commons Governance Council
+    established under Section 405(a) of Title IV of this Act, and the
+    Commons Credit Governance Council established under Section 608(a) of
+    Title VI of this Act are hereby constituted as the three Divisions of a
+    single unified body, the Commons Governance Council. Each Division
+    retains the composition, functions, decision-making procedures, and name
+    specified for it in the Section of this Act establishing that Division,
+    and every reference elsewhere in this Act to the IP Commons Governance
+    Council, the Data Commons Governance Council, or the Commons Credit
+    Governance Council refers to that Division of the Commons Governance
+    Council established by this subsection.
+
+    (2) PURPOSE OF CONSOLIDATION.-- The consolidation effected by this
+    subsection is structural, not substantive. It does not alter the
+    composition, jurisdiction, or decision-making procedures of any Division
+    as established elsewhere in this Act. Its purpose is to replace three
+    separate nomination, confirmation, and oversight processes with a single
+    one, reducing the number of distinct federally cognizable governance
+    bodies subject to appointment, capture, or defunding, while preserving
+    the full substantive independence and distinct constituencies of each
+    Division's governance.
+
+    (3) COORDINATING BOARD.-- There is established a Coordinating Board of
+    the Commons Governance Council, comprising the elected chair of each
+    Division, which shall:
+
+        (A) meet not less than quarterly to resolve jurisdictional questions
+        arising at the boundary of two or more Divisions' authority,
+        including the matters already subject to inter-Division coordination
+        duties under Section 405(c)(7) of Title IV, Section 509(c)(7) of this
+        Title, and Section 608(c)(6) of Title VI of this Act;
+
+        (B) constitute the body responsible for any function this Act
+        assigns jointly to more than one Division, including the
+        composition determination for the Federated Accountability Board
+        under Section 1103(b)(2) of Title XI of this Act; and
+
+        (C) have no authority to direct, override, or alter the substantive
+        decisions of any individual Division, whose governance autonomy
+        within its own jurisdiction is preserved in full.
+
+    (4) SINGLE CONFIRMATION PROCESS.-- Where any provision of this Act would
+    otherwise require separate appointment, nomination, or confirmation
+    processes for the IP Commons Governance Council, the Data Commons
+    Governance Council, or the Commons Credit Governance Council, those
+    processes are hereby consolidated into a single process administered
+    jointly, with each Division's distinct seats, selection criteria, and
+    constituency-specific procedures preserved exactly as specified in the
+    Section of this Act establishing that Division, and with only the
+    administrative machinery of the appointment process, not the substantive
+    composition requirements, consolidated.
+
+    (5) NO EFFECT ON EXISTING CROSS-REFERENCES.-- Every cross-reference
+    elsewhere in this Act to a Section establishing the composition,
+    functions, or decision-making procedures of the IP Commons Governance
+    Council, the Data Commons Governance Council, or the Commons Credit
+    Governance Council remains valid and continues to refer to the same
+    Section number and the same governing text, notwithstanding the
+    consolidation effected by this subsection.
 
 --------------------------------------------------------------------------------
 SEC. 510. AI-GENERATED WORKS AND AUTOMATION.
@@ -6398,7 +6675,9 @@ SEC. 608. COMMONS CREDIT GOVERNANCE COUNCIL.
 -- the primary governance institution of the Commons Credit system established by
 this Title. The Commons Credit Governance Council is a commons governance
 institution, not a governmental or financial regulatory body, operating under the
-nested governance architecture of Standard 8 of Section 102(i) of this Act.
+nested governance architecture of Standard 8 of Section 102(i) of this Act. This 
+Council is constituted as a Division of the Commons Governance Councilpursuant 
+to Section 509(f) of Title V of this Act.
 
 (b) COMPOSITION.-- The Commons Credit Governance Council shall comprise:
 
@@ -6597,6 +6876,54 @@ Body shall:
     copyleft license consistent with Section 507 of Title V of this Act, enabling
     any Qualified Federated Network to deploy it without cost or proprietary
     dependency.
+
+(f) COVERED PLATFORM MIGRATION INTERFACE SPECIFICATIONS.--
+
+    (1) ESTABLISHMENT.-- The Technical Standards Body established under
+    subsection (d) of this Section shall, within one year of the date of
+    enactment of this Act, publish technical specifications for the
+    migration interface required of Covered Platforms under Section 409 of
+    Title IV of this Act. The specifications shall define the data schema,
+    transfer protocol, and authentication mechanism through which a Covered
+    Platform transmits an account holder's data to a Qualified Federated
+    Network at the account holder's direction.
+
+    (2) FMOS COMPATIBILITY.-- The specifications published under paragraph
+    (1) of this subsection shall be:
+
+        (A) interoperable with the Federated Mesh Open Standard established
+        under subsection (a) of this Section, such that data received
+        through a Covered Platform migration interface can be ingested
+        directly into a Qualified Federated Network's Commons Membership
+        Record and FMOS-compliant data storage without an intermediate
+        proprietary conversion step;
+
+        (B) published under the same open and non-proprietary licensing
+        terms required of the FMOS under subsection (a)(1) of this Section;
+        and
+
+        (C) designed to accommodate the range of data categories a Covered
+        Platform may hold, including but not limited to text, image, video,
+        and structured social or professional connection data, without
+        requiring a Covered Platform to convert its data into a format
+        inconsistent with how the data is ordinarily maintained.
+
+    (3) UPDATES.-- The Technical Standards Body shall update the
+    specifications published under this subsection not less than once every
+    two years, or more frequently as needed to accommodate new categories of
+    Covered Platform or new data types, through the governance process
+    established under subsection (d) of this Section.
+
+    (4) NO DELAY OF UNDERLYING DUTY.-- The duty of a Covered Platform to
+    expose a migration interface under Section 409(b) of Title IV of this
+    Act is not contingent on the Technical Standards Body's publication of
+    specifications under this subsection beyond the one-year deadline
+    established in paragraph (1) of this subsection. A Covered Platform
+    whose one-year compliance deadline under Section 409(b) precedes the
+    publication of specifications under this subsection shall comply using
+    the most recent draft specification published by the Technical Standards
+    Body, and shall update its interface within ninety days of the
+    publication of final specifications under this subsection.
 
 --------------------------------------------------------------------------------
 SEC. 702. PHYSICAL UNCLONABLE FUNCTION REQUIREMENTS.
@@ -8894,6 +9221,18 @@ States Code, is hereby amended to add the following as a prohibited offense:
     by imprisonment of not more than ten years, a fine of not more than one
     million dollars, or both.
 
+    (2) MIGRATION ACCESS EXCEPTION.-- Section 1030 of Title 18, United States
+    Code, is further amended to provide that access to a Covered Platform's
+    systems, as that term is defined in Section 409(a)(1) of Title IV of
+    this Act, by a Qualified Federated Network or its authorized technical
+    agents, for the sole purpose of receiving data transmitted through a
+    migration interface required under Section 409(b) of Title IV of this
+    Act, at the explicit direction of the account holder pursuant to Section
+    409(c) of that Title, does not constitute access without authorization
+    or access in excess of authorization within the meaning of this section,
+    regardless of any contrary provision of the Covered Platform's terms of
+    service, user agreement, or other unilateral access policy.
+
 (e) CIVIL RIGHTS ENFORCEMENT.-- Nothing in this Act shall be construed to limit
 the application of any federal civil rights law to the operations of Qualified
 Federated Cooperatives, Qualified Federated Networks, or any institution
@@ -8996,6 +9335,10 @@ is hereby amended to:
 
     (5) establish the copyleft mandate for derivative works of commons-licensed
     materials pursuant to Section 507 of Title V of this Act.
+
+    (6) establish the right to repair circumvention exemption pursuant to
+    Section 506(e) of Title V of this Act, adding a new subsection (k) to
+    section 1201 of title 17, United States Code.
 
 (f) PATENT ACT.-- Title 35 of the United States Code is hereby amended to:
 
