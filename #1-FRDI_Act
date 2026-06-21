@@ -3661,8 +3661,9 @@ Section:
     (1) federally owned land within or adjacent to designated Underserved Areas
     as defined in Section 105(b) of this Act;
 
-    (2) former federal correctional facility sites being decommissioned pursuant
-    to the Human Reclamation and Community Restorative Act;
+    (2) former federal correctional facility sites being decommissioned
+    through any applicable Federal decommissioning process, including any
+    such process later established by Federal law for that purpose;
 
     (3) former military base sites identified for closure under the Base
     Realignment and Closure process and not required for the military-civilian
@@ -4954,11 +4955,12 @@ transition provisions:
     enactment of this Act and shall publish the results of that audit -- in
     aggregate, anonymized form -- on the National Resilience Ledger;
 
-    (2) federal agencies shall delete personal data about Commons Members that was
-    collected for law enforcement or national security purposes but that pertains
-    to individuals who have completed any reparative process under the Human
-    Reclamation and Community Restorative Act and whose records have been sealed
-    pursuant to Section 204 of that Act; and
+    (2) federal agencies shall delete personal data about Commons Members
+    that was collected for law enforcement or national security purposes but
+    that pertains to individuals whose related criminal or civil records
+    have been sealed or expunged pursuant to applicable Federal, State, or
+    local law, including any sealing or expungement that occurs through a
+    reparative or restorative process later established by Federal law; and
 
     (3) no federal agency shall share personal data about Commons Members with
     commercial entities for surveillance, targeting, or profiling purposes,
@@ -5974,11 +5976,11 @@ the nested governance architecture of Standard 8 of Section 102(i) of this Act.
         adequacy review of the Ostrom Standards of Stewardship as applied to IP
         governance; and
 
-        (C) the Platform Cooperativism Consortium, for matters relating to the
-        governance of digital platform cooperatives, cooperative ownership of
-        algorithmic systems, and the intersection of IP commons governance with
-        the automation and data governance provisions of this Act and the Federal
-        Commons Security and Automation Governance Act.
+        (C) the Platform Cooperativism Consortium, for matters relating to
+        the governance of digital platform cooperatives, cooperative
+        ownership of algorithmic systems, and the intersection of IP commons
+        governance with the automation and data governance provisions of
+        this Act.
 
     Nominations from these institutions are advisory; the elected representatives
     retain full discretion over appointments to technical advisor seats and are
@@ -6297,9 +6299,10 @@ economy, as defined in Section 4(2) of this Act. Commons Credits are:
 
     (4) LEGALLY RECOGNIZED -- Commons Credits are hereby recognized as legal
     tender for all transactions within a certified Qualified Federated Network,
-    including the delivery of Guaranteed Provision Standard components, the
-    settlement of Reparative Debt under the Human Reclamation and Community
-    Restorative Act, and inter-network resource exchange transactions.
+    including the delivery of Guaranteed Provision Standard components, including 
+    the delivery of Guaranteed Provision Standard components, the settlement of 
+    Reparative Debt obligations recognized under Section 606 of this Title, and 
+    inter-network resource exchange transactions.
 
 (c) RELATIONSHIP TO THE UNITED STATES DOLLAR.-- Commons Credits are not pegged
 to, convertible into, or redeemable for United States dollars except through the
@@ -6564,12 +6567,11 @@ determination, provides a framework within which reparative obligations can be
 met through the transfer of productive capacity and governance rights rather than
 solely through financial transfers.
 
-(b) REPARATIVE DEBT DEFINED.-- Reparative Debt, for the purposes of this Section
-and the Human Reclamation and Community Restorative Act, means the outstanding
-obligation owed by the federal government and, where applicable, state
-governments and private institutions, to communities that have been the
-systematic victims of governmental policies producing demonstrable material harm,
-including:
+(b) REPARATIVE DEBT DEFINED.-- Reparative Debt, for the purposes of this
+Section, means the outstanding obligation owed by the federal government
+and, where applicable, state governments and private institutions, to
+communities that have been the systematic victims of governmental policies
+producing demonstrable material harm, including:
 
     (1) forced displacement from land, whether through treaty violation, eminent
     domain abuse, discriminatory land use regulation, or other governmental
@@ -6585,16 +6587,18 @@ including:
     actors, and other forms of institutionally supported economic harm.
 
 (c) COMMONS CREDIT SETTLEMENT ARCHITECTURE.-- Reparative Debt obligations
-recognized pursuant to this Section and the Human Reclamation and Community
-Restorative Act shall be discharged through the following commons credit
-settlement architecture:
+recognized pursuant to this Section shall be discharged through the
+following commons credit settlement architecture:
 
     (1) the federal government shall issue Stewardship Credits to designated
     reparative beneficiary communities -- defined as Qualified Federated Networks
     serving communities documented to have been subject to the harms described in
-    subsection (b) of this Section -- at rates determined by the Reparative
-    Justice Commission established under the Human Reclamation and Community
-    Restorative Act;
+    subsection (b) of this Section -- at rates determined by the Commons Credit 
+    Governance Council established under Section 608 of this Title; where a Reparative 
+    Justice Commission or comparable body is later established by Federal law for
+    the specific purpose of adjudicating reparative claims, the Commons Credit 
+    Governance Council shall incorporate that body's rate determinations in lieu of 
+    setting rates independently;
 
     (2) Stewardship Credits issued pursuant to this subsection shall be in
     addition to any other Bootstrap Grant or Stewardship Credit issuances to
@@ -6611,14 +6615,14 @@ settlement architecture:
     reparative recognition, with the historical basis for the issuance documented
     in the ledger record as part of the commons governance history.
 
-(d) RELATIONSHIP TO ACCOUNTABILITY COORDINATION DAO.-- The determination of which communities
-qualify as reparative beneficiary communities pursuant to subsection (b) of this
-Section, and the assessment of the appropriate Reparative Stewardship Credit
-issuance rates, shall be made through a process that includes meaningful
-participation by the affected communities through the Accountability Coordination DAO governance
-structures established under Section 804 of Title VIII of this Act, ensuring
-that reparative recognition is not imposed upon communities from above but is
-shaped by those communities' own articulations of the harms suffered and the
+(d) RELATIONSHIP TO ACCOUNTABILITY COORDINATION DAO.-- The determination of which 
+communities qualify as reparative beneficiary communities pursuant to subsection 
+(b) of this Section, and the assessment of the appropriate Reparative Stewardship 
+Credit issuance rates, shall be made through a process that includes meaningful
+participation by the affected communities through the Accountability Coordination 
+DAO governance structures established under Section 804 of Title VIII of this Act, 
+ensuring that reparative recognition is not imposed upon communities from above but 
+is shaped by those communities' own articulations of the harms suffered and the
 remedies sought.
 
 --------------------------------------------------------------------------------
@@ -6739,10 +6743,11 @@ to Section 509(f) of Title V of this Act.
     credit circulation, and any governance concerns regarding the system's
     integrity or equity; and
 
-    (8) govern the Reparative Stewardship Credit issuance rates established under
-    Section 606(c) of this Title, in coordination with the Reparative Justice
-    Commission established under the Human Reclamation and Community Restorative
-    Act.
+    (8) govern the Reparative Stewardship Credit issuance rates established
+    under Section 606(c) of this Title, incorporating the determinations of
+    any Reparative Justice Commission or comparable body later established
+    by Federal law for that purpose, and setting rates independently in the
+    absence of such a body.
 
 (d) MONETARY POLICY COORDINATION.-- The Commons Credit Governance Council shall
 coordinate with the Board of Governors of the Federal Reserve System on the
@@ -8758,12 +8763,12 @@ bilateral commons federation agreements would be mutually beneficial, including:
     d'Economia Solidaria) network and the REAS (Red de Redes de Economia
     Alternativa y Solidaria) national network;
 
-    (6) RIPESS (Intercontinental Network for the Promotion of Social Solidarity
-    Economy), the primary global coordinating body for solidarity economy
-    networks across five continental networks, with which the U.S. Solidarity
-    Economy Network (USSEN) is already affiliated, and whose governance
-    structures provide an existing framework for the recognition processes of
-    the International Sovereignty, Resilience and Nonproliferation Act; and
+    (6) RIPESS (Intercontinental Network for the Promotion of Social
+    Solidarity Economy), the primary global coordinating body for solidarity
+    economy networks across five continental networks, with which the U.S.
+    Solidarity Economy Network (USSEN) is already affiliated, and whose
+    governance structures provide an existing framework for international
+    commons federation recognition processes; and
 
     (7) the Sarafu Network and comparable mutual credit and time-banking systems
     operating in the Global South, including the Community Exchange System (CES)
