@@ -3606,9 +3606,17 @@ pursuant to this Act shall be held in perpetual stewardship, meaning:
     functions it performs for the community -- and not on the basis of
     hypothetical market transactions.
 
-    (3) PROPERTY TAX TREATMENT.-- Land held in commons stewardship pursuant to
-    this Act shall be exempt from property taxation at the federal, state, and
-    local level, on the grounds that:
+(3) PROPERTY TAX TREATMENT.-- Land held in commons stewardship pursuant to
+this Act is eligible for the Stewardship Payment in Lieu of Taxes program
+established under subsection (d) of this Section. A state or local
+jurisdiction that elects to exempt such land from property taxation shall
+receive an annual federal payment equal to the property tax revenue the
+jurisdiction would otherwise have collected on that land, calculated
+pursuant to subsection (d) of this Section. No state or local jurisdiction
+is required to exempt commons land from property taxation as a condition
+of any provision of this Act, and nothing in this Section shall be
+construed to preempt, displace, or limit the property tax authority of any
+state or local government.
 
         (A) the purpose of property taxation is to capture a portion of the value
         created by public investment in community infrastructure for public
@@ -3624,6 +3632,46 @@ pursuant to this Act shall be held in perpetual stewardship, meaning:
         provides the federal government with a means of recognizing the public
         value of commons land without imposing a tax burden that would undermine
         that value.
+
+(d) STEWARDSHIP PAYMENT IN LIEU OF TAXES PROGRAM.--
+
+    (1) ESTABLISHMENT.-- There is established within the Department of the
+    Treasury a Stewardship Payment in Lieu of Taxes program, administered
+    in coordination with the Office of Federated Stewardship, to compensate
+    state and local jurisdictions that elect to exempt commons land from
+    property taxation pursuant to subsection (c)(3) of this Section.
+
+    (2) ELECTION.-- A state or local jurisdiction electing to participate
+    in the program established by this subsection shall notify the Office
+    of Federated Stewardship of that election with respect to each parcel
+    of commons land within its taxing jurisdiction. A jurisdiction's
+    election under this paragraph is revocable at any time upon notice to
+    the Office of Federated Stewardship, with the jurisdiction resuming
+    ordinary property tax authority over the affected parcel from the date
+    of revocation.
+
+    (3) PAYMENT CALCULATION.-- The annual payment to an electing
+    jurisdiction with respect to a parcel of commons land shall equal the
+    five-year average annual property tax yield of that parcel, calculated
+    using the same methodology established under Section 306(a)(1)(A) of
+    this Act, adjusted annually for inflation using the Consumer Price
+    Index published by the Bureau of Labor Statistics.
+
+    (4) FUNDING.-- Payments under this subsection are authorized to be
+    appropriated as provided in Section 1106 of Title XI of this Act, and
+    shall not be subject to the five percent of estimated productive value
+    cap established for Bootstrap Grant Program appropriations under
+    Section 1106(c)(3) of that Title.
+
+    (5) NO EFFECT ON STEWARDSHIP CREDIT ISSUANCE.-- Payments under this
+    subsection are in addition to, and have no effect on, the Stewardship
+    Credit issuance to the receiving Community Land Trust under Section
+    306(a)(1) of this Act. The payments under this subsection compensate
+    the taxing jurisdiction for foregone revenue, while the Stewardship
+    Credit issuance under Section 306(a)(1) capitalizes the Community Land
+    Trust itself, and the two mechanisms serve distinct purposes that do
+    not offset one another.
+
 
 --------------------------------------------------------------------------------
 SEC. 302. FEDERAL SURPLUS LAND TRANSFER.
@@ -4003,8 +4051,8 @@ shall be:
     (1) irrevocable upon recording of the deed transfer on the National Resilience
     Ledger;
 
-    (2) eligible for the property tax exemption established under Section
-    301(c)(3) of this Act from the date of contribution;
+    (2) eligible for the property tax treatment established under Section 301(c)(3)
+    of this Act from the date of contribution;
 
     (3) recognized with a Legacy Credit pursuant to Section 304(f) of this Act;
     and
@@ -4041,9 +4089,10 @@ require any natural person or legal entity to contribute land to a Community Lan
 Trust. Voluntary land contribution under this Section is entirely elective. This
 Act provides incentives for voluntary contribution and mechanisms for the
 purchase of land through the Right of First Refusal and the Commons
-Infrastructure Capitalization Fund, but does not authorize the involuntary transfer of privately held land
-to the commons except through the eminent domain provisions of existing federal
-law exercised for legitimate public purposes and subject to just compensation.
+Infrastructure Capitalization Fund, but does not authorize the involuntary 
+transfer of privately held land to the commons except through the eminent domain 
+provisions of existing federal law exercised for legitimate public purposes and 
+subject to just compensation.
 
 --------------------------------------------------------------------------------
 SEC. 306. THE NATIONAL RESILIENCE LEDGER -- LAND FUNCTIONS.
@@ -4082,12 +4131,13 @@ the following land-related functions pursuant to this Title:
 
     (2) RATIONALE.-- The Stewardship Credit issuance mechanism is designed to
     replace the extractive financial logic of property taxation with a
-    commons-reinforcing financial logic. Property taxation of commons land --
-    which Congress has exempted pursuant to Section 301(c)(3) of this Act --
-    would otherwise impose a financial burden that undermines the affordability
-    protection the commons provides. The Stewardship Credit issuance provides the
-    CLT with liquidity equivalent to the tax revenue the land previously
-    generated, ensuring that the transition to commons stewardship is financially
+    commons-reinforcing financial logic. Property taxation of commons land, 
+    addressed through the elective exemption and Stewardship Payment in Lieu of 
+    Taxes mechanism of Section 301(c)(3) and (d) of this Act -- would otherwise 
+    impose a financial burden that undermines the affordability protection the 
+    commons provides. The Stewardship Credit issuance provides the CLT with 
+    liquidity equivalent to the tax revenue the land previously generated, 
+    ensuring that the transition to commons stewardship is financially
     self-sustaining rather than dependent on recurring appropriations.
 
 (b) COMMONS LAND ASSET RECOGNITION.--
@@ -9274,9 +9324,10 @@ section 221 et seq., is hereby amended to:
 26 U.S.C. section 1 et seq., is hereby amended to:
 
     (1) add a new section establishing the property tax exemption for commons land
-    pursuant to Section 301(c)(3) of Title III of this Act, preempting
-    inconsistent state and local property tax law to the extent permitted by the
-    Supremacy Clause;
+    pursuant to Section 301(c)(3) of Title III of this Act, add a new section 
+    establishing the elective property tax exemption and corresponding Stewardship 
+    Payment in Lieu of Taxes program for commons land pursuant to Section 301(c)(3) 
+    and (d) of Title III of this Act;
 
     (2) add a new section establishing the capital gains tax deferral for
     cooperative business conversions pursuant to Section 304(e)(1) of Title III
