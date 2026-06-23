@@ -107,6 +107,7 @@ Sec. 507.  The Copyleft Mandate.
 Sec. 508.  Anti-Concentration Provisions.
 Sec. 509.  IP Commons Governance Council.
 Sec. 510.  AI-Generated Works and Automation.
+Sec. 511.  AI Training Calibration and Collective Licensing Infrastructure.
 
 TITLE VI -- THE COMMONS CREDIT SYSTEM
 
@@ -5408,6 +5409,46 @@ agency.
         production methods whose shelving has contributed to food insecurity or
         reduced agricultural resilience.
 
+    (4) AI TRAINING ELECTION.--
+
+        (A) IN GENERAL.-- During the one hundred eighty day period
+        established under paragraph (2)(B) of this subsection, the patent
+        holder may elect one of the following with respect to the use of
+        the patent's disclosure as training data for an artificial
+        intelligence system generating technical innovations:
+
+            (i) EXCLUSION.-- a permanent election that the patent's
+            disclosure shall not be used to train any artificial
+            intelligence system for that purpose, which election shall be
+            enforceable as a condition of the patent's contribution to the
+            IP Commons against any party, regardless of affiliation with a
+            Qualified Federated Network, in the same manner as the
+            copyleft mandate of Section 507 of this Title; or
+
+            (ii) CONTINUING PAYMENT.-- an election, or, in the absence of
+            any election under this paragraph, a default, that the patent
+            holder shall receive continuing payment for AI-training use of
+            the patent's disclosure within the Federated Network,
+            calculated and allocated pursuant to Section 511 of this Title.
+
+        (B) NO RETROACTIVE EFFECT; FINDING.-- Congress finds that, because
+        a patent's disclosure is a matter of public record from the date of
+        its publication under existing patent law, an exclusion elected
+        under subparagraph (A)(i) of this paragraph cannot affect, and
+        shall not be construed to affect, any artificial intelligence
+        training that occurred before the date of the election, including
+        training that occurred before the patent became eligible for
+        recapture under this subsection. The election established by this
+        paragraph governs only the use of the patent's disclosure occurring
+        after the date of the election.
+
+        (C) ADMINISTRATION.-- An election under this paragraph may be made
+        individually or through a Collective Licensing Body recognized
+        under Section 511(e) of this Title, and the priority established
+        under Section 511(e)(2) of this Title for individual and
+        small-entity creators shall apply equally to individual inventors
+        and small entities under this paragraph.
+
 --------------------------------------------------------------------------------
 SEC. 504. ATTRIBUTION REGISTRATION.
 --------------------------------------------------------------------------------
@@ -5730,6 +5771,37 @@ SEC. 506. INTELLECTUAL PROPERTY REGIME TRANSITION.
     unexercised and undefended for the full statutory period was never
     extended in practice beyond the date of abandonment, consistent with the
     constitutional design that protection be available, not perpetual.
+
+    (7) AI TRAINING ELECTION.--
+
+        (A) IN GENERAL.-- At any time before a work is deemed abandoned
+        under paragraph (2) of this subsection, including during the cure
+        period established under paragraph (3) of this subsection, the
+        rights holder may elect one of the following with respect to the
+        use of the work as training data for an artificial intelligence
+        system:
+
+            (i) EXCLUSION.-- a permanent election that the work shall not
+            be used to train any artificial intelligence system, which
+            election shall be enforceable as a condition of the work's
+            contribution to the IP Commons against any party, regardless
+            of affiliation with a Qualified Federated Network, in the same
+            manner as the copyleft mandate of Section 507 of this Title; or
+
+            (ii) CONTINUING PAYMENT.-- an election, or, in the absence of
+            any election under this paragraph, a default, that the rights
+            holder shall receive continuing payment for AI-training use of
+            the work within the Federated Network, calculated and
+            allocated pursuant to Section 511 of this Title.
+
+        (B) ADMINISTRATION.-- An election under this paragraph may be made
+        individually or through a Collective Licensing Body recognized
+        under Section 511(e) of this Title.
+
+        (C) NO RETROACTIVE EFFECT.-- An exclusion elected under
+        subparagraph (A)(i) of this paragraph applies prospectively only
+        and does not affect any use of the work that occurred before the
+        date of the election.
 
 (b) EXISTING COPYRIGHTS.-- Copyrights in works created prior to the date of
 enactment of this Act shall not be retroactively shortened. However:
@@ -6163,14 +6235,44 @@ percent of the total active Commons Member population.
 SEC. 510. AI-GENERATED WORKS AND AUTOMATION.
 --------------------------------------------------------------------------------
 
-(a) FINDING.-- Congress finds that the rapid advancement of artificial
-intelligence systems capable of generating creative works, technical innovations,
-and other intellectual output raises novel questions about attribution,
-contribution, and governance that the traditional intellectual property framework
-is ill-equipped to address, and that the IP Commons framework -- with its
-emphasis on collective governance, open attribution, and anti-enclosure --
-provides a more appropriate foundation for governing AI-generated intellectual
-output than the enclosure-based alternatives.
+(a) FINDINGS.--
+
+    (1) Congress finds that the questions raised by artificial intelligence
+    training and generation are not separate from the questions this Title
+    otherwise addresses regarding human creativity and innovation, but are
+    the same underlying commons problem viewed from two points of use: the
+    extraction of value from collectively created knowledge without
+    reciprocity, whether that extraction takes the form of corporate
+    enclosure of human creative and inventive output or the uncompensated
+    use of commons-held work as training data for artificial intelligence
+    systems. The rapid advancement of artificial intelligence systems
+    capable of generating creative works, technical innovations, and other
+    intellectual output raises novel questions about attribution,
+    contribution, and governance that the traditional intellectual property
+    framework is ill-equipped to address, and the IP Commons framework,
+    with its emphasis on collective governance, open attribution, and
+    anti-enclosure, provides a more appropriate foundation for governing
+    AI-generated intellectual output, and the relationship between human
+    creators and the artificial intelligence systems trained on their work,
+    than the enclosure-based alternatives, for the same reasons it provides
+    a more appropriate foundation for governing human creative and
+    innovative work generally.
+
+    (2) Congress finds that this Title accordingly applies a single
+    governance architecture, permanent attribution, anti-enclosure through
+    the copyleft mandate of Section 507 of this Title, and material
+    security through the Guaranteed Provision Standard, to both human and
+    artificial creative and inventive processes, while calibrating the
+    specific mechanisms of artificial intelligence training compensation
+    according to the cosmo-local principle articulated in the peer-to-peer
+    commons research of Michel Bauwens: that knowledge and creative
+    expression, being non-rivalrous and costless to replicate, should
+    circulate and be governed according to the community of practice that
+    depends on them rather than according to geographic or sectoral
+    boundary, while the deployment of physical resources, including the
+    pharmaceutical, energy, and agricultural technology addressed by the
+    priority categories of Section 503(d)(3) of this Title, properly
+    remains governed according to the urgency already established there.
 
 (b) AI-GENERATED WORKS -- ATTRIBUTION RULES.-- The following attribution rules
 shall apply to works generated by artificial intelligence systems within the
@@ -6203,19 +6305,30 @@ rights in the generated works. AI-generated works that are substantially derived
 from commons materials are subject to the copyleft mandate of Section 507 of this
 Title regardless of the degree of human direction involved in their generation.
 
-(d) TRAINING DATA TRANSPARENCY.-- Any AI system deployed within the Federated
-Network for the generation of creative works or technical innovations shall:
+(d) AI TRANSPARENCY -- TRAINING DATA AND OUTPUT DISCLOSURE.-- Any AI system
+deployed within the Federated Network for the generation of creative works or
+technical innovations shall:
 
-    (1) maintain a publicly accessible record of the training data used to develop
-    the system, with sufficient specificity to allow determination of whether
-    commons materials contributed to the system's training;
+    (1) maintain a publicly accessible record of the training data used to
+    develop the system, with sufficient specificity to allow determination
+    of whether commons materials contributed to the system's training;
 
-    (2) provide attribution references to commons training data in all outputs as
-    required by subsection (b)(3) of this Section; and
+    (2) provide attribution references to commons training data in all
+    outputs as required by subsection (b)(3) of this Section;
 
-    (3) contribute to the IP Commons any technical innovations in AI methodology
-    developed during the system's operation within the network, subject to the
-    copyleft mandate of Section 507 of this Title.
+    (3) contribute to the IP Commons any technical innovations in AI
+    methodology developed during the system's operation within the
+    network, subject to the copyleft mandate of Section 507 of this Title;
+    and
+
+    (4) OUTPUT DISCLOSURE.-- include, in a machine-readable format attached
+    to or accompanying each output, a disclosure identifying the output as
+    generated in whole or in part by an artificial intelligence system,
+    recorded in a manner compatible with the Federated Mesh Open Standard
+    established under Section 701 of Title VII of this Act; this
+    requirement applies regardless of whether the output incorporates
+    commons training data and is independent of the attribution
+    requirements of subsection (b) of this Section.
 
 (e) AUTOMATION AND CREATIVE LABOR.-- Congress finds that the increasing capacity
 of AI systems to perform work previously requiring human creative and technical
@@ -6237,6 +6350,150 @@ Federated Network:
     production on the distribution of commons benefits and shall report annually
     on whether the commons is successfully capturing the productivity gains of
     automation for the benefit of all members.
+
+(f) HUMAN PROVENANCE AND DISCOVERY INFRASTRUCTURE.--
+
+    (1) ESTABLISHMENT.-- The Technical Standards Body established under
+    Section 701(d) of Title VII of this Act shall develop and maintain an
+    open, non-proprietary specification for a voluntary provenance record,
+    through which a Commons Member or other creator may document the
+    creative process by which a work was produced, including the sequence
+    of drafts, revisions, and tool use involved, for the purpose of
+    providing a verifiable record of human creative contribution distinct
+    from the attribution and training-data disclosures otherwise required
+    by this Section.
+
+    (2) VOLUNTARY AND ZERO-COST.-- Use of the provenance record established
+    under this subsection is voluntary, available without charge to any
+    creator, and shall not be required as a condition of participation in
+    any Federated Network, attribution registration under Section 504 of
+    this Title, or any benefit otherwise available under this Act.
+
+    (3) RECORD CONTENT.-- The provenance record shall accommodate a
+    graduated disclosure of the degree and nature of artificial
+    intelligence involvement in a work's creation, rather than a binary
+    designation of the work as human-made or AI-made, recognizing that most
+    creative work involving digital tools reflects some combination of
+    human direction and automated assistance.
+
+    (4) RECORDATION.-- A creator electing to use the provenance record
+    shall log the relevant process information on the National Resilience
+    Ledger contemporaneously with the work's creation, to the extent
+    practicable, rather than asserting provenance after the fact.
+
+    (5) MONITORING AND VERIFICATION.-- Verification of provenance records
+    shall be conducted by members of the Qualified Federated Network or
+    Qualified Federated Cooperative with which the creator is affiliated,
+    through a graduated process established by that Network's or
+    Cooperative's own governance procedures, beginning with correction of
+    inaccurate records and escalating to suspension of provenance
+    recordation privileges only upon a demonstrated pattern of false
+    attestation. Nothing in this subsection shall be construed to require
+    the establishment of a centralized federal verification authority.
+
+    (6) DISCOVERY AND CURATION.-- Each Qualified Federated Network or
+    Qualified Federated Cooperative may develop its own tools, platforms,
+    or curation practices for surfacing works documented through the
+    provenance record established under this subsection, and nothing in
+    this subsection shall be construed to establish a single national
+    standard for the curation or promotion of such works.
+
+--------------------------------------------------------------------------------
+SEC. 511. AI TRAINING CALIBRATION AND COLLECTIVE LICENSING INFRASTRUCTURE.
+--------------------------------------------------------------------------------
+
+(a) PURPOSE.-- This Section establishes the institutional infrastructure
+through which the elections available to creators and inventors under
+Section 506(a)(7) and Section 503(d)(4) of this Title are calibrated and
+administered.
+
+(b) DOMAIN-OF-PRACTICE CALIBRATION BODIES.--
+
+    (1) ESTABLISHMENT.-- The IP Commons Governance Council shall establish
+    standing committees, to be known as Domain-of-Practice Calibration
+    Bodies, organized according to communities of creative and inventive
+    practice rather than according to geographic network or political
+    subdivision, consistent with the principle that knowledge and creative
+    expression, being non-rivalrous, are properly governed by the community
+    that depends on and contributes to them rather than by territorial
+    boundary.
+
+    (2) ILLUSTRATIVE DOMAINS.-- Domains may include, without limitation,
+    literary and textual work, musical composition and recording, visual
+    and audiovisual art, software and technical design, pharmaceutical and
+    medical technology, renewable energy and climate technology, and
+    agricultural technology, provided that the IP Commons Governance
+    Council retains discretion to define, combine, subdivide, or add
+    domains as the composition of the commons evolves, and shall not be
+    bound to the domains enumerated in this paragraph.
+
+    (3) COMPOSITION.-- Each Domain-of-Practice Calibration Body shall be
+    composed of Commons Members and, where applicable, Collective
+    Licensing Bodies recognized under subsection (e) of this Section, who
+    create or invent within that domain, selected through the open
+    governance process established under Section 509(d) of this Title.
+
+(c) STATUTORY FLOOR.-- Where a creator or inventor elects the continuing
+payment option under Section 506(a)(7)(A)(ii) or Section 503(d)(4)(A)(ii) of
+this Title, or receives that option by default, that creator or inventor
+shall receive not less than fifty percent of the value attributed to the
+AI-training use of their work or invention, calculated pursuant to
+subsection (d) of this Section, regardless of any contrary determination by
+a Domain-of-Practice Calibration Body; the remaining share shall be
+allocated as provided in subsection (d) of this Section.
+
+(d) ALLOCATION ABOVE THE FLOOR.-- Subject to the floor established by
+subsection (c) of this Section, each Domain-of-Practice Calibration Body
+shall determine, through its own governance process and subject to revision
+not less often than once every two years:
+
+    (1) the methodology for calculating the value attributed to AI-training
+    use of a work or invention within its domain;
+
+    (2) the allocation of any share above the statutory floor between the
+    individual creator or inventor and the monitoring, verification, and
+    collective licensing infrastructure of that domain, including the
+    provenance and discovery infrastructure established under Section
+    510(f) of this Title; and
+
+    (3) such other procedures as are necessary to administer the elections
+    available under Section 506(a)(7) and Section 503(d)(4) of this Title
+    within that domain.
+
+(e) COLLECTIVE LICENSING BODIES.--
+
+    (1) RECOGNITION.-- The IP Commons Governance Council shall recognize
+    Collective Licensing Bodies, voluntary associations of creators or
+    inventors organized to negotiate and administer AI training licenses,
+    elections, and payments on behalf of their members, modeled on the
+    function performed by performing rights organizations for musical works
+    and patent pools for patented technology.
+
+    (2) ELIGIBILITY.-- Any creator or inventor may join a Collective
+    Licensing Body recognized under this subsection. The IP Commons
+    Governance Council shall prioritize technical assistance and support
+    for the formation of Collective Licensing Bodies organized by or for
+    the benefit of individual creators, individual inventors, and small
+    entities, recognizing that the bargaining power a Collective Licensing
+    Body provides is most needed by creators and inventors who would
+    otherwise negotiate alone.
+
+    (3) ANTITRUST SAFE HARBOR.-- The collective negotiation and
+    administration of AI training elections, licenses, and payments by a
+    Collective Licensing Body recognized under this subsection, on behalf
+    of its members, shall not be construed to violate the Sherman Act or
+    the Federal Trade Commission Act solely by virtue of that collective
+    conduct, provided the Collective Licensing Body's conduct is limited to
+    the administration of the elections and payments established under
+    Section 506(a)(7) and Section 503(d)(4) of this Title.
+
+(f) REVIEW.-- The IP Commons Governance Council shall report to Congress
+not less often than once every four years on whether the allocation
+determinations of the Domain-of-Practice Calibration Bodies under
+subsection (d) of this Section, and the maturity of the Guaranteed
+Provision Standard's coverage of affected creators and inventors, warrant
+any adjustment to the statutory floor established by subsection (c) of
+this Section.
 
 
 ================================================================================
