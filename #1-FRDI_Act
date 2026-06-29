@@ -5418,45 +5418,37 @@ agency.
         production methods whose shelving has contributed to food insecurity or
         reduced agricultural resilience.
 
-    (4) AI TRAINING ELECTION.--
+    (4) AI TRAINING RECOGNITION.--
 
-        (A) IN GENERAL.-- During the one hundred eighty day period
-        established under paragraph (2)(B) of this subsection, the patent
-        holder may elect one of the following with respect to the use of
-        the patent's disclosure as training data for an artificial
-        intelligence system generating technical innovations:
+        (A) IN GENERAL.-- A patent holder whose patent is contributed to
+        the Intellectual Property Commons through the recapture mechanism
+        of this subsection retains no right to exclude the use of the
+        patent's disclosure as training data for an artificial intelligence
+        system, the disclosure having already been a matter of public
+        record from the date of its publication under existing patent law
+        and the recapture itself having been compensated pursuant to
+        paragraph (2)(D) of this subsection. Consistent with the finding in
+        Section 506(a)(6) of this Title that a right contributed through
+        recapture or abandonment carries no surviving claim against parties
+        outside the Federated Network, no exclusion election is available
+        under this paragraph.
 
-            (i) EXCLUSION.-- a permanent election that the patent's
-            disclosure shall not be used to train any artificial
-            intelligence system for that purpose, which election shall be
-            enforceable as a condition of the patent's contribution to the
-            IP Commons against any party, regardless of affiliation with a
-            Qualified Federated Network, in the same manner as the
-            copyleft mandate of Section 507 of this Title; or
+        (B) CONTINUING PAYMENT.-- The original inventor of a patent
+        recaptured under this subsection shall automatically receive
+        continuing payment for AI-training use of the patent's disclosure
+        occurring within the Federated Network, calculated and allocated
+        pursuant to Section 511 of this Title, without any election or
+        other action required. This payment is in addition to, and not in
+        lieu of, the compensation provided to the patent holder under
+        paragraph (2)(D) of this subsection for the recapture itself.
 
-            (ii) CONTINUING PAYMENT.-- an election, or, in the absence of
-            any election under this paragraph, a default, that the patent
-            holder shall receive continuing payment for AI-training use of
-            the patent's disclosure within the Federated Network,
-            calculated and allocated pursuant to Section 511 of this Title.
-
-        (B) NO RETROACTIVE EFFECT; FINDING.-- Congress finds that, because
-        a patent's disclosure is a matter of public record from the date of
-        its publication under existing patent law, an exclusion elected
-        under subparagraph (A)(i) of this paragraph cannot affect, and
-        shall not be construed to affect, any artificial intelligence
-        training that occurred before the date of the election, including
-        training that occurred before the patent became eligible for
-        recapture under this subsection. The election established by this
-        paragraph governs only the use of the patent's disclosure occurring
-        after the date of the election.
-
-        (C) ADMINISTRATION.-- An election under this paragraph may be made
-        individually or through a Collective Licensing Body recognized
-        under Section 511(e) of this Title, and the priority established
-        under Section 511(e)(2) of this Title for individual and
-        small-entity creators shall apply equally to individual inventors
-        and small entities under this paragraph.
+        (C) ADMINISTRATION.-- The continuing payment established by
+        subparagraph (B) of this paragraph may be administered on the
+        inventor's behalf by a Collective Licensing Body recognized under
+        Section 511(e) of this Title, and the priority established under
+        Section 511(e)(2) of this Title for individual and small-entity
+        creators shall apply equally to individual inventors and small
+        entities under this paragraph.
 
 --------------------------------------------------------------------------------
 SEC. 504. ATTRIBUTION REGISTRATION.
@@ -5607,33 +5599,66 @@ retain their original open license in addition to receiving IP Commons
 registration, such that the IP Commons contribution does not narrow the rights
 of parties who were already accessing the work under its original open license.
 
-(b) CREATOR REVERSION RIGHT.-- An individual creator whose work is currently held
-under copyright by a corporate rights-holder -- including a recording label,
-publishing house, film studio, technology company, or other entity that acquired
-the copyright through assignment, work-for-hire arrangement, or other mechanism
--- shall have the right to reclaim that copyright and contribute the work to the
-Intellectual Property Commons, subject to the following conditions:
+(b) CREATOR REVERSION RIGHT.-- An individual creator whose work is currently
+held under copyright by a corporate rights-holder -- including a recording
+label, publishing house, film studio, technology company, or other entity that
+acquired the copyright through assignment, work-for-hire arrangement, or other
+mechanism -- shall have the right to reclaim that copyright and contribute the
+work to the Intellectual Property Commons, subject to the following conditions:
 
-    (1) the reversion right shall be exercisable at any time after the earlier of:
-    thirty-five years from the date of the original copyright assignment or
-    work-for-hire arrangement; or twenty years from the date of enactment of this
-    Act;
+    (1) BASELINE TIMING.-- the reversion right shall be exercisable at any time
+    after thirty-five years from the date of the original copyright assignment
+    or work-for-hire arrangement, consistent with the termination-of-transfer
+    timing already established under sections 203 and 304 of title 17, United
+    States Code;
 
-    (2) the creator shall provide written notice of intent to exercise the
-    reversion right to the corporate rights-holder not less than two years before
-    the intended reversion date;
+    (2) ACCELERATED TIMING.-- where twenty years from the date of enactment of
+    this Act precedes the date on which the reversion right would otherwise
+    become exercisable under paragraph (1) of this subsection, the reversion
+    right shall instead be exercisable beginning on that earlier date,
+    provided that:
 
-    (3) upon exercise of the reversion right, copyright shall vest in the creator,
-    who may then contribute the work to the IP Commons or retain the copyright
-    under the terms of the amended copyright regime established in Section 506 of
-    this Title;
+        (A) a corporate rights-holder whose copyright reverts on the
+        accelerated timing established by this paragraph, rather than on the
+        baseline timing of paragraph (1) of this subsection, shall receive,
+        at the rights-holder's election: (i) a Legacy Credit pursuant to
+        Section 304(f) of Title III of this Act, calculated in proportion to
+        the number of years by which reversion was accelerated relative to
+        the baseline timing of paragraph (1) of this subsection; or (ii) a
+        charitable deduction under the Internal Revenue Code calculated on
+        the same proportional basis, on terms equivalent to the deduction
+        available under Section 505(c)(4) of this Title; and
 
-    (4) any contractual provision that purports to waive or restrict the creator's
-    reversion right established by this Section is void and unenforceable; and
+        (B) the compensation mechanism established by subparagraph (A) of
+        this paragraph and the acceleration of the reversion right are
+        severable, such that a judicial finding that the compensation
+        provided is constitutionally inadequate shall require adjustment of
+        the compensation but shall not void the acceleration;
 
-    (5) the Creator Transition Grant established under Section 106(b)(5) of this
-    Act shall be available to creators exercising the reversion right who are
-    transitioning from IP income dependence to the commons economy.
+    (3) RELATIONSHIP TO EXISTING LAW.-- the reversion right established by
+    this subsection is in addition to, and not in lieu of, any termination
+    right available to the creator under sections 203 and 304 of title 17,
+    United States Code. A creator may exercise whichever right has matured
+    and is more favorable to the creator, and the exercise of one does not
+    waive or extinguish the other;
+
+    (4) NOTICE.-- the creator shall provide written notice of intent to
+    exercise the reversion right to the corporate rights-holder not less than
+    two years before the intended reversion date;
+
+    (5) EFFECT OF EXERCISE.-- upon exercise of the reversion right, copyright
+    shall vest in the creator, who may then contribute the work to the IP
+    Commons or retain the copyright under the terms of the amended copyright
+    regime established in Section 506 of this Title;
+
+    (6) NON-WAIVABILITY.-- any contractual provision that purports to waive
+    or restrict the creator's reversion right established by this Section is
+    void and unenforceable; and
+
+    (7) TRANSITION SUPPORT.-- the Creator Transition Grant established under
+    Section 106(b)(5) of this Act shall be available to creators exercising
+    the reversion right who are transitioning from IP income dependence to
+    the commons economy.
 
 (c) CORPORATE VOLUNTARY CONTRIBUTION.-- Corporate entities holding intellectual
 property portfolios may contribute works, patents, or other intellectual property
@@ -5655,6 +5680,11 @@ to the IP Commons through the Legacy Swap arrangement established under Section
     Revenue Code equal to the assessed productive potential of the contributed
     intellectual property.
 
+    (5) the contributing corporate entity is eligible for the AI Training Election 
+    established under Section 506(a)(7)(A) of this Title with respect to the contributed 
+    intellectual property, on the same terms available to an individual rights holder 
+    under that Section.
+
 (d) TRADE SECRET DISSOLUTION UPON QFN CONVERSION.-- Any business enterprise
 converting to worker cooperative ownership and Qualified Federated Cooperative
 status pursuant to Section 304 of Title III of this Act shall contribute all
@@ -5675,6 +5705,12 @@ condition of QFC certification, subject to the following:
     costs associated with trade secret contribution, including the costs of
     documenting and formalizing trade secret knowledge that has previously existed
     only in the tacit knowledge of employees.
+
+    (5) the converting enterprise, or the individual employees identified as the 
+    developers of a contributed trade secret under paragraph (2) of this subsection, 
+    are eligible for the AI Training Election established under Section 506(a)(7)(A) 
+    of this Title with respect to the contributed trade secret, on the same terms 
+    available to an individual rights holder under that Section.
 
 --------------------------------------------------------------------------------
 SEC. 506. INTELLECTUAL PROPERTY REGIME TRANSITION.
@@ -5781,36 +5817,54 @@ SEC. 506. INTELLECTUAL PROPERTY REGIME TRANSITION.
     extended in practice beyond the date of abandonment, consistent with the
     constitutional design that protection be available, not perpetual.
 
-    (7) AI TRAINING ELECTION.--
+    (7) AI TRAINING ELECTION AND RECOGNITION.--
 
-        (A) IN GENERAL.-- At any time before a work is deemed abandoned
-        under paragraph (2) of this subsection, including during the cure
-        period established under paragraph (3) of this subsection, the
-        rights holder may elect one of the following with respect to the
-        use of the work as training data for an artificial intelligence
-        system:
+        (A) VOLUNTARY CONTRIBUTION PATHWAY.-- A rights holder who
+        contributes a work to the Intellectual Property Commons through
+        voluntary dedication under Section 505(a) of this Title, corporate
+        voluntary contribution under Section 505(c) of this Title, or trade
+        secret dissolution under Section 505(d) of this Title, may elect,
+        at the time of contribution or at any time thereafter while the
+        right contributed would otherwise subsist, one of the following
+        with respect to the use of the work as training data for an
+        artificial intelligence system:
 
             (i) EXCLUSION.-- a permanent election that the work shall not
             be used to train any artificial intelligence system, which
-            election shall be enforceable as a condition of the work's
-            contribution to the IP Commons against any party, regardless
-            of affiliation with a Qualified Federated Network, in the same
-            manner as the copyleft mandate of Section 507 of this Title; or
+            election operates as a covenant attached to the right
+            contributed and is enforceable, for so long as that right would
+            otherwise have subsisted absent the contribution, against any
+            party whose use of the work would, absent this election,
+            require the authorization of the contributing rights holder; or
 
             (ii) CONTINUING PAYMENT.-- an election, or, in the absence of
-            any election under this paragraph, a default, that the rights
-            holder shall receive continuing payment for AI-training use of
-            the work within the Federated Network, calculated and
+            any election under this subparagraph, a default, that the
+            rights holder shall receive continuing payment for AI-training
+            use of the work within the Federated Network, calculated and
             allocated pursuant to Section 511 of this Title.
 
-        (B) ADMINISTRATION.-- An election under this paragraph may be made
-        individually or through a Collective Licensing Body recognized
-        under Section 511(e) of this Title.
+        (B) ABANDONED WORKS PATHWAY.-- A rights holder whose work is
+        contributed to the Intellectual Property Commons through the
+        abandoned-works mechanism of paragraph (2) of this subsection is
+        not eligible for the exclusion election of subparagraph (A)(i) of
+        this paragraph, consistent with the finding in paragraph (6) of
+        this subsection that the right contributed through that mechanism
+        has already lapsed prior to contribution and carries no surviving
+        claim against parties outside the Federated Network. The original
+        rights holder shall instead automatically receive continuing
+        payment for AI-training use of the work occurring within the
+        Federated Network, calculated and allocated pursuant to Section 511
+        of this Title, without any election or other action required.
 
-        (C) NO RETROACTIVE EFFECT.-- An exclusion elected under
-        subparagraph (A)(i) of this paragraph applies prospectively only
-        and does not affect any use of the work that occurred before the
-        date of the election.
+        (C) ADMINISTRATION.-- An election or entitlement under this
+        paragraph may be made or administered individually or through a
+        Collective Licensing Body recognized under Section 511(e) of this
+        Title.
+
+        (D) NO RETROACTIVE EFFECT.-- An exclusion elected under
+        subparagraph (A)(i) of this paragraph applies prospectively only and
+        does not affect any use of the work that occurred before the date
+        of the election.
 
 (b) EXISTING COPYRIGHTS.-- Copyrights in works created prior to the date of
 enactment of this Act shall not be retroactively shortened. However:
@@ -6411,10 +6465,10 @@ Federated Network:
 SEC. 511. AI TRAINING CALIBRATION AND COLLECTIVE LICENSING INFRASTRUCTURE.
 --------------------------------------------------------------------------------
 
-(a) PURPOSE.-- This Section establishes the institutional infrastructure
-through which the elections available to creators and inventors under
-Section 506(a)(7) and Section 503(d)(4) of this Title are calibrated and
-administered.
+(a) PURPOSE.-- This Section establishes the institutional infrastructure through 
+which the elections available under Section 506(a)(7)(A) of this Title, and the 
+automatic continuing payment entitlements established under Section 506(a)(7)(B) 
+and Section 503(d)(4)(B) of this Title, are calibrated and administered.
 
 (b) DOMAIN-OF-PRACTICE CALIBRATION BODIES.--
 
@@ -6442,12 +6496,13 @@ administered.
     create or invent within that domain, selected through the open
     governance process established under Section 509(d) of this Title.
 
-(c) STATUTORY FLOOR.-- Where a creator or inventor elects the continuing
-payment option under Section 506(a)(7)(A)(ii) or Section 503(d)(4)(A)(ii) of
-this Title, or receives that option by default, that creator or inventor
-shall receive not less than fifty percent of the value attributed to the
-AI-training use of their work or invention, calculated pursuant to
-subsection (d) of this Section, regardless of any contrary determination by
+(c) STATUTORY FLOOR.-- Where a creator or inventor elects the continuing 
+payment option under Section 506(a)(7)(A)(ii) of this Title, or receives that 
+option by default, or receives the automatic continuing payment entitlement 
+established under Section 506(a)(7)(B) or Section 503(d)(4)(B) of this Title, 
+that creator or inventor shall receive not less than fifty percent of the value 
+attributed to the AI-training use of their work or invention, calculated pursuant 
+to subsection (d) of this Section, regardless of any contrary determination by
 a Domain-of-Practice Calibration Body; the remaining share shall be
 allocated as provided in subsection (d) of this Section.
 
@@ -8614,7 +8669,17 @@ infrastructure established by this Act, as it matures and demonstrates its
 resilience, will create conditions in which further integration of military and
 civilian commons governance becomes strategically coherent and publicly
 beneficial, and anticipates addressing such further integration through
-subsequent legislative vehicles in due course.
+subsequent legislative vehicles in due course.(d) CONSTITUTIONAL BASIS.-- The 
+irrevocability established by subsection (a) of this Section operates as a restraint 
+on executive and administrative action; it does not purport to limit the legislative 
+authority of a future Congress. The protection of completed transfers under this 
+Section against subsequent reversal arises independently from the Fifth Amendment's 
+prohibition on the taking of private property without just compensation, which 
+attaches to the vested property interest of the Community Land Trust or other 
+recipient entity once a transfer authorized by this Title is complete, regardless 
+of this Section's restraint on executive action.
+
+
 
 
 ================================================================================
