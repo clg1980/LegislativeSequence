@@ -89,13 +89,14 @@ Sec. 406. Automation Governance Council.
 TITLE V -- ADMINISTRATIVE AND JUDICIAL PROVISIONS
 
 Sec. 501. Dependency on the FRDI Act and HRCR Act.
-Sec. 502. Executive Branch Compliance Mechanisms.
-Sec. 503. Constitutional Safe Harbor.
-Sec. 504. Severability.
-Sec. 505. Judicial Review.
-Sec. 506. Conforming Amendments.
-Sec. 507. Authorization of Appropriations.
-Sec. 508. Effective Date.
+Sec. 502. Anti-Capture Provisions.
+Sec. 503. Executive Branch Compliance Mechanisms.
+Sec. 504. Constitutional Safe Harbor.
+Sec. 505. Severability.
+Sec. 506. Judicial Review.
+Sec. 507. Conforming Amendments.
+Sec. 508. Authorization of Appropriations.
+Sec. 509. Effective Date.
 
 ================================================================================
 SECTION 3. FINDINGS.
@@ -715,8 +716,8 @@ Department of Defense shall:
     (2) identify and begin the drawdown of basing and deployment arrangements
     whose primary strategic rationale, as assessed under Section 101(c)(2) of
     this Title, is the protection of fossil fuel infrastructure or the
-    maintenance of petrodollar arrangements rather than the genuine security
-    missions of Section 101(a);
+    maintenance of dollar-denominated energy market arrangements rather than the 
+    genuine security missions of Section 101(a);
 
     (3) redirect not less than ten percent of the annual defense budget savings
     realized through basing consolidations and deployment drawdowns during this
@@ -789,8 +790,8 @@ nuclear posture of the United States except as follows:
     101(c) of this Title, shall assess the current nuclear posture against the
     primary missions of Section 101(a) of this Title and shall identify any
     nuclear capabilities or deployment arrangements whose primary rationale
-    derives from petrodollar protection rather than from the maintenance of
-    minimum credible deterrence; and
+    derives from dollar-denominated energy market protection rather than from 
+    the maintenance of minimum credible deterrence; and
 
     (2) the Secretary of State is hereby authorized to pursue active engagement
     in multilateral nuclear disarmament negotiations under the existing
@@ -2657,7 +2658,151 @@ posture transition of Title I of this Act, the federal government shall:
     coherent.
 
 --------------------------------------------------------------------------------
-SEC. 502. EXECUTIVE BRANCH COMPLIANCE MECHANISMS.
+SEC. 502. ANTI-CAPTURE PROVISIONS.
+--------------------------------------------------------------------------------
+
+(a) FINDING.-- Congress finds that the interests displaced by this Act will
+respond to its enactment through predictable institutional channels that this
+Act must address directly. The geographic distribution of defense contracting
+across congressional districts has historically generated legislative resistance
+to force structure reductions independent of strategic merit, creating
+constituency employment dependencies whose effect is to make the security
+rationale of specific basing and procurement decisions politically
+unchallengeable. The analytics platform and intelligence community contractor
+ecosystem has strong institutional incentive to challenge the commons capture
+provisions of Title III through litigation, regulatory delay, and the channeling
+of unclassified intelligence community analysis toward the narrative that
+open-source analytics is strategically inadequate. The revolving door between
+senior positions in the Department of Defense, the Intelligence Community, and
+the private defense and analytics sectors has produced patterns of regulatory
+capture that no statutory mandate has historically been immune from without
+specific institutional armor. The provisions of this Section provide that armor
+for this Act.
+
+(b) CONFLICT OF INTEREST PROHIBITIONS -- GOVERNANCE BODIES.-- No person shall
+serve on any governance body established by this Act, including the Analytics
+Commons Governance Council established under Section 306 of Title III of this
+Act, the Automation Governance Council established under Section 406 of Title
+IV of this Act, or any other body with decision-making authority over the
+provisions of this Act, if that person:
+
+    (1) is a current employee, officer, director, or significant shareholder
+    of any defense contractor, intelligence community contractor, analytics
+    platform holder whose intellectual property is subject to the commons
+    capture provisions of Section 302 of Title III of this Act, or private
+    equity fund with investments in any such entity;
+
+    (2) has been employed by, or held a significant financial interest in, any
+    such entity within the five years preceding their appointment; or
+
+    (3) has a financial interest in any contract, procurement, licensing
+    arrangement, or commercial relationship that would be materially affected
+    by the decisions of the body on which they serve.
+
+(c) POST-SERVICE RESTRICTIONS.-- Any person who serves on any governance body
+established by this Act, or who serves as a senior official with implementation
+responsibility for any provision of this Act, shall not, for a period of five
+years following the conclusion of their service:
+
+    (1) accept employment with any defense contractor, intelligence community
+    contractor, or analytics platform holder whose interests were materially
+    affected by decisions made or overseen during that person's service; or
+
+    (2) receive compensation from any entity that received a material benefit
+    from any decision made during that person's service, in exchange for advice,
+    advocacy, or other services related to the subject matter of that decision.
+
+(d) DEFENSE COMMUNITY TRANSITION OFFICE.-- Congress finds that the geographic
+distribution of defense contracting across congressional districts has been used
+systematically to generate legislative resistance to force structure reductions
+by creating constituency employment dependencies that substitute for strategic
+assessment. This Act addresses that dynamic directly by ensuring that the
+communities most affected by force structure transition receive the greatest
+proportional investment through the commons economy mechanisms of this program.
+
+    (1) ESTABLISHMENT.-- There is established within the Department of Defense
+    a Defense Community Transition Office, staffed by personnel with expertise
+    in cooperative enterprise development, commons infrastructure, and community
+    economic transition, whose function is to ensure that no community
+    experiences net economic harm from the force structure transition
+    established by Title I of this Act without receiving equivalent or greater
+    investment through the Bootstrap Grant Program and the commons economy
+    mechanisms of the Federal Resilience and Decentralization Initiatives Act.
+
+    (2) COMMUNITY TRANSITION PLANS.-- The Defense Community Transition Office
+    shall, for each base closure, significant force reduction, or procurement
+    cancellation implemented pursuant to Title I of this Act, develop a
+    Community Economic Transition Plan identifying:
+
+        (A) the commons infrastructure investment, cooperative enterprise
+        development opportunities, and Bootstrap Grant allocation directed to
+        the affected community;
+
+        (B) the timeline for that investment to become operational, measured
+        against the timeline of the force structure change; and
+
+        (C) the specific Qualified Federated Networks or proto-QFN organizations
+        in the affected community, and the technical assistance and capitalization
+        they require to absorb the transition.
+
+    (3) COORDINATION WITH SECTION 103(e) REPORTING.-- The Secretary of Defense
+    shall include the Community Economic Transition Plan for each affected
+    community in the annual defense savings accountability report required by
+    Section 103(e) of Title I of this Act, with the Defense Community Transition
+    Office providing the analysis underlying each plan.
+
+    (4) SCOPE.-- The Defense Community Transition Office established by this
+    Section is the authoritative federal body for coordinating community
+    economic transition arising from force structure reductions under this Act
+    and any other Federal law enacting a resilience-based or
+    alliance-restructuring defense posture, including any reductions arising
+    from the alliance renegotiation directed by the International Sovereignty,
+    Resilience and Nonproliferation Act or any comparable body of Federal law
+    later enacted for that purpose.
+
+(e) LEGAL CHALLENGE ANTICIPATION.-- The following provisions address the
+specific legal challenges most likely to be brought against this Act:
+
+    (1) TAKINGS CHALLENGES.-- The commons capture of Intelligence-Community-
+    Funded Analytics Platforms pursuant to Section 302 of Title III of this
+    Act is grounded in the public funding basis of the captured intellectual
+    property, not in any general authority to take private property. The audit
+    required by Section 302(b) of Title III of this Act specifically identifies
+    the publicly funded components subject to capture, distinguishing them from
+    independently developed proprietary enhancements; compensation through
+    Legacy Credits or United States dollars, at the contributing platform
+    holder's election pursuant to Section 302(c)(3) of Title III of this Act,
+    is provided for any privately funded value that is incidentally captured.
+    Any takings claim arising from this provision shall be adjudicated on the
+    basis of the specific proportion of publicly funded to privately funded
+    intellectual property in the captured components, with the federal government
+    bearing the burden of demonstrating the public funding basis and the platform
+    holder bearing the burden of demonstrating any privately funded value
+    subject to compensation.
+
+    (2) CONTRACT CHALLENGES.-- Existing contracts for defense services and
+    intelligence community analytics that are inconsistent with this Act shall
+    be honored through their current term and shall not be renewed on
+    inconsistent terms. No provision of this Act shall be construed to abrogate
+    any existing contract unilaterally; the Act operates on the contracting
+    cycle, not against it.
+
+    (3) SEPARATION OF POWERS CHALLENGES.-- The Resilience-Based Defense
+    Posture declaration of Section 101 of Title I of this Act, the intelligence
+    apparatus reform provisions of Section 104 of Title I, the Algorithmic
+    Governance Prohibition of Section 404 of Title IV, and the other directives
+    issued to the President, the Secretary of Defense, and other executive
+    officials throughout this Act are statutory mandates enacted pursuant to
+    Congress's plenary authority over defense appropriations, military
+    organization, and the regulation of automated systems deployed in federally
+    regulated commerce. They do not unconstitutionally infringe executive power;
+    they exercise Congress's constitutional authority to define the missions for
+    which defense appropriations may be used, the conditions under which
+    intelligence programs may operate, and the standards to which automated
+    systems deployed in or affecting interstate commerce must conform.
+
+--------------------------------------------------------------------------------
+SEC. 503. EXECUTIVE BRANCH COMPLIANCE MECHANISMS.
 --------------------------------------------------------------------------------
 
 (a) NON-REINTERPRETATION PROVISION.-- The defense posture declaration of
@@ -2729,7 +2874,7 @@ Inspector General oversight established by that Section:
     the National Resilience Ledger.
 
 --------------------------------------------------------------------------------
-SEC. 503. CONSTITUTIONAL SAFE HARBOR.
+SEC. 504. CONSTITUTIONAL SAFE HARBOR.
 --------------------------------------------------------------------------------
 
 Any federal officer, employee, or agent who in good faith takes any action to
@@ -2747,7 +2892,7 @@ Decentralization Initiatives Act. This safe harbor is retroactive to the date
 of introduction of this Act in Congress.
 
 --------------------------------------------------------------------------------
-SEC. 504. SEVERABILITY.
+SEC. 505. SEVERABILITY.
 --------------------------------------------------------------------------------
 
 (a) GENERAL SEVERABILITY.-- If any provision of this Act, or the application
@@ -2781,7 +2926,7 @@ pathways available through the governance infrastructure of the Federal
 Resilience and Decentralization Initiatives Act.
 
 --------------------------------------------------------------------------------
-SEC. 505. JUDICIAL REVIEW.
+SEC. 506. JUDICIAL REVIEW.
 --------------------------------------------------------------------------------
 
 (a) FEDERAL COURT JURISDICTION.-- The federal district courts shall have
@@ -2862,7 +3007,7 @@ Act, adapted as follows:
     this legislative program shall be deemed to constitute the public interest.
 
 --------------------------------------------------------------------------------
-SEC. 506. CONFORMING AMENDMENTS.
+SEC. 507. CONFORMING AMENDMENTS.
 --------------------------------------------------------------------------------
 
 (a) NATIONAL SECURITY ACT OF 1947.-- The National Security Act of 1947,
@@ -2973,7 +3118,7 @@ be amended, within two years of the date of enactment of this Act, to:
     agency responsible for verifying compliance at each contract renewal.
 
 --------------------------------------------------------------------------------
-SEC. 507. AUTHORIZATION OF APPROPRIATIONS.
+SEC. 508. AUTHORIZATION OF APPROPRIATIONS.
 --------------------------------------------------------------------------------
 
 (a) GENERAL AUTHORIZATION.-- There are authorized to be appropriated to carry
@@ -3067,7 +3212,7 @@ entailed. The Congressional Budget Office is directed to account for these
 long-term fiscal returns in scoring the fiscal impact of this Act.
 
 --------------------------------------------------------------------------------
-SEC. 508. EFFECTIVE DATE.
+SEC. 509. EFFECTIVE DATE.
 --------------------------------------------------------------------------------
 
 (a) GENERAL EFFECTIVE DATE.-- Except as otherwise provided in this Act, the
