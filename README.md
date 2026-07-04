@@ -124,6 +124,16 @@ This is why the program resists easy ideological classification. It is not a sta
 
 ---
 
+## On Human Rights
+
+A common objection to decentralized governance is that without a central enforcement authority, local communities can become exclusionary or abusive. This program addresses that concern architecturally. Every Qualified Federated Network must continuously demonstrate compliance with the Ostrom Standards of Stewardship to maintain certification and network access. A node that concentrates power, restricts exit, or strips membership rights begins failing its peer audits; the protocol responds by restricting resource flows and activating data portability for affected members. The network does not police morals. It enforces protocol health.
+
+Communities that build genuine inclusion into their own audit parameters out-innovate and out-survive monocultures. Diversity is not a mandate in this program; it is a competitive advantage. The math of systemic fitness makes the argument that legislation does not need to make by decree.
+
+The right to exit is guaranteed at the protocol level. Commons identity, provision rights, and governance standing migrate with the person to any other Qualified Federated Network.
+
+---
+
 ## The Proof of Concept
 
 The program is not theoretical. Every major institutional form it proposes to scale already exists and already functions:
